@@ -1,0 +1,429 @@
+// General
+	Skip Prologue:
+
+
+
+// Interaction Phase
+
+/	Call Yuu
+
+どうしたの？=What's wrong?
+なぁに？=What is it?
+んー？=Hmm?
+ん？=Hm?
+ん……=Nn...
+
+
+		#if Talk:
+
+ん、どうしたの？=Did you need anything?
+
+		Choices:
+エッチな話(LP10)=Talk about lewd things (LP 10)
+体を気遣う=How are you feeling?
+
+		#if "Tell horny stories "
+
+	#if Invite to Bed => Goes to bed event
+ん……=Nn...
+えっと……どうすればいい？=Umm...What should I do?
+	#out of rubber
+……シたかったら、ちゃんと準備しておいてね？=...If you want to do it, please prepare everything properly.
+きょ、今日はだめだよ。ゴム切れてるし。=Kyaa, Today is no good. We're out of rubbers.
+
+		#if No bath
+	
+……ん。しよっか？=...Nn. We're doing it?
+……お風呂まだだけど、いいの？=...I didn't take a bath yet, is that ok?
+へっ……ちょ、ちょっと待って。=Eee...W-Wait a moment.
+先にお風呂にしない？=\nWhy don't we take a bath first?
+へっ……ちょ、ちょっと待って。先にお風呂にしない？=Eee...W-Wait a moment.\nWhy don't we take a bath first?
+　汗臭かったりしても引かないでよ？= Won't you be disgusted if I stink of sweat?
+ええっ、本気ぃ……？=Eee, really...?
+あ、でも制服のままは嫌だよ？　汚れたり、シワになったら困るし。=Ah, can I remove my uniform first?\nI'm worried it'll get stained or wrinkled.
+
+一応聞いておくけどさぁ……=We can go but...
+まだお風呂入ってないけど、いいの？=\nI haven't taken a bath yet, is that okay?
+一応聞いておくけどさぁ……まだお風呂入ってないけど、いいの？=We can go but...\nI haven't taken a bath yet, is that okay?
+
+		#if Don't worry
+
+気にしないって、そういう問題じゃ……=You don't mind? But that's not the problem...
+もう……においとか、絶対嗅いだりしないでよね。=\nGeez...Don't you dare try to sniff me now.
+気にしないって、そういう問題じゃ……もう……においとか、絶対嗅いだりしないでよね。=You don't mind? But that's not the problem...\nGeez...Don't you dare try to sniff me now.
+
+		#if "Oh、That would be nice"
+……もしかして、おじさんってそういう趣味の人？=...By any chance, Oji-san are you into this kind of thing?
+う、うん。しよっか。=O-Ok. Shall we?
+Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
+えっと……じゃあ、どうすればいいのかな。=Umm...What should I do?
+まずはお口で……とか？=\nShould I start with my mouth...or?
+どうしようか……。=What should I do...
+それに……その、えっと……。=And there is also that...Umm...
+……あはは。ごめん、なんかテンパってるね。=...Ahaha, Sorry, I don't even know what I'm saying.
+正直良くわかんないし、おじさんに決めてもらっていい？= Honestly, I don't have any experience with it, can Oji-san take the lead?
+あ、あと服とかって、脱いだほうがいいよね？　そのままする？=Oh, I think it would be better if I took off my clothes right?
+
+		#if "Use your mouth"
+う、うん。いいよ。=O-Ok. I'll do it...
+あんまり、期待はしないで欲しいんだけど……。=Though, try not to expect too much...
+う、うん。いいよ。あんまり、期待はしないで欲しいんだけど……。=O-Ok. I'll do it...Though, try not to expect too much...
+
+		#if "Nevermind"
+え……しないの？=Eh...We're not doing it?
+
+		#if Blindfold
+……な、何？　どうするつもり？=...W-What? What are you going to do?
+
+---------------------------------------------------------------
+// Do some work
+
+なんで帰ってきたのにまだ働くの？　意味わかんない！= Why are you still working even though you just came back? I don't understand.
+うえー、やめなよぉ。=Wow, you never stop.
+ほらほら。そんなことよりこっちに来て、私と一緒にまったりしよ？　ね？=Hey Hey. Can't you come over here and relax with me?
+お仕事？　もう、ほどほどにね。=Work? Gosh, don't push yourself.
+夕は困った顔をしつつ、渋々お茶を煎れて見守ってくれた。=Yuu made a troubled face and drank some tea while watching over you.
+あなたは夕と雑談しながら、持ち帰った仕事……メールの返信や資料のまとめを少し片付けた。=While talking with Yuu, you were going through your emails, sorting documents, and tidying your work up.
+……おじさん。それ、私にも何か手伝えないかな？=...Oji-san. Well, is there work I can help you with?
+あなたが何かしているといつも隣で見ている夕が、今日はそんなことを言ってくる。=Yuu said that after having watched over you work for a while now.
+あなたがやっていたことは簡単なツールの作成と、その動作テストだった。=You were just creating a simple tool and testing it.
+扱うデータは仮のものなので、見せても問題はない。チェック項目も決まっている。少し教えれば夕もできるだろう。=It's fine to show her the data, since it's just a sample. The checklist looks fine too. You could spare some time to teach Yuu how to use it.
+私もちゃんと、勉強してるんだからね。= I've been studying properly.
+ふふふ、任せてよおじさん……=Fufufu, leave it to me Oji-san.
+ふふふ、任せてよおじさん……私もちゃんと、勉強してるんだからね。=Fufufu, leave it to me Oji-san. I've been studying properly.
+驚いたことに、夕はツールのコードが何をしているのかそれなりに理解していた。=Surprisingly, Yuu understood the tool's code.
+あなたは時々夕の疑問に答えながら、二人で和気藹々と作業を進めていく。=While answering some of Yuu's questions occasionally, the two of you worked together.
+山のようにあったチェックリストが埋まるのに、そう時間はかからなかった。=It didn't take long to finish the long checklist you had.
+……夕と一緒に、持ち帰った仕事を少し片付けた。=...Yuu took a portion of the work you brought home.
+---------------------------------------------------------------
+// Serve Tea
+
+_コーヒーを煎れる(あと<param%3D選択肢０>)= Coffee (+<param%3D選択肢０>AP)
+_カモミールにする(あと<param%3D選択肢１>)= Chamomile Tea (+<param%3D選択肢１>AP)
+コーヒーを煎れる(あと<param%3D選択肢０>)= Coffee (+<param%3DChoice０>AP)
+カモミールにする(あと<param%3D選択肢１>)= Chamomile Tea(+<param%3D選択肢１>AP)
+
+#if "Prepare Coffee"
+
+コーヒー？　うん、好きだよ。=Coffee? Yeah, I like it.
+おじさんが煎れてくれるの？　えへへ……楽しみだなー。=Oji-san will make it? Ehehe...I'm looking foward to it.
+わー、ありがとう。=Waa, Thank you.
+はぁ……おいしいね。なんだか大人って感じがするよ。=Wow...it's delicious. I feel like an adult somehow.
+
+#if "Prepare Chamomile Tea"
+
+はぁ……なんだかほっとする味だね。=Haa...It has a very soothing taste.
+ふわぁ……なんだか眠くなってきちゃった……=Fuwa...I feel somewhat sleepy now...
+私、先に寝ちゃったらごめんね。=Sorry if I fall asleep first.
+ふわぁ……なんだか眠くなってきちゃった……私、先に寝ちゃったらごめんね。=Fuwa...I feel somewhat sleepy now...Sorry if I fall asleep first.
+もし我慢できなかったら、寝てる間に襲ってもいいよ……うふふ……＠=If you can't stand it, you can attack me while I'm asleep...Ufufu...
+もし我慢できなかったら、寝てる間に襲ってもいいよ……うふふ……=If you can't stand it, you can attack me while I'm asleep...Ufufu...
+もし我慢できなかったら、寝てる間に襲ってもいいよ……うふふ……<color%3D#fca4bc>❤<color%3Dwhite>=If you can't stand it, you can attack me while I'm asleep...Ufufu...<color%3D#fca4bc>❤<color%3Dwhite>
+
+#if "Ask for Yuu"
+
+うん、お茶にしようか。ちょっと待っててね。=I'll make some tea. Give me a bit.
+おまたせー。今日は紅茶にしてみたよ。=Sorry for the wait. I made black tea today.
+はぁ……おいしいね。なんか久々だなー、こういうの。=Wow...It tastes really good.\nSomething like this once in a while is really nice.
+
+---------------------------------------------------------------
+// Take a Bath
+		Dialogue:
+うん、もうお湯張ってあるよ。先に入ってきて。=The water is already hot. You can go first. 
+ゆっくりくつろいでね。=\nWe can take our time...
+……夕と順番に風呂に入った。=...Yuu and you took a bath in turns.
+ふぅ……良い湯だった。=Fuu...what a nice bath.
+おじさん、ドライヤーは？　だめだよ、ちゃんと乾かさないと。=Oji-san, what about the dryer? You have to dry your hair properly.
+頭皮が傷んじゃうんだから。ほら、そこ座って。=Otherwise your scalp can get damaged.\nNow sit here...
+……夕に髪を乾かしてもらった。=...Yuu dried your hair for you.
+うんうん、そうしよ？　先に入ってきて良いからさ。=Yea, let's? You can enter first. 
+
+		#if "Go ahead、I'm taking a bath later."
+おじさんも、後でちゃんと入らないとだめなんだからね？=Oji-san has to properly take a bath later, alright?
+……もー。=Geez...
+……もー。おじさんも、後でちゃんと入らないとだめなんだからね？=Geez...Oji-san has to properly take a bath later, alright?
+
+		#if "I'm coming "
+うんうん、熱いうちに入ってきなよ。=Yeah, come in while it's still hot.
+さっぱりしたねぇ。=That was refreshing.
+
+-----------------------------------------------------------------
+// I'm spent
+
+	Dialogue:
+あれ、もう寝るの？=Oh, you're going to bed already?
+
+	Choices:
+寝る=Yes, let's sleep.
+
+	#if "I changed my mind"
+そう？　疲れてるなら無理しちゃだめだよ？=Really? Just don't overdo it if you're really tired.
+
+	#if "Yes、let's sleep."
+ん、わかった。おやすみなさい。=Hmm, Ok then. Good night.
+
+あ、あのさ、おじさん……今日は、エッチしないの？=U-Um, Oji-san...Are we not having sex today?
+
+	#if Stay up
+　寝る前にエッチして、すっきりしよ？= Let's have sex before we sleep, so we feel satisfied.
+……う、うん。そうしよ、ね？=...Y-Yea. Let's do that then?
+……う、うん。そうしよ、ね？　寝る前にエッチして、すっきりしよ？=...Y-Yea. Let's do that then? Let's have sex before we sleep, so we feel satisfied.
+
+	#if Sleep
+そ、そっか……そうだよね。毎日シたら、疲れちゃうもんね。=I-I see...That's right. You are exhausted every day.
+ごめんね、変なこと言って……おやすみなさい。=Sorry for saying such weird things...Good night.
+
+
+---------------------------------------------------------------
+// Touching Before Bath
+
+きゃっ……=Kyaa...
+……（じー）=...*stares*
+んっ……=Nn...
+ちょ、ちょっと……=H-Hey...
+服がしわになっちゃうからさ。= You're going to wrinkle my clothes.
+も、もぉ……するならちゃんと、脱いでしようよ。=G-Geez...If we're gonna do it, we have to take off our clothes.
+も、もぉ……するならちゃんと、脱いでしようよ。服がしわになっちゃうからさ。=G-Geez...If we're gonna do it, we have to take off our clothes. You're going to wrinkle my clothes.
+なんか、触り方がやらしい……=Somehow, it feels lewd the way you touch me
+も、もう……=G-Geez
+　……変な気分に、なってきちゃうじゃん。=\nI'm starting to feel weird.
+ちょ、ちょっと触りすぎ！=H-Hey, you're touching me too much!
+H-Hey, you're touching me too much!　……変な気分に、なってきちゃうじゃん。=H-Hey, you're touching me too much!\nI'm starting to feel weird.
+……そんなに大きい方じゃないけど、楽しい？=...They're not that big. Do you like them?
+もー、触りすぎー……=Geez, you're touching too much...
+物言いたげな視線が突き刺さる……。=She gave you an intimidating gaze...
+---------------------------------------------------------------
+// Touching After Bath
+
+	#Butt on Bed
+……何？　マッサージ？=...What? Massage?
+……い、意外と大胆だね=...Y-You're surprisingly bold
+困ったおじさんだなぁ……=Oji-san you're worrisome...
+……おじさんの、えっち=...Oji-san, ecchi.
+もー、エッチなんだから……。=Geez, ecchi...
+Kyaa...もー、エッチなんだから……。=Kyaa...Geez, ecchi...
+やっ……=Yaa...
+あっ……=Aa...
+ここまで堂々と触られたことは、さすがになかったよ……。= You're really touching me a lot.
+うわー、痴漢だー。=Uwaa, pervert.
+うわー、痴漢だー。ここまで堂々と触られたことは、さすがになかったよ……。=Uwaa, pervert. You're really touching me a lot
+
+	#Butt sitting
+ちょっとぉ、今こっそりめくろうとしたでしょー？=Hey, did you just try to sneakily touch me?
+Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？=Kyaa...Hey, did you just try to sneakily touch me?
+ほらぁ！　やっぱりめくってるじゃん！=Hey! You did touch me after all!
+……次やったら、怒るからね。=...I'll get mad if you do it again.
+……次やったら怒るって、言ったよね？=... I did say I'll get mad if you do it again, right?
+
+	#Head on Bed
+なぁに？　……ほめてくれるの？=Huh?...Are you praising me?
+……えへへ=...Ehehe
+……ふふ。どうしたの？　急に=...Fufu. What is it?\nSo suddenly.
+……ちょっと、子ども扱いしてない？=...Hey, aren't you treating me like a child?\n
+　……ふぅん。なら、いいんだけど……。=...Well, I don't really mind...
+もー、やめてよぉ。=Geez, stop it.
+髪がくしゃくしゃになっちゃう……。= My hair will get crumpled...
+夕は複雑な表情を浮かべながら、黙って頭を撫でられている。=Yuu was making a complicated expression as you gently caressed her head.
+
+	#if "Yes I did"
+わ、悪びれないね……。=Waa, you didn't even deny it...
+もー、何でそういうことするの？　パンツでも見たいの？=Geez, why'd you do that? Do you want to see my panties too?
+
+	#if "No、I haven't"
+　ごめんね……。= Sorry...
+……あ、あれ？　私の勘違いだった？=...H-Huh? Was it my mistake?
+……あ、あれ？　私の勘違いだった？　ごめんね……。=...H-Huh? Was it my mistake? Sorry...
+
+	#if "Show panties"
+もう、しょうがないなぁ……=Gosh, it can't be helped...
+いいよ。ほら……。=Sure. Here...
+もう、しょうがないなぁ……いいよ。ほら……。=Gosh, it can't be helped...Sure. Here...
+
+誰が見せるかー！　ばかー！=Who'll do that?! Stupid!
+
+	#if "Request"
+今回だけだからね。=Just this once.
+……もー。そんなに必死になるくらいなら、最初から素直にそう言えば良いのに……=...Fine. If you're so desperate, you should've been honest from the beginning...
+……もー。そんなに必死になるくらいなら、最初から素直にそう言えば良いのに……今回だけだからね。=...Fine. If you're so desperate, you should've been honest from the beginning...Just this once.
+
+	#if Wear Tights
+いいよ、履いてあげる……破いたりしちゃだめだよ？= Sure, I'll wear them...Don't tear them ok?
+タイツ、好きなんだ？=You like tights?
+タイツ、好きなんだ？　いいよ、履いてあげる……破いたりしちゃだめだよ？=You like tights? Sure, I'll wear them...Don't tear them ok?
+
+	#if "touch her butt"
+あっ……。=Ah....
+な、なに？=W-What?
+もしかして……我慢できなくなっちゃった？=Perhaps...\nYou can't endure it any longer?
+
+---------------------------------------------------------------
+// Talk Before Work
+
+	#if "Ask about her hairstyle"
+
+ああ、これ？=Oh, this?
+うちの学校、校則厳しくってさぁ。結んでないと怒られちゃうんだよね。= At my school, regulations are really strict. If you don't tie it, they'll get really mad.
+へっ？　可愛い？=Eh?\n...Cute?
+ ……あ、ありがとう。=...T-Thanks.
+　……あ、ありがとう。=...... T-Thanks.
+へっ？　可愛い？　……あ、ありがとう。=Eh?\n...Cute?...T-Thanks.
+……えへへ。じゃ、たまには家の中でも結んでみようかな？=...Ehehe. Well, maybe I should try to tie it more at home?
+を手に入れた！=Got it!
+<param%3D文字列>を手に入れた！=「<param%3D文字列>」 Got it!
+
+	#Ponytail
+あー、お風呂に入るときはいつもこうしてるんだ。楽だからね。=Well, I always do this when I take a bath. It's easy.
+いつもは乾かすときにほどいてそのままなんだけど、今日はなんとなく結び直しちゃった。=I always take it out when I'm dry, but today I managed to get it back.
+……いつもと違った雰囲気で新鮮でしょ？=...... Fresh in a different atmosphere than usual?
+ふふ。言ってくれればすぐにやってあげるよ。=Fu. I will do it soon if you say it.
+……いつもと違った雰囲気で新鮮でしょ？　ふふ。言ってくれればすぐにやってあげるよ。=...... Fresh in a different atmosphere than usual? Fu. I will do it soon if you say it.
+
+	#if "Ask about her life"
+
+	#1
+ん？=Hm?
+なんでこんなに良くしてくれるのかって？=Why do I try so hard to be good?
+そ、そっか……なら良かった。=\nI, I see...That makes me happy though.
+あ……もしかして、重かったかな。=Ah...Maybe, it's kind of hard to talk about.
+あ……もしかして、重かったかな。そ、そっか……なら良かった。=Ah...Maybe, it's kind of hard to talk about.\nI, I see...That makes me happy though.
+あのさ……私、良い子になりたいんだよね。=You know...\nI want to be a good girl.
+土曜の朝には、ちゃんと出ていくから……それまでここで、良い子の練習させてくれないかな。=I'll leave on Saturday morning so...\nuntil then, will you let me practice being a good girl?
+
+	#2
+あはは、そんなのいないよー。私、ずっと女子校だったし。= Ahaha, I have nobody like that. I've always been in girl's schools.
+他に頼れそうな人はいなかったのかって？　彼氏とか？=Do I have another person that I can rely on? Like a boyfriend?
+……それに私、嫌な子だったし。=...Besides, I was a bad kid.
+うちって、両親が結構エラい人でさ。それで、お山の大将だったっていうか……まあ、二人とも事故で死んじゃったけど。=Well, my parents were quite nice people, but because of that mountain...Well, both of them died in a car accident.
+後ろ盾がなくなったら、あっさり友達にも嫌われちゃったんだよね。=Using that as a pretext, all my friends stopped talking to me as well...
+……いや、もともと嫌われてはいたんだろうね。あはは……。=...Well, I guess they never liked me from the very beginning. Ahaha...
+
+	#3
+身寄りがなくなってからの話？=Story after my parents died?
+叔母さん夫婦の家に引き取られたんだけど、うちって親戚にもすっごい嫌われててさー……。= I was taken in by my Aunt and her husband, but my relatives really didn't like me...
+身寄りがなくなってからの話？　叔母さん夫婦の家に引き取られたんだけど、うちって親戚にもすっごい嫌われててさー……。=Story after my parents died? I was taken in by my Aunt and her husband, but my relatives really didn't like me...
+……何かされてないかって？　あはは、何もないよ。=...Did you do something bad, they asked. Ahaha, nothing at all. 
+むしろほんと、何もされないって言うか……=It's actually the truth, I didn't do anything, or rather...
+人間、完全に無視されるのが、一番堪えるんだなあって……。= For humans, being neglected, that's the hardest to bear isn't it...
+むしろほんと、何もされないって言うか……人間、完全に無視されるのが、一番堪えるんだなあって……。=It's actually the truth, I didn't do anything, or rather...For humans, being neglected, that's the hardest to bear isn't it...
+興味を持ってもらえるだけ、何かされた方が、まだマシだったかも。=As long as I got some attention, actually doing something might be for the better.
+許してもらえるように頑張ったんだけど、遅すぎたみたい。=I worked hard to get them to forgive me, but I was too late it seems.
+
+	#4
+うーん、家出の事情で話せるのはこのぐらいかな。ごめんね。=Well, that's everything I have to say about my situation. Sorry.
+今はもう、関わりがあるのはおじさんくらいだよ。=Right now, it's only Oji-san who's concerned.
+寂しい女子高生だよねえ。= I'm a lonely high school girl.
+今はもう、関わりがあるのはおじさんくらいだよ。寂しい女子高生だよねえ。=Right now, it's only Oji-san who's concerned. I'm a lonely high school girl.
+
+
+	#if "Chat with her"
+	Dialogue:
+	#1
+この辺って、妙に静かだよね。=It's strangely quiet here.
+下は空き部屋みたいだし、両隣もお爺ちゃんお婆ちゃんだしねえ。=The bottom seems to be an empty room, and both sides are occupied by old folks.
+この辺って、妙に静かだよね。下は空き部屋みたいだし、両隣もお爺ちゃんお婆ちゃんだしねえ。=It's strangely quiet here. The bottom seems to be an empty room, and both sides are occupied by old folks.
+え、うん。買い物帰りに会ったんだ。=Well, yeah. I met them on my way back from shopping.
+安心してよ。てきとーにごまかしておいたから。= But rest assured, because I managed to deceive them.
+ふふ……なんて言ったと思う？=Fufu...What do you think?
+	#2
+夕の家は厳しい家だったのだろうか、気になったあなたはそれとなく尋ねてみる。=You were wondering if Yuu's household was strict, so you tried to ask her indirectly.
+あれもだめ、これもだめって感じで……だから私、早く大人になりたかったよ。= Not just that, but I also felt like a failure...That's why I wanted to become an adult.
+厳しいっていうか、制限がすごいんだよね。=My family is strict about what I can do.
+厳しいっていうか、制限がすごいんだよね。あれもだめ、これもだめって感じで……だから私、早く大人になりたかったよ。=My family is strict about what I can do. Not just that, but I also felt like a failure...That's why I wanted to become an adult.
+習い事ばっかりだし、雑誌とか漫画もダメだから、こっそり買って学校で回し見とかしてたなぁ……。=I had lessons all day long and I couldn't read magazines or manga, so I bought them secretly and read at school...
+	#3
+……夕と他愛のない話で盛り上がった。=...Yuu and I had some exciting chat about love.	
+	#4
+ＴＶでも見るかって？=Do you want to watch TV?
+うーん、いいよ。どうせこの時間じゃ、ニュースしかやってないでしょ。= Well, that's fine. After all, at this time, there's only the news.
+ＴＶでも見るかって？　うーん、いいよ。どうせこの時間じゃ、ニュースしかやってないでしょ。=Do you want to watch TV? Well, that's fine. After all, at this time, there's only the news.
+夕はそう言うが、まだ普通にアニメもバラエティも放送されている時間だ。=Yuu said that, but there's still anime and variety shows being broadcasted.
+試しに電源を入れてみせると、夕は目を丸くして驚いた。=When I turned on the TV, Yuu opened her eyes in surprise.
+えええええええ！？=Eeeeeee!?
+……こんな世界があったんだ。私、何も知らなかった……。=...There was such a world. I never knew...
+……夕と一緒にサスペンスアニメを見た。=You watched the action anime with Yuu.
+
+	#if "Praise her cooking skill"
+	Dialogue:
+えへへ……どういたしまして。=Ehehe...Thanks.
+まぁ、学校でよく習うからね。家でもよく作ってたし。=Well, I learned most of it at school and practiced a bit at home.
+
+	Choices:
+料理学校なのか？=You learned cooking at school?
+家で？=At home?
+
+	#C1 "You learned cooking at school?"
+　古臭いとこだよー、びっくりするくらい。= It's quite old fashioned, right?.
+そういうわけじゃないんだけど……花嫁修行ってやつ？=It's that sort of thing...Bride training, you know?
+でも私、あんな学校で社会に出てから大丈夫なのか、ずっと心配だったんだけどさ……。=Well, I was quite worried if I'd be fine after I graduate. I was always worrying about such things...
+もしかして、意外と実践で役に立ってる……？=Perhaps, it actually was a good thing that I learned it...?
+
+	#C2 "At home?"
+……あー、うん。ちょっとね、自分で食べる分だけ。=...Ah, Yea. Sort of, I was always eating by myself.
+共働きだったのかって？ ……いや、そういうわけじゃないんだけど……。=Both parents were working? ...No, it wasn't the case...
+夕は明らかに口を滑らせたという風な顔で言いよどんでいる。=Yuu was making a face like she said something she shouldn't have.
+彼女の様子にあなたは引っ掛かりを覚えるが、今はまだ深く尋ねないことにした。=As you saw her complicated face, you decided to not probe any further.
+
+---------------------------------------------------------------
+// Watch TV
+#1
+昨年、過労死のもみ消し工作を裏付ける内部告発が大きな話題を呼んだＳグループは……。=Last year, the death of S group's President Nomeshiki Kosaku due to overwork became a big topic.
+騒動の渦中に社長が事故で亡くなるなど、事件が相次いでいる。=There are many cases of incidents similar to the president's death.
+現在は前社長の弟に当たる人物が社長代理を務めているが、経営陣の混乱は現場にまで波及しており……。=Currently the younger brother of the former president is acting as the new president、but chaos has spread all over the company. 
+……なんか、難しい話してるね。=...Sounds like something difficult to talk about.
+気になるの？= Are you worried?
+……なんか、難しい話してるね。気になるの？=...Sounds like something difficult to talk about. Are you worried?
+あなたは「親会社なので少し気になっただけ」と答えて、適当にチャンネルを変えた。=You answered "I was a little worried because I am from a parent company", and changed the channel right after.
+……そうなんだ。=...I see.
+#2
+今回の人事発表では、一年間社長代理を務めていたＴ氏が正式にＳグループ社長として就任することが発表されました。=Today, it was annouced that Mr. T, who had served as acting president for a year, has been officially appointed as the S group president.
+記者会見で新社長は組織改革に意欲を見せており、まずは信頼回復に努めたいと……。=During the press conference, the new president said he's motivated to reform the organization. His first objective is to regain our trust. 
+……だってさ。おじさんの会社も、少しは楽になるかもね。=...So they say. Maybe Oji-san's company might improve a bit.
+後釜になった人物も前社長の弟だ。どうせ何も変わらないだろう、とあなたは夕に答えた。=The current successor is the former president's younger brother. You tell Yuu that it will change nothing.
+……そうでもないかもよ？=...It won't?
+#3
+……特に興味を引く番組はなかった。=...There were no programs that were particularly interesting.
+
+// Buying
+
+何か買ったの？=Did you buy anything?
+明日の夕方に届く？　うん、わかった。受け取っておくね。=It'll arrive by tomorrow evening?\nOk, I'll receive it for you.
+
+// How are you feeling
+
+う、うん。大丈夫。=\nY-Yea. I'm doing fine.
+へっ？　体はなんともないかって……=Huh? Are you worried about my body?
+初めてだったけど、そんなに痛くなかったし……全然平気だよ。=Even though that was my first time, it didn't hurt that much...I'm completely fine.
+エッチ……しちゃったんだねえ、私たち。=Sex...We did it, the two of us.
+……あはは。なんか今更、恥ずかしくなってきちゃった。=...Ahaha. I'm getting embarassed now.
+……あはは。なんか今更、恥ずかしくなってきちゃった。エッチ……しちゃったんだねえ、私たち。=...Ahaha. I'm getting embarassed now. Sex...We did it, the two of us.
+
+// Change Clothes
+
+#if Micro Bikini
+もう、だから言ったでしょ！　次のデートまで待ってて！=Geez, I said it already! Wait until our next date!
+
+#if "Underwear"
+へ？　下着？=Eh? My underwear?
+……う、うん。わかった。ちょっと待ってて。=...O-Ok. I understand. Give me a second.
+お、お待たせー。=S-Sorry for the wait.
+えへへ……結構可愛いでしょ？　これ、気に入ってるんだ。=Ehehe...it's pretty cute isn't it? I really like this one.
+……やっぱ男の人って白が好きなの？=...As I thought, Men like white dont they?
+えへへ……どう？　色っぽい？=Ehehe...How is it? Sexy?
+
+#if "keep staring"
+あの……そんなに見つめられると、さすがに恥ずかしいんだけど。=Um...If you keep staring like that, I'll get embarrased.
+……も、もう。じろじろ見すぎ！　もうおしまい！=...G-Geez. You're staring too much! No more!
+……も、もういいでしょ？　そろそろ……。=...I-It's enough right?\nStaring that much...
+
+// Touch butt on bed 
+
+ダメだよ、約束でしょ？=Do you remember our promise?
+……あ、ゴム切れてるじゃん。=...Ah, we're out of rubbers.
+……あ、ゴム切れてるじゃん。ダメだよ、約束でしょ？=...Ah, we're out of rubbers. Do you remember our promise?
+
+
+// End of day
+
+夜も更けてきた……今日はもう休もう。=It's getting late...\nLet's call it a day.
+私ももう眠いや。=  I'm soo sleepy.\n
+おじさん、おやすみなさい。=Oji-san, Good night.

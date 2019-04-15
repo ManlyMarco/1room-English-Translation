@@ -1,0 +1,590 @@
+//Main Menu
+
+カテゴリ名=Category name
+キャンセル=Cancel
+どのデータをロードしますか？=Which save to Load?
+Day2(日) あと5日=Day 2 (day) 5 more days
+(日) あと6日=(Sunday) 6 more days
+<size%3D28>Day</size>2<size%3D28>(日) あと6日</size>=<size%3D28>Day</size>2<size%3D28>(Sunday) 6 more days</size>
+部屋エッチ早送り速度=Ecchi-scene speed
+選択肢でスキップ解除=Skip Until Choice
+エッチシーンＢＧＭ=Ecchi Scene BGM
+テキスト表示速度=Text Speed
+初期化=Reset config
+効果音=Sound effects
+未読スキップ=Skip Unread Text
+ボイス=Voice Volume
+自動ページ送り速度=Auto Mode speed
+タイトルに戻る=Return to title
+断面図表示=Cross section view
+
+// Load Screen
+
+シーンタイトル=Scene title
+シーン=Scene
+
+// Save Screen
+
+どのデータにセーブしますか？=In which slot you will save?
+
+
+//Gallery
+ General info:
+未解放のシーンにカーソルを乗せるとヒントが表示されます=Hints will be displayed when the cursor is placed on a locked scene.
+
+着衣=Clothed
+下着=Underwear
+全裸=Naked
+桃=Peach
+黒=Black
+白=White
+ポニーテール=Ponytail
+二つ結び=Low Twintails
+目隠し=Blindfold
+なし=None
+
+初めてお口で= Her first Blowjob
+上手になった？=Gotten better?
+体操服で=In gym clothes
+初めてのキス=First kiss
+ラブホのベッドで=Love Hotel Bed
+登校前に=Before attending school
+休日の朝に=On a holiday morning
+眠る夕を=Sleeping Yuu
+一人でこっそり=Secretly alone
+初めてのクンニ=First time cunnilingus
+我慢の限界=Limit of patience
+ラブホのお風呂で=Love Hotel Bath
+眠るおじさんを=Sleeping Oji-san
+貸切露天で=In the open-air bath
+旅館の夜=Inn at night
+朝まで何度も=Many times until morning
+エピローグ=Epilogue
+ 
+０１：夕に口でしてもらう=01: Have Yuu give you a blowjob.
+０２：何度も口でしてもらっていると…？=02: When you give a blowjob many times...?
+０３：金曜の夜、部屋に置かれている体操着袋をクリック=03: On Friday at night. Click on Yuu's gym bag.
+０４：休日に夕をデートに誘う=04: Invite Yuu to a holiday date.
+０５：０４の続き=05: Continuation of 04.
+０６：早めに休んで平日の朝を迎える（０４以降）=06: Take a rest before going to work on a weekday. (after 04)
+０７：休日前に何度も絶頂させる（０４以降）=07: Climax many times before a holiday. (after 04)
+０８：先に眠ってしまった夕を襲う=08: Assault Yuu for the first time when she falls asleep.
+０９：しばらく放置していると、入浴後に…？（０４以降）=09: Shortly after bathing, open the door and...? (04 or later)
+１０：０９をもう一度見に行くと…？=10: When will you do it again...?
+１１：１０の続き=11: Continuation of 10.
+１２：マＸＸＸＸＸニを買ってから休日に出かける（０４以降）=12: Go out on a holiday after you bought a... (after 04)
+１３：しばらく放置したまま、早めに休むと…？（０４以降＆０８以降）=13: What happens if you go to sleep early after taking a bath? (after 04 or 08)
+Ａ１：旅行ガイドを買ってから、部屋画面で夕を旅行に誘う（０４以降）=A1: After buying a travel guide, invite Yuu to travel on the room screen. (after 04)
+Ａ２：Ａ１の続き=A2: Continuation of A1.
+Ａ３：Ａ２の続き=A3: Continuation of A2.
+-----------------------------------------------------------------------------------------------------------------------------
+
+//BGM
+
+灰色生活=Gray life
+まどろみ=Madoromi
+朝=Morning
+開封の儀=Opening Ceremony
+穏やか=Gentle
+安らぎ=Peace
+二人の時間=Two people's time
+小旅行=Small Trip
+-----------------------------------------------------------------------------------------------------------------------------
+// Her name
+夕=Yuu
+
+// Stats
+胸感度=Chest 
+クリ感度=Clitoris
+膣感度=Vagina 
+
+好感度=Love
+満足度=Satisfied
+淫乱度=Lust
+
+#Ero-Record
+おもちゃ=Sex Toys
+ごっくん=Swallow
+ぶっかけ=Bukkake
+キス=Kiss
+クリイキ=> Clit
+クンニ=Licking
+セックス=Sex
+ソトだし=> Outside
+ナカだし=> Inside
+ナカイキ=> Insides
+フェラ=Fellatio
+口内射精=In mouth
+射精=Ejaculate
+愛撫=Caress
+絶頂=Climax
+
+// Ero-Scene
+
+[SPACE]早送り=[SPACE] Hold for fast forward
+夕の快感度。満タンになると…？=Yuu pleasure bar, what happens if it gets full...?
+行動メニュー=Action menu
+残りコンドーム数=Remaining number of comdoms
+ライフ：あなたの活力を表すパラメータ=LP: Life Points
+残り射精回数=Remaining ejaculations
+ヘルプの表示を切り替えます=Toggle help display on/off
+断面図の表示を切り替えます=Toggle section view on/off
+タッチアクションを変更します=Change touch action
+中断、または体位を変更します=Interrupt or change your posture
+
+#COSTUME
+ブラを外す=Remove bra
+ブラをずらす=Shift bra
+ブラを戻す=Put back bra
+パンツをずらす=Shift panties
+パンツを脱がす=Remove panties
+パンツを降ろす=Pull down panties
+パンツを戻す=Put back panties
+タイツを脱がす=Remove tights
+
+#Comdom
+ゴムを着ける=Put on comdom
+
+#HANDS
+足を開く=Open her legs
+股間を弄る=Touch her pussy
+手を離す(股間)=Stop using fingers (Pussy)
+指を抜く=Remove Fingers
+指を入れる=Insert Fingers
+尻を揉む=Grope Buttocks
+手を離す(尻)=Release your Hand (Butt)
+股間に当てる(バイブ)=Press against slit (Vibe)
+離す(バイブ)=Remove(Vibe)
+ＯＮ(バイブ)=ON (Vibe)
+ＯＦＦ(バイブ)=OFF (Vibe)
+挿入する(バイブ)=Insert (Vibe)
+抜く(バイブ)=Pull out (Vibe)
+胸を触る=Touch her chest
+手を離す(胸)=Release your hand (chest)
+入れて=Enter her
+抜いて=Take it out
+動いて=Move
+指で開く=Open with finger
+手を離す=Release fingers
+クンニする=Lick her
+口を離す=Stop licking
+
+
+
+#PENIS
+挿入する=Insert penis
+……生で、そのまま挿入した。=I just inserted it raw...
+
+ゆっくり動く=Move Slowly
+浅めに戻す=Move very gently
+緩やかに戻す=Move gently
+もっと深く=Go deeper
+激しくする=Move harder
+抜く=Pull out
+止める=Stop
+
+外に出す=Cum outside
+中で出す=Cum inside
+
+// Tips
+
+インベントリ=Inventory
+夜の自室=Night Phase
+システム=System
+エッチ=Ecchi
+操作説明=General info
+夜の行動選択=Night action choice
+オートセーブは行動選択開始時に更新されます。=Auto save is updated at the start of action selection.
+お気に入りに設定しておくことで、夕はその部屋着と下着を優先して身につけてくれます。=By favoriting an item, Yuu gives priority to wearing that clothing/underwear.
+夕はタッチして呼びかけることもできます。=You can also touch Yuu by clicking on her.
+選択肢にはLPを必要とする項目が表示されることがあります。=Actions requiring LP may be displayed in choices.
+持っているアイテムを使ったり、好きな衣装に着替えてもらうよう頼むことができます。=You can ask her to use a specific item on the inventory or change to her favorite costume.
+部屋エッチでは、夕の体を直接タッチして愛撫することもできます。=During ecchi, you can also caress Yuu by touching her body directly.
+Ａキー：自動文章送り\nＥＳＣキー：オプション=A- key: Auto read mode \nESC key: Open config.
+最新の配達ドローンによる送料無料と高速配送がウリの、人気通販サイトです。=Buy anything from the popular online store "Uri", free shipping by tomorrow evening with our drones.
+ローターを持っている場合、画面内の夕に対して使うことができます。=If you have a rotor, you can use it on Yuu during the ecchi scene.
+表示が？？？になっている項目は、特殊なアイテムを購入することで数値が表示されるようになります。=Can you see the ??? Numbers will appear when you purchase special items.
+入浴にはLPの回復と、当日中のパラメータ上昇量を高める効果があります。=Bathing has the effect of recovering LP and increasing the amount you gain for the rest of the day.
+ホイール↑：バックログ右クリック：ウィンドウ消去=Scroll Up：Back Log\nRight click：Hide UI
+ゲーム中にタイトルに戻りたいときは、一度オプションを開いてみてください。=If you want to return to the title screen, open the options menu.
+一度見たＨシーンはアルバムに登録され、タイトル画面から閲覧することができます。=After seeing a H scene, it will be registered in the album and can be viewed from the title screen.
+ＣＴＲＬ：強制スキップＳキー：既読スキップ=ＣＴＲＬ：Force Skip\nＳ-Key：Skip read
+夕をタッチする部位によっては特別な反応が得られます。あまり触りすぎると……？=Depending on where you touch Yuu, she will give a different response. If you touch her too much...?
+注文した商品は翌日夕が受け取ってくれており、帰宅後に一緒に開封します。=Yuu will receive the items you ordered tomorrow evening and will open them together after you return.
+Ａキー：自動文章送りＥＳＣキー：オプション=Ａ-key：Automatic text\nＥＳＣ-key：Options
+-----------------------------------------------------------------------------------------------------------------------------
+
+// General UI
+
+[ホイール↑]メッセージログを確認します=[Wheel ↑] Message Log
+[右クリック]ボタンなどの表示を一時的に隠します= [Right Click] Hide message
+[ESC]環境設定を変更します=[ESC] To call out Menu
+スキップ=Skip
+夕とあなたの貯金額=Yuu and yours savings amount
+就寝までの残り行動回数=Remaining actions until bed time
+ショップ=Shop
+夕飯後。=After dinner
+ゲーム経過日数=Elapsed days
+[S]セーブ画面を開きます=[S] Open save screen
+[L]ロード画面を開きます=[L] Open the loading screen
+
+-----------------------------------------------------------------------------------------------------------------------------
+// TAB MENU
+
+[TAB]夕の状態と持ち物を確認します=[TAB] Check Yuu's condition and Inventory
+エッチの記録=Ero Record
+緊張気味=Feeling Nervous
+上機嫌=Good mood
+週=Week
+累計=All
+芹沢 夕=Serizawa Yuu
+名前３４５６７８=Number 345678
+戻る=Return
+
+Home Items:
+使う=Use
+コーヒー豆= Coffee beans
+行動回数が２回復する。さらに気分が良くなる=Has a good taste. Recover 2 AP.
+カモミール=Chamomile
+安眠効果のあるハーブティー=Herbal tea that induces drowsiness.
+ファッション雑誌=Fashion magazine
+女性服を選ぶ参考になりそう=It will be helpful to choose womens' clothes.
+アダルト雑誌=Adult magazine
+アダルトグッズ特集が組まれている=Adult goods featured
+難しい技術書=Difficult skill book
+簡単な技術書=Simple skill book
+初歩的なことが書かれた入門書=An introductory book with basics written.
+ビジネス書=Business book
+行動回数が１増える=The number of actions increases by one.
+最新転職ガイド=Job change guide
+旅行ガイド=Travel guide
+ゆったりくつろげる温泉宿特集=A relaxing hot spring hotel report.
+
+Clothing:
+着替えてもらう=Change to it
+変更する=Change
+紺のセーラー服= Navy blue sailor suit
+あまり見かけない学校の制服=Your usual school uniform.
+Ｙシャツ= Your shirt
+着古して少しほつれた男物のＹシャツ=Your frayed shirt.
+パジャマ=Pajamas
+肌にやさしいコットン１００％=100% cotton、gentle to the skin.
+涼しげな部屋着=Cool room clothes
+ノースリーブとホットパンツ=Sleeveless top and hot pants.
+体操着=Gym Uniform
+半袖のシャツとブルマ=Short sleeved shirt and bloomers.
+よそ行きの私服=Casual clothing
+Ｖネックニットとフレアスカート=V-neck knit and flared skirt.
+マイクロビキニ=Micro bikini
+とても着てもらえそうにない=Not very likely to wear it.
+可愛い下着= Cute underwear
+薄いピンク色の下着=Light pink underwear.
+清楚な下着=Neat underwear
+真っ白な下着=Pure white underwear.
+セクシーな下着=Sexy underwear
+黒レースの下着=Black lace underwear.
+セミロング= Shoulder length
+
+Sex Items:
+コンドーム= Condom
+精力剤=Energizing Drink
+一日だけ射精回数の上限を増やす=Increase the number of times you can cum for a day.
+ローション=Lotion Bottle
+強制的に挿入可能にする=Force insertion possible.
+媚薬クリーム=Aphrodisiac cream
+塗った場所の感度を高める=Increase the sensitivity of the applied area.
+視界を遮って快感に集中させる=Block the view and focus on pleasure.
+ピンクローター=Pink rotor
+タッチ操作にローターが加わる=Rotor added to touch option.
+バイブ=Vibe
+体育座りの時にパンツを降ろして使う=When sitting, pull down her pants to use.
+心理学入門=Intro to Psychology
+好感度と信用の数値がわかるようになる=Display values for her Love/Lust/Satisfaction.
+乙女の秘密=Maidens Secret
+ちょっとエッチなステータス表示が解禁される=The slightly naughty status display is released.
+透視メガネ=Perceptive glasses
+
+Trophies:
+フルコンプ=Full Completion
+全アイテム入手=Get all items
+全てのアイテムを取得した=I got all the items
+全体位解放=All Positions
+全ての体位を解放した=Unlocked all positions
+協力関係=Coop Relationship
+同棲生活を無期限延長する=Extend cohabitation life indefinitely
+協力関係+=Cooperation +
+日曜を休めるようになる=Will be able to rest on sunday
+協力関係++=Cooperation ++
+日々の貯金額にボーナスが付く=A bonus is attached to the daily savings amount
+恋人関係=Lover relationship
+避妊の用意がなくても拒まれなくなる=Won't decline even without contraception
+恋人関係+=Lover relationship +
+ナカ出しで好感度が上がるようになる=Nakadashi will become more favorable
+恋人関係++=Lover relationship ++
+アルバムにシーン14が解放される=Scene 14 is released in the album
+初めての相手=First Time
+好感度が少し上がりやすくなる=Your relationship with her rised a little
+ファーストキス=First Kiss
+タッチ操作に口が追加される=Mouth is added to touch operation
+ナカイキ達成=Making her cum
+正常位で足閉じ時も挿入できるようになる=Can insert even when legs are closed in missionary
+ナカ出し達成=Nakadashi
+淫乱度が少し上がりやすくなる=Lewdness is likely to rise a little
+フェラ解禁=Fellatio
+部屋エッチ前に口でしてもらえる=You used her mouth during ecchi
+イラマチオ解禁=Deep Throating
+フェラ時のコマンドが増える=More commands during blowjob
+寝バック解禁=Laying Doggy
+体位選択に寝バックが追加される=Laying Doggy is unlocked
+後背位解禁=Doggy Style
+体位選択に後背位が追加される=Doggy style is unlocked
+松葉崩し解禁=Thigh Up
+体位選択に松葉崩しが追加される=Thigh up is unlocked
+まんぐり返し解禁=Pile Driver
+体位選択にまんぐり返しが追加される=Pile Driver is unlocked
+騎乗位解禁=Cowgirl
+背面騎乗位解禁= Reverse Cowgirl
+機嫌が良い時に上になってもらえる=Get up when you feel good
+側位解禁= Sideways Position
+体位選択に側位が追加される=Sideways position unlocked
+
+「初めての相手」=My first time
+「フェラ解禁」=Fellation ban
+
+トロフィー取得「=Trophy Unlocked 「
+トロフィー取得「Making her cum」=Trophy Unlocked 「Making her cum」
+トロフィー取得「Doggy Style」=Trophy Unlocked 「Doggy Style」
+体操着を手に入れた！=Got gym clothes!
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+// Mail Order
+
+[A]通販サイトにアクセスします=[A] Access to mail-order site
+説明３４５６７８９０１２３４５６７８９０１２３４= Explanation 3456789012345678901234
+安心と信頼の業界最安値\nドローン便で最短翌日にお届け=Fast and reliable delivery service. Receive your order by tomorrow evening.
+安心と信頼の業界最安値ドローン便で最短翌日にお届け=Fast and reliable delivery service. Receive your order by tomorrow evening.
+
+Dialogue:
+そういえば、荷物届いてたよ。=By the way, your packaged arrived.
+おじさんって、コーヒーはちゃんと豆からいれてるんだ。=Oji-san, you like to grind up the beans yourself?
+やっぱり男の人はこういうところ、こだわってるんだねえ。= I guess men are particular about this.
+おじさんって、コーヒーはちゃんと豆からいれてるんだ。やっぱり男の人はこういうところ、こだわってるんだねえ。=Oji-san, you like to grind up the beans yourself? I guess men are particular about this.
+　……えへへ、楽しみにしてるね。=...Ehehe, I'm looking forward to it.
+ね、私にも後でごちそうしてくれる？=Hey, can you let me try it sometime?\n
+ね、私にも後でごちそうしてくれる？　……えへへ、楽しみにしてるね。=Hey, can you let me try it sometime?\n...Ehehe, I'm looking forward to it.
+パ、パジャマ？　私に？=P-Pajamas? For me?
+早速着替えてくるね。=Let me try changing into it.
+わー、可愛い……=Waa, It's cute...
+わー、可愛い……早速着替えてくるね。=Waa, It's cute...Let me try changing into it.
+……ありがと、おじさん。=...Thank you, Oji-san.
+えへへ、サイズも丁度良いね。=Ehehe, the size is just right.
+男の人って、やっぱり白い下着が好きなんだねえ。=Men really do like white underwear.
+うーん、正直助かるんだけど……なんだか複雑な気分……=Well, You are helping me out...I feel somewhat conflicted...
+うーん、正直助かるんだけど……なんだか複雑な気分……男の人って、やっぱり白い下着が好きなんだねえ。=Well, You are helping me out...I feel somewhat conflicted...Men really do like white underwear.
+……せっかくだし、お礼に着てみてあげよっか？=...Anyway, I'll try it on as gratitude for your help.
+えへへ……どうかな。=Ehehe...I wonder.
+……すごいね、おじさん。サイズぴったりだったんだけど。=...Amazing, Oji-san. The size is perfect.
+……今日はこれ着て、する？=...Do you want me to wear this today?
+も、もう。そんなに見られたら恥ずかしいよ=G-Geez. It's embarassing if you keep staring.
+も、もう。そんなに見られたら恥ずかしいよ……今日はこれ着て、する？=G-Geez. It's embarassing if you keep staring.\n...Do you want me to wear this today?
+ノートＰＣを閉じて顔を上げたあなたは、夕がじっとこちらを見ていることに気付いた。=After closing my laptop and looking up, I noticed  that Yuu was looking at me.
+ね、それってパソコンだよね？=Hey, that's a computer right?
+いつもそれで仕事したり、買い物したりしてるの？　すごいねえ。= Are you always working or shopping with it? That's amazing.
+ね、それってパソコンだよね？　いつもそれで仕事したり、買い物したりしてるの？　すごいねえ。=Hey, that's a computer right? Are you always working or shopping with it? That's amazing.
+でもこれ、もうネットとか繋がらないんだよね……。= But this can't connect to the internet anymore...
+……私のスマホでもできるだろうって？=...Can you do it with my smartphone?
+……私のスマホでもできるだろうって？　でもこれ、もうネットとか繋がらないんだよね……。=...Can you do it with my smartphone? But this can't connect to the internet anymore...
+キャリアとの契約が切れてるだけだから、とりあえずWi-Fiに繋げば良い？　わいふぁいってなに？=I don't have a contract anymore, so I should use Wi-Fi for now? What's Wi-Fi?
+今更ながら、勤務中に夕と連絡手段がないのは不便だ。=It'd be inconvenient to have no means of contact with Yuu while at work.
+設定ついでに簡単にメッセージのやりとりができるようにしておくと、夕は目を丸くして驚いていた。=Yuu was surprised that it was so easy to exchange messages after setup.
+え……い、いいのこれ？　お金とかかかるんじゃないの？=Eh...I-Is this fine? It doesn't cost money or anything?
+……そ、そっか……なら、良いんだけど……。=...I-I see...If it works then...
+はぁ……私って本当に、世間知らずだねえ……。=Haa...I really don't know much about the world...
+どうしたの急に、こんなもの買って。=What made you buy this?
+人の心がわかれば仕事でも私生活でも便利？　ふぅん……。=It's useful in both work and private life to understand people? Hmm...
+あ、ぎゃるずじゃん。=Ah, a girls magazine.
+私が好きそうだと思って注文してくれたの？= Did you order it because you thought I'd liked it?
+あ、ぎゃるずじゃん。私が好きそうだと思って注文してくれたの？=Ah, a girls magazine. Did you order it because you thought I'd liked it?
+この表紙のモデルの子、好きなんだよね。着てる服もかわいー。=I like the model on the cover. Her clothes are nice too.
+うちってお堅い家だったから、薄着だったりオシャレなのはおねだりできなかったんだよね。=Since my house was so strict, I couldn't ask for anything fashionable.
+ありがと、おじさん。= Thank you, Oji-san.
+だから、こういうのは見てるだけで楽しいよ。=So it's fun just looking at these things.
+だから、こういうのは見てるだけで楽しいよ。ありがと、おじさん。=So it's fun just looking at these things. Thank you, Oji-san.
+もう、おじさんったら。家でも難しい本読んだりして……ちゃんと休まないと疲れちゃうよ？=Geez, Oji-san. Reading difficult books at home...Won't you get tired?
+え、違う？　早く仕事を終わらせればもっと早く帰って来られるから？=Eh, no? If you finish your work faster, you can come back sooner?
+　そ、そうなんだ……えへへ、嬉しいな。= So that's why...Ehehe, I'm glad.
+私との時間を増やすためのすきるあっぷ？=The advantage is that you get to spend more time with me?
+私との時間を増やすためのすきるあっぷ？　そ、そうなんだ……えへへ、嬉しいな。=The advantage is that you get to spend more time with me? So that's why...Ehehe, I'm glad.
+ね……私も隣で、ちょっと読ませてもらっても良い？=Hey...Can you let me take a look?
+おじさんの仕事とか、パソコンとか、ちょっと興味あるんだよね。=I'm interested in Oji-san's work and computers.
+すごい……全然わかんないや。=Wow..I don't understand anything.
+プロって……働くって、大変なんだねぇ……。=Pros...Must be really tough...
+	#After purchasing
+……ノートＰＣを使っていると、相変わらず夕の視線を感じる。=...While using the laptop, you could feel Yuu's gaze.
+……へっ？　そんなに気になるなら使ってみれば良いって？=...Eh? If I'm so interested why don't I try to use it?
+　い、いいの？　壊しちゃわないかな……。=I-Is it fine? What if I break it...
+普段通販サイトを見ているのは自宅用の型落ちＰＣなので、データが消えようが別段問題はない。=It's a laptop for home use, so it's just for browsing the net casually. It's not much of an issue if the data were deleted.
+そう言って簡単に使い方を教えると、夕は意外と軽快なタイピング見せてくれた。=You told Yuu it was simple and showed how to use it. Yuu's typing was a bit slow at first.
+スマホと同じだからねえ。フリック入力とか、良くわかんなかったし。=It's similar to a smartphone. I don't really understand this flick input.
+使ってないときは好きにして良い？　あ、ありがとう。=I can use it when you're not? T-Thank you.
+てっきり大きな画面でネットでも見たいのかと思ったが、夕は入っているソフトの使い方を事細かに尋ねてくる。=I thought she just wanted a bigger screen, but Yuu was curious about the software you had too.
+おじさんの会社の人って、普段はＰＣでどんなことしてるの？=What does Oji-san's company usually do on a PC?
+……ソリティア？　偉い人だけできるの？=...Software? Can only skilled people do it?
+おー、なんかすごいソフトだね。私も出来るようになれるかな……。= Ah, that sounds interesting. I wonder if even I could do it someday...
+……ソリティア？　偉い人だけできるの？　おー、なんかすごいソフトだね。私も出来るようになれるかな……。=...Software? Can only skilled people do it?  Ah, that sounds interesting. I wonder if even I could do it someday...
+	#Cool Room Clothes
+荷物の受け取りするのに、ずっと制服着てたから助かるよー。= I've always been wearing my uniform, so this is a nice change.
+あ、良いなこれ。=Oh, this is good.
+あ、良いなこれ。荷物の受け取りするのに、ずっと制服着てたから助かるよー。=Oh, this is good. I've always been wearing my uniform, so this is a nice change.
+……あ。この前のファッション雑誌って、そういうこと？=...Ah. It's from that fashion magazine?
+でもよく見つけたね、こんな可愛い服=But, how did you find such cute clothes
+でもよく見つけたね、こんな可愛い服……あ。この前のファッション雑誌って、そういうこと？=But, how did you find such cute clothes....Ah. It's from that fashion magazine?
+おー、さすがおじさん。できる男だねえ。=Oh, as expected Oji-san. You can be a man if you try.
+	#Casual Clothes
+これ、私に？　な、なんで？=This is for me? H-How come?
+おじさんがそうしたいなら良いけど……忙しいのに、いいの？= It's fine if Oji-san wants to do it...but you're busy, will it be ok?
+今度これ着て、どこかに出かけようって？=Next time I'll wear it when we go out?
+今度これ着て、どこかに出かけようって？　おじさんがそうしたいなら良いけど……忙しいのに、いいの？=Next time I'll wear it when we go out? It's fine if Oji-san wants to do it...but you're busy, will it be ok?
+……う、うん。わかった。=...O-Ok. I understand.
+えへへ……楽しみにしてるね。=Ehehe...I'm looking forward to it.
+	#Chamomile Tea
+いいよねハーブティー、私も結構好き。=Oh, good, I like herbal tea.
+でも、カモミールは飲むとすぐ眠くなっちゃうんだよね。=But, chamomile tea will make you sleepy.
+おじさんは大丈夫なの？　そっかぁ……先に寝ちゃったらごめんね。=Will Oji-san be ok? I see...if I fall asleep first, I'm sorry.
+	#Energizing Drink
+や、ヤる気まんまんだね……今夜は寝かさないぞ、みたいな？=You seem motivated...I guess we won't be sleeping much tonight?
+こういうのって本当に効くのかなぁ……エッチな広告でよく見かけるけどさ。=Is it really effective? I've seen them a lot in ecchi ads.
+……そうだね、試してみればいっか。=...Well, we can try it.
+うふふ、ちょっと楽しみかも……＠= Ufufu, I'm kind of looking forward to it...
+……そうだね、試してみればいっか。うふふ、ちょっと楽しみかも……=...Well, we can try. it Ufufu, I'm kind of looking forward to it...
+……そうだね、試してみればいっか。うふふ、ちょっと楽しみかも……<color%3D#fca4bc>❤<color%3Dwhite>=...Well, we can try. it Ufufu, I'm kind of looking forward to it...<color%3D#fca4bc>❤<color%3Dwhite>
+	#Black lace underwear
+なんで下着って、黒いと大人っぽい感じがするんだろうね。=Why does... black underwear give off such a strong adult aura. 
+女の子が好きで着けてるというより、見せることを意識してる感じがするのかな……？=Rather than wear it because they like it, do girls put these on expecting to be seen...?
+まあ、せっかく買ってもらったし……私もこれで、おじさんを悩殺してあげるよ。=Well, since you already bought it...I'll too use them to charm Oji-san.
+	#Easy Book
+勉強熱心だねぇ。= I'm eager to study it.
+あ、また本買ったんだ。=Oh, you bought another book.
+あ、また本買ったんだ。勉強熱心だねぇ。=Oh, you bought another book. I'm eager to study it.
+へっ、これは私に？　気になってたみたいだから？=Eh, this is for me? Because I seemed interested?
+私、頑張ってみるね。= I'll try my best.
+……あ、ありがとうおじさん。=...Oh, Thank you Oji-san.
+……あ、ありがとうおじさん。私、頑張ってみるね。=...Oh, Thank you Oji-san. I'll try my best.
+	#After pill
+もう、わざわざこんなもの買って……そんなに生でしたかったの？=Geez, you already bought something like this...Did you really want to do it raw?
+まだ学生の私にお薬飲ませて中出ししたがるなんて、ひどいおじさんだね。=Giving medication to a student and wanting to cum inside, bad Oji-san.
+……うふふ、冗談だって。ちゃんと約束は守ってくれてるし、使ってもいいよ。=...Ufufu, just kidding. You kept your promise, so it's ok if you use it.
+	#Lotion Bottle
+……おじさん、私これ知ってるよ。潤滑ローションっていうんでしょ。=...Oji-san, I know what this is. It's a lubricating lotion.
+こ、このぐらい普通知ってるって。薬局にも置いてあるし……。=I know that much. They have them at pharmacies...
+……今日は、これ使ってエッチするんだよね？=...You're using it today right?
+私をぬるぬるにして、楽しむつもりなんだ……。= It's going to make me slimy, it'll be fun...
+……今日は、これ使ってエッチするんだよね？　私をぬるぬるにして、楽しむつもりなんだ……。=...You're using it today right? It's going to make me slimy, it'll be fun...
+	#Adult Magazine
+ご、ごめんね。勝手に開けちゃまずかったよね。= S-Sorry. Maybe you wanted to open it yourself.
+……あっ。=...Ah.
+……あっ。ご、ごめんね。勝手に開けちゃまずかったよね。=...Ah. S-Sorry. Maybe you wanted to open it yourself.
+私は何も見なかったから……はい、どうぞ。後はごゆっくり……。=I didn't see anything...Here you go. Enjoy it slowly...
+へっ、誤解？　私も一緒に見てもいい？=Eh, I'm misunderstanding? You want to look at it together?
+これからのエッチの参考にしようって……どんなプレイさ！　バカー！=As reference for when we do it...What kind of play is this!? Idiot!
+	#Pink Rotor
+ん？　なにこれ顔のマッサージ機？=Hm? What is this facial massager?
+あはは、結構激しく震える。ちょっと強すぎだよこれ。=Ahaha, its quite strong. Maybe a bit too strong.
+それ、この前おじさんが買ったエッチな本だけど……。= It's the horny book that Oji-san bought...
+え？　本当の使い方はこれに載ってるって？=Huh? Is the true usage listed in this?
+え？　本当の使い方はこれに載ってるって？　それ、この前おじさんが買ったエッチな本だけど……。=Huh? Is the true usage listed in this? It's the horny book that Oji-san bought...
+……おじさんの、エッチ。=...Oji-san, ecchi.
+	#Blindfold
+いや、なんで私目隠しされてるの？=Kyaa, why am I blindfolded?
+視界を制限することでより快感に集中できる？ 着けてる姿にも興奮する？　ふ、ふーん……。=It's more pleasurable if you can't see? Are you looking forward to this? Fu, Fuun...
+ふぁっ＠　ちょ、ちょっと……今試すのはやめて！=Faa H-Hey...Stop it!
+　ちょ、ちょっと……今試すのはやめて！=H-Hey...Stop it!
+ふぁっ<color%3D#fca4bc>❤<color%3Dwhite>　ちょ、ちょっと……今試すのはやめて！=Faa<color%3D#fca4bc>❤<color%3Dwhite>H-Hey...Stop it!
+	#Aphrodisiac Cream
+またそんな怪しいもの買って……別にいいけどさ。=You bought another suspicious thing...but it is good.
+ふぅん……。=Fuun...
+なになに……これを塗ったところは敏感になって、何度もイキやすく……=Wait what...It makes the applied area really sensitive...
+なになに……これを塗ったところは敏感になって、何度もイキやすく……ふぅん……。=Wait what...It makes the applied area really sensitive...Fuun...
+……まぁ、おじさんが使いたいなら付き合ってあげてもいいよ。=...Well, if Oji-san wants to use it then it's fine.
+	#Vibe
+……いくら私でも、さすがにこれの使い方は想像つくよ……ほんとにもう、エッチなんだから。=...Even though I can imagine how to use this...It already looks really naughty.
+でもさ、これっておじさん以外のを入れることになるんだけど……それでも良いの？=But, putting in something other than Oji-san...is that ok?
+なんていうか、その……浮気になっちゃわない？=I mean, well...isn't it cheating?
+まあ、おじさんが使う分には、私は良いけどさあ……。=Well, if Oji-san is using it, then I'm fine with it...
+	#Maiden's Secret
+何このうさんくさい本は……どうせ、エッチな本なんでしょ。=What is this suspicious book...It's probably something naughty.
+私をもっと気持ち良くするために必要な知識？　そ、そうなんだ……。=You want to learn how to make me feel better? I-Is that so...
+	#Micro Bikini
+うわぁ……。=Uwaa...
+こういう水着はね、色々準備が必要なの。= This kind of swimwear needs a lot of preparation.
+いや、そんな目で見られても着ないから。=No, I won't wear it even if you look at me like that.
+いや、そんな目で見られても着ないから。こういう水着はね、色々準備が必要なの。=No, I won't wear it even if you look at me like that. This kind of swimwear needs a lot of preparation.
+……そうだ。今度、また私とデートしてよ。そしたら考えてあげるからさ。=...That's it. Maybe on our next date. I'll think about it then.
+	#Business book
+こういうのって、意識高い感じの用語が載ってるんだと思ってたけど……。=This book looks like it has a lot of difficult terminology...
+良い組織づくりの手本とか、上手くいかなかった例とか、理由も含めて書いてあって結構面白いね。=It has good models for organizations, models that didn't work well...It seems quite interesting.
+……おじさんの会社も、見込みなさそうだったら辞めちゃって良いと思うよ。=...I think it'd be nice if Oji-san could quit his company.
+二人で近所のお弁当屋さんでバイトするとか、ちょっと楽しそうじゃない？=The two of us could work part-time at a nearby bento store, wouldn't that be kind of fun?
+そこでの経験を活かして、ゆくゆくは自分たちのお店を出したりしてさ……。=Then with the expereince from there, we could open up our own shop... 
+	#Perceptive Glasses
+あはは、格好いい。おじさん、エージェントみたい。= Ahaha, that looks cool. Oji-san, you look like an agent.
+何それ、グラサン？=What is that, glasses?
+何それ、グラサン？　あはは、格好いい。おじさん、エージェントみたい。=What is that, glasses? Ahaha, that looks cool. Oji-san, you look like an agent.
+な、なにか言ってよ……。=\nS-Say something...
+……ど、どうしたの？　そんなじっと見て……=...W-What's wrong? You're staring so intently...
+……ど、どうしたの？　そんなじっと見て……な、なにか言ってよ……。=...W-What's wrong? You're staring so intently...\nS-Say something...
+	#Job Change Guide
+私は応援するよ！= I'll support you!
+おー……おじさん、ついにやる気だね。=Ooh...Oji-san, you're finally motivated.
+おー……おじさん、ついにやる気だね。私は応援するよ！=Ooh...Oji-san, you're finally motivated. I'll support you!
+……どう、良いところありそう？=...So, do you see any good places?
+多すぎて目移りする？　どこでも今よりマシって……なんでずっとそんなとこいたの？=Too many to name? Anywhere's better than your current job... Why didn't you change it until now?
+最近まで考える余裕もなかった……そっか、そうだよね。=You never got the chance to consider it...I see, that makes sense.
+	#Travel Guide
+へっ、温泉でも行かないかって？=Oh, will we be able to go to a hot spring?
+　ダメだよ、居候にそんな贅沢させちゃあ。= That's no good, we can't be splurging on luxuries.
+楽しそうだけど……そういうのって、結構かかるんじゃないの？=It seems fun...But looking at it, it might be kind of expensive.
+楽しそうだけど……そういうのって、結構かかるんじゃないの？　ダメだよ、居候にそんな贅沢させちゃあ。=It seems fun...But looking at it, it might be kind of expensive. That's no good, we can't be splurging on luxuries.
+　う、うーん……じゃあ、いいのかな……？= I-I see...Well, maybe it's ok then...?
+私の倹約のおかげ？　食費がだいぶ浮いてるから？= Thanks to my economizing? Did our food expenses go down?
+……あ。例の貯金、そんなに貯まってたんだ。=...Ah. We've saved up quite a bit though.
+……あ。例の貯金、そんなに貯まってたんだ。私の倹約のおかげ？　食費がだいぶ浮いてるから？　う、うーん……じゃあ、いいのかな……？=..Ah. We've saved up quite a bit though. Thanks to my economizing? Did our food expenses went down? I-I see...Well, maybe it's ok then...?
+おじさん、いつも頑張ってるもんねえ。= Oji-san, you're always working so hard after all.
+たまには贅沢しちゃおっか。=Splurging sometimes is fine.
+たまには贅沢しちゃおっか。おじさん、いつも頑張ってるもんねえ。=Splurging sometimes is fine. Oji-san, you're always working so hard after all.
+
+温泉旅行イベントが解禁されました。夕と話して予定を決めましょう。=Hot springs travel event unlocked. Talk to Yuu and decide the schedule.
+
+所持数=Number in possession
+お届け予定：明日=Arrival Date: Tomorrow
+
+Home Items:
+コーヒー豆×5=Coffee beans×5
+カモミール×5=Chamomile×5
+
+Cart:
+カートの中身 0/3=Cart 0/3
+カートの中身 1/3=Cart contents 1/3
+カートの中身 2/3=Cart contents 2/3
+カートの中身 3/3=Cart contents 3/3
+注文する=Order
+残高=Balance
+合計=Total
+注文完了=Order complete
+
+Sex Items:
+アフターピル×3=After pill×3
+アフターピル=After pill
+緊急避妊薬。持っているだけで効果がある=Emergency Contraceptive. It is used automatically.
+コンドーム×5=Condom×5
+肌に近いやわらかさの新素材=Using new material, soft and close to the skin.
+ローション×5=Lotion×5
+
+Dialogue:
+あ。=Ah.
+……ゴム、ちゃんと買っておいてくれたんだね。ありがと。=...You bought more rubbers. Thank you.
+
+が届いた！= Arrived!
+<param%3D文字列>が届いた！=<param%3D文字列> has arrived!
+

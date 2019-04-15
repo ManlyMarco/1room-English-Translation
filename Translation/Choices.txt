@@ -1,0 +1,155 @@
+// Intro
+
+オープニングをスキップしますか？=Do you want to skip the prologue?
+いいえ=No
+はい=Yes
+
+……学生？=...a student?
+……=...
+
+置いていく=Reject her offer
+連れていく=Accept her offer
+
+頷く=*nod*
+
+襲う(LP10)=Rape her(LP 10)
+頭を撫でる=Caress her head
+
+直前のシーンからやり直す=Start over from previous scene
+----------------------------------------------------------------
+// Interaction Phase
+
+呼びかけ中=Call Yuu
+声をかける=Call Yuu
+話をする=Talk
+ベッドに誘う=Invite to bed
+なんでもない=It's nothing
+
+声をかける=Call Yuu
+仕事をする=Do some work
+お茶にする=Serve Tea
+風呂に入る=Take a Bath
+今日はもう休む=Call it a night
+眠り=Sleep
+
+		#if Talk
+
+髪型が気になる=Ask about her hairstyle
+料理の腕を褒める=Praise her cooking
+雑談する=Chat with her
+夕のことを聞く=Ask about her life
+
+// Date
+
+温泉旅行に誘う=Invite to a hot springs trip
+
+// Game
+
+後でいい=Go ahead, I'm taking a bath later.
+入ってくる(LP10)=I'm coming (LP 10)
+
+
+// Touch her After bath
+
+後ろから=Touch her butt
+
+した=Yes I did
+してない=No, I didn't
+
+別に…=Not really...
+見たい(LP20)=Yes, I want to see it(LP 20)
+
+ごめんなさい=I'm sorry
+パンツ見せて(LP20)=Show panties(LP20)
+
+あきらめる=Give up
+頼みこむ(LP20)=Request(LP20)
+
+タイツも履いて(LP20)=Wear tights(LP20)
+満足した=Satisfied
+
+いつも通りで=As usual
+任せる=Entrust
+
+思いとどまる=Hold back
+
+ローションを使う=Use lotion
+
+夕に着てもらう(LP100)=Get Yuu to wear it(LP100)
+放っておく=Leave it alone
+
+したい(後背位)=I want you to(Doggy)
+やめておく=Stop
+
+[！]寝込みを襲う(LP200)=[!]Attack her(LP 200)
+寝込みを襲う=Attack her
+寝込みを襲う(LP200)=Attack her(LP 200)
+
+どうもしない=Do nothing
+
+大人しく待つ=Wait quietly
+後ろから襲う(LP100)=Attack from behind(LP100)
+
+もう少し起きてる=I'm stay up a bit longer
+
+上になってもらう(LP20)=Cowgirl(LP20)
+
+透視メガネＯＦＦ=Perceptive glasses OFF
+透視メガネＯＮ=Perceptive glasses ON
+
+// Make Tea
+
+何を飲もうか……。=What shall I drink...?
+カモミールにする(あと= Chamomile Tea (+)
+コーヒーを煎れる(あと= Coffee(+)
+やっぱりやめる=Nevermind
+夕に任せる=Leave it to Yuu
+
+// Before Work
+
+夜までスキップ=Skip to night.
+早めに出る=Head out early
+夕と話す=Talk with Yuu
+ＴＶを点ける=Watch TV
+
+// Invite to Bed
+
+そうする=Take a bath first
+今すぐしたい=I want to do it now.
+むしろいい=Oh, That would be nice
+気にしない=Don't worry
+
+横から(側位)=Sideways Position
+上になってもらう(背面騎乗位)=Reverse Cowgirl
+上になってもらう=Cowgirl
+まんぐり返し=Pile Driver
+横から(松葉崩し)=Thigh Up
+後ろから(寝バック)=Laying Doggy
+前から=Missionary
+口でしてもらう= Use your mouth
+
+着衣は……。=As for the clothes...
+全部脱いで=Take everything off
+下着姿で= Underwear only
+そのまま= As you are
+
+// Ero Scene
+
+舐めて=Lick it
+咥えて=Put it in
+顔にかける=On her face
+口に出す=Inside her mouth
+このまま続ける=Continue
+まだ続ける=Keep going
+_この辺にしておく= Stop here
+この辺にしておく=Stop here
+_ベッドに誘う= Carry her to bed
+ブルマを降ろす=Pull down bloomers
+ブルマをずらす=Shift bloomers
+ブルマを戻す=Put back bloomers
+
+// Change Clothes
+
+		#Underwear
+もっと見る=Keep Staring
+ベッドに誘う(LP20)=Invite her to bed (LP 20)
