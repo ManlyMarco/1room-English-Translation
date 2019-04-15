@@ -25,7 +25,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 
 // Save Screen
 
-どのデータにセーブしますか？=In which slot you will save?
+どのデータにセーブしますか？=Which slot to save in?
 
 
 //Gallery

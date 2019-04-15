@@ -45,7 +45,7 @@
 
 // Game
 
-後でいい=Go ahead, I'm taking a bath later.
+後でいい=Go ahead, I'm taking a bath later
 入ってくる(LP10)=I'm coming (LP 10)
 
 
@@ -107,7 +107,7 @@
 
 // Before Work
 
-夜までスキップ=Skip to night.
+夜までスキップ=Skip to night
 早めに出る=Head out early
 夕と話す=Talk with Yuu
 ＴＶを点ける=Watch TV
@@ -115,7 +115,7 @@
 // Invite to Bed
 
 そうする=Take a bath first
-今すぐしたい=I want to do it now.
+今すぐしたい=I want to do it now
 むしろいい=Oh, That would be nice
 気にしない=Don't worry
 
