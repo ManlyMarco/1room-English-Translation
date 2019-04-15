@@ -220,7 +220,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 [右クリック]ボタンなどの表示を一時的に隠します= [Right Click] Hide message
 [ESC]環境設定を変更します=[ESC] To call out Menu
 スキップ=Skip
-夕とあなたの貯金額=Yuu and yours savings amount
+夕とあなたの貯金額=Amount of your and Yuu's savings
 就寝までの残り行動回数=Remaining actions until bed time
 ショップ=Shop
 夕飯後。=After dinner
@@ -250,7 +250,7 @@ Home Items:
 ファッション雑誌=Fashion magazine
 女性服を選ぶ参考になりそう=It will be helpful to choose womens' clothes.
 アダルト雑誌=Adult magazine
-アダルトグッズ特集が組まれている=Adult goods featured
+アダルトグッズ特集が組まれている=Adult goods featured.
 難しい技術書=Difficult skill book
 簡単な技術書=Simple skill book
 初歩的なことが書かれた入門書=An introductory book with basics written.
@@ -288,7 +288,7 @@ Clothing:
 Sex Items:
 コンドーム= Condom
 精力剤=Energizing Drink
-一日だけ射精回数の上限を増やす=Increase the number of times you can cum for a day.
+一日だけ射精回数の上限を増やす=Increase number of times you can cum in a day.
 ローション=Lotion Bottle
 強制的に挿入可能にする=Force insertion possible.
 媚薬クリーム=Aphrodisiac cream
@@ -301,7 +301,7 @@ Sex Items:
 心理学入門=Intro to Psychology
 好感度と信用の数値がわかるようになる=Display values for her Love/Lust/Satisfaction.
 乙女の秘密=Maidens Secret
-ちょっとエッチなステータス表示が解禁される=The slightly naughty status display is released.
+ちょっとエッチなステータス表示が解禁される=Show sightly naughty status info.
 透視メガネ=Perceptive glasses
 
 Trophies:
@@ -362,8 +362,8 @@ Trophies:
 
 [A]通販サイトにアクセスします=[A] Access to mail-order site
 説明３４５６７８９０１２３４５６７８９０１２３４= Explanation 3456789012345678901234
-安心と信頼の業界最安値\nドローン便で最短翌日にお届け=Fast and reliable delivery service. Receive your order by tomorrow evening.
-安心と信頼の業界最安値ドローン便で最短翌日にお届け=Fast and reliable delivery service. Receive your order by tomorrow evening.
+安心と信頼の業界最安値\nドローン便で最短翌日にお届け=Fast and reliable delivery service.\nReceive your order by tomorrow evening.
+安心と信頼の業界最安値ドローン便で最短翌日にお届け=Fast and reliable delivery service.\nReceive your order by tomorrow evening.
 
 Dialogue:
 そういえば、荷物届いてたよ。=By the way, your packaged arrived.
@@ -565,9 +565,9 @@ Home Items:
 
 Cart:
 カートの中身 0/3=Cart 0/3
-カートの中身 1/3=Cart contents 1/3
-カートの中身 2/3=Cart contents 2/3
-カートの中身 3/3=Cart contents 3/3
+カートの中身 1/3=Cart 1/3
+カートの中身 2/3=Cart 2/3
+カートの中身 3/3=Cart 3/3
 注文する=Order
 残高=Balance
 合計=Total
@@ -576,9 +576,9 @@ Cart:
 Sex Items:
 アフターピル×3=After pill×3
 アフターピル=After pill
-緊急避妊薬。持っているだけで効果がある=Emergency Contraceptive. It is used automatically.
+緊急避妊薬。持っているだけで効果がある=Emergency Contraceptive. Used automatically.
 コンドーム×5=Condom×5
-肌に近いやわらかさの新素材=Using new material, soft and close to the skin.
+肌に近いやわらかさの新素材=Made from a new soft and thin material.
 ローション×5=Lotion×5
 
 Dialogue:

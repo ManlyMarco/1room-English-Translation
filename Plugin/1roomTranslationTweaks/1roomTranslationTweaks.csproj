@@ -17,7 +17,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\..\Downloads\H\_slg\1room -家出少女 v1.1.0\BepInEx\</OutputPath>
+    <OutputPath>..\..\..\..\..\Downloads\H\_slg\1room -家出少女 v1.1.0\BepInEx\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
