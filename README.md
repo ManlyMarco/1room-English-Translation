@@ -15,10 +15,18 @@ The translation does not modify any of the original game files. Instead it is us
 4. Start the game. It should now be translated. You can open the options screen to confirm that the translation works.
 5. Have fun!
 
+## How to contribute
+If you want to submit any improvements [fork the repository](https://help.github.com/articles/fork-a-repo/). Upload/make your changes to your fork and then [submit a pull request](https://help.github.com/articles/about-pull-requests/). Your pull request will be reviewed and accepted after a quality check. All help is greatly appreciated!
+
+Translations are split into three parts:
+1. The main part are the files inside the `Translation` folder, for most purposes this is the only folder you need to care about. They contain pairs of Japanese=English for most o the text in the game. Keep the Japanese part intact, only change the English part. After you edit the files you can press Alt+R to see the changes in the game (no need to restart).
+2. Files inside `Assets` folder are modifications to game asset files. Don't touch anything that isn't translated since it can break the game, only submit fixes to existing translations.
+3. Item names in the plugin source code. If they need changing, make sure you change their translations in the `Translation` folder as well.
+
 ## Credits
-- The Butler, DX5536, Helios7 - [Original translation project](https://f95zone.to/threads/1room-runaway-girl-the-butler-translation.18074/) and intial translations (around 20% of script and UI).
+- The Butler, DX5536, Helios7 - [Original translation project](https://f95zone.to/threads/1room-runaway-girl-the-butler-translation.18074/) and intial translations (around 25% of script and UI).
 - ManlyMarco - Initial translation environment setup; Programming, testing, proofing and help with some translations.
-- WataThaBradicus - Revising the original translation and translating everything else (the remaining 80%).
+- WataThaBradicus - Revising the original translation and translating everything else (the remaining 75%).
 
 ## Screenshots (possible spoilers!)
 ![preview0](https://user-images.githubusercontent.com/39247311/56170532-2fc1fa00-5fe2-11e9-8fa4-986307f311d6.PNG)
