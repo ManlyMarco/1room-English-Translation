@@ -87,7 +87,7 @@
 どうにでもなれとあなたは考えるのを止めて、ベッドの上に仰向けに倒れる。= You stopped thinking about it and fell down on your bed.
 色々と気になることはあるが、=There were just too many things to worry about.
 ……遠くから聞こえるシャワーの音が、耳に心地良い。=...The sound of the shower seemed far away, soothing to listen to.
-疲れ切っていたあなたの意識は、少しずつまどろみの中へと落ちていった……。=Your conciousness was fading due to exhaustion and you began to slowly fall asleep...
+疲れ切っていたあなたの意識は、少しずつまどろみの中へと落ちていった……。=Your consciousness was fading due to exhaustion and you began to slowly fall asleep...
 ……おじさん、本当に疲れてたんだね。=...Oji-san, you're really exhausted.
 よしよし……今日はもう、ゆっくり休んで良いんだからね。=It's ok it's ok...\nIt'll be fine, so take a good rest today.
 深夜。あなたは決まって、悪夢にうなされ目を覚ましていた。=Midnight. You woke up from a nightmare.
@@ -105,7 +105,7 @@
 
 		#If "Rape her"
 		#Goes to Rape Scene
-目が覚めると、部屋の中に夕の姿はなかった。=After you regained your conciousness Yuu was no longer in the room.
+目が覚めると、部屋の中に夕の姿はなかった。=After you regained your consciousness Yuu was no longer in the room.
 財布がなくなっているようなこともなく、何もかもがそのままだった。=There was nothing missing, even your purse was where you left it.
 つまりあなたはいつものように会社に向かい、激務に追われ、そして……。=In other words, you will go to your workplace as usual and then...
 

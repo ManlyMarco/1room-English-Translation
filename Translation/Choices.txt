@@ -102,7 +102,7 @@
 何を飲もうか……。=What shall I drink...?
 カモミールにする(あと= Chamomile Tea (+)
 コーヒーを煎れる(あと= Coffee(+)
-やっぱりやめる=Nevermind
+やっぱりやめる=Never mind
 夕に任せる=Leave it to Yuu
 
 // Before Work

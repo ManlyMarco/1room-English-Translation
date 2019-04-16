@@ -69,7 +69,7 @@ Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
 あんまり、期待はしないで欲しいんだけど……。=Though, try not to expect too much...
 う、うん。いいよ。あんまり、期待はしないで欲しいんだけど……。=O-Ok. I'll do it...Though, try not to expect too much...
 
-		#if "Nevermind"
+		#if "Never mind"
 え……しないの？=Eh...We're not doing it?
 
 		#if Blindfold
@@ -106,7 +106,7 @@ _カモミールにする(あと<param%3D選択肢１>)= Chamomile Tea (+<param%
 #if "Prepare Coffee"
 
 コーヒー？　うん、好きだよ。=Coffee? Yeah, I like it.
-おじさんが煎れてくれるの？　えへへ……楽しみだなー。=Oji-san will make it? Ehehe...I'm looking foward to it.
+おじさんが煎れてくれるの？　えへへ……楽しみだなー。=Oji-san will make it? Ehehe...I'm looking forward to it.
 わー、ありがとう。=Waa, Thank you.
 はぁ……おいしいね。なんだか大人って感じがするよ。=Wow...it's delicious. I feel like an adult somehow.
 
@@ -336,7 +336,7 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 ＴＶでも見るかって？=Do you want to watch TV?
 うーん、いいよ。どうせこの時間じゃ、ニュースしかやってないでしょ。= Well, that's fine. After all, at this time, there's only the news.
 ＴＶでも見るかって？　うーん、いいよ。どうせこの時間じゃ、ニュースしかやってないでしょ。=Do you want to watch TV? Well, that's fine. After all, at this time, there's only the news.
-夕はそう言うが、まだ普通にアニメもバラエティも放送されている時間だ。=Yuu said that, but there's still anime and variety shows being broadcasted.
+夕はそう言うが、まだ普通にアニメもバラエティも放送されている時間だ。=Yuu said that, but there's still anime and variety shows being broadcast.
 試しに電源を入れてみせると、夕は目を丸くして驚いた。=When I turned on the TV, Yuu opened her eyes in surprise.
 えええええええ！？=Eeeeeee!?
 ……こんな世界があったんだ。私、何も知らなかった……。=...There was such a world. I never knew...
@@ -375,7 +375,7 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 あなたは「親会社なので少し気になっただけ」と答えて、適当にチャンネルを変えた。=You answered "I was a little worried because I am from a parent company", and changed the channel right after.
 ……そうなんだ。=...I see.
 #2
-今回の人事発表では、一年間社長代理を務めていたＴ氏が正式にＳグループ社長として就任することが発表されました。=Today, it was annouced that Mr. T, who had served as acting president for a year, has been officially appointed as the S group president.
+今回の人事発表では、一年間社長代理を務めていたＴ氏が正式にＳグループ社長として就任することが発表されました。=Today, it was announced that Mr. T, who had served as acting president for a year, has been officially appointed as the S group president.
 記者会見で新社長は組織改革に意欲を見せており、まずは信頼回復に努めたいと……。=During the press conference, the new president said he's motivated to reform the organization. His first objective is to regain our trust. 
 ……だってさ。おじさんの会社も、少しは楽になるかもね。=...So they say. Maybe Oji-san's company might improve a bit.
 後釜になった人物も前社長の弟だ。どうせ何も変わらないだろう、とあなたは夕に答えた。=The current successor is the former president's younger brother. You tell Yuu that it will change nothing.
@@ -394,8 +394,8 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 へっ？　体はなんともないかって……=Huh? Are you worried about my body?
 初めてだったけど、そんなに痛くなかったし……全然平気だよ。=Even though that was my first time, it didn't hurt that much...I'm completely fine.
 エッチ……しちゃったんだねえ、私たち。=Sex...We did it, the two of us.
-……あはは。なんか今更、恥ずかしくなってきちゃった。=...Ahaha. I'm getting embarassed now.
-……あはは。なんか今更、恥ずかしくなってきちゃった。エッチ……しちゃったんだねえ、私たち。=...Ahaha. I'm getting embarassed now. Sex...We did it, the two of us.
+……あはは。なんか今更、恥ずかしくなってきちゃった。=...Ahaha. I'm getting embarrassed now.
+……あはは。なんか今更、恥ずかしくなってきちゃった。エッチ……しちゃったんだねえ、私たち。=...Ahaha. I'm getting embarrassed now. Sex...We did it, the two of us.
 
 // Change Clothes
 
@@ -407,11 +407,11 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 ……う、うん。わかった。ちょっと待ってて。=...O-Ok. I understand. Give me a second.
 お、お待たせー。=S-Sorry for the wait.
 えへへ……結構可愛いでしょ？　これ、気に入ってるんだ。=Ehehe...it's pretty cute isn't it? I really like this one.
-……やっぱ男の人って白が好きなの？=...As I thought, Men like white dont they?
+……やっぱ男の人って白が好きなの？=...As I thought, Men like white, don't they?
 えへへ……どう？　色っぽい？=Ehehe...How is it? Sexy?
 
 #if "keep staring"
-あの……そんなに見つめられると、さすがに恥ずかしいんだけど。=Um...If you keep staring like that, I'll get embarrased.
+あの……そんなに見つめられると、さすがに恥ずかしいんだけど。=Um...If you keep staring like that, I'll get embarrassed.
 ……も、もう。じろじろ見すぎ！　もうおしまい！=...G-Geez. You're staring too much! No more!
 ……も、もういいでしょ？　そろそろ……。=...I-It's enough right?\nStaring that much...
 

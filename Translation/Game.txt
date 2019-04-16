@@ -21,7 +21,7 @@
 
 自室での行動選択について= Choose your action during the interaction phase
 夜の自室ではお風呂に入ったり、夕と話をしたり、ベッドに誘ってエッチなことをしたり……自由に行動することができます。=You can take a bath, talk with Yuu, invite her to bed and do naughty things...\nYou can act freely.
-画面左上の「LP」はあなたの活力を表しており、夕と過ごす内に回復し、これを消費する「積極的な行動」をとることができます。="LP" in the upper left coner of the screen represents your "Life Points", you can recover it with Yuu and use it to take certain actions.
+画面左上の「LP」はあなたの活力を表しており、夕と過ごす内に回復し、これを消費する「積極的な行動」をとることができます。="LP" in the upper left comer of the screen represents your "Life Points", you can recover it with Yuu and use it to take certain actions.
 まずはしっかりと英気を養って、少しずつ行動の幅を広げていきましょう。=First go slow and steady and increase your available actions little by little.
 
 // Story
@@ -76,7 +76,7 @@
 
 	#if don't bother
 あなたは依然として疲れており、彼女の境遇を気遣う余裕はなかった。=You were already exhausted as it is, you can't afford to care for her.
-或いは、あなたにとって夕はお互いの利害が一致している間だけの都合の良い女に過ぎなかった。=For you, Yuu was just a conveinient woman that had a mutual agreement with you.
+或いは、あなたにとって夕はお互いの利害が一致している間だけの都合の良い女に過ぎなかった。=For you, Yuu was just a convenient woman that had a mutual agreement with you.
 いずれにせよあまり長く付き合うのも、面倒ごとに関わるのも真っ平御免だ。=Anyway, developing any relationship with her would be too bothersome.
 あくまで一週間、仕事の憂さ晴らしをするための割り切った関係……あなたにとっては、それで十分なのだった。=It was a one week relationship so that you would feel relaxed after work...that was enough for you.
 
@@ -110,7 +110,7 @@
 
 	#if Head to the station
 なんとなく胸騒ぎがして、あなたは再び駅へと向かった。=I was feeling restless, so I decided to head to the station.
-夕と出会った駅のプラットホームまで戻ってくると、すぐに真っ青な表情で呆然と立ちつくす少女の姿が目についた。=Returning to the station where I met Yuu, I immediately saw the apperance of a familiar girl with a gloom expression on her face.
+夕と出会った駅のプラットホームまで戻ってくると、すぐに真っ青な表情で呆然と立ちつくす少女の姿が目についた。=Returning to the station where I met Yuu, I immediately saw the appearance of a familiar girl with a gloom expression on her face.
 あからさまに目立つせいか、軽薄そうな男に言い寄られている。=Maybe because she stood out, a frivolous man was speaking to her.
 近づいて彼女の名前を呼びかけると、男はバツの悪そうな顔をして去っていった。=As you approached and called her name, the man made a hateful expression and left.
 ……おじさん。=...Oji-san.
@@ -245,7 +245,7 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 当然、バスタオルで体を隠すようなことはしない。=Naturally, I didn't cover my body with a towel.
 わぁ……すごいね。なんか、写真より広くない？=Waa...Amazing. Isn't it bigger than it was in the pictures?
 ……そういえば、一緒にちゃんとしたお風呂に入るのって初めてだね。=...Speaking of which, this is the first time we properly bathed together.
-今更気恥ずかしくなってきたのか、少しはにかみながら夕が言う。=Even now Yuu seemed to be embarassed after saying that.
+今更気恥ずかしくなってきたのか、少しはにかみながら夕が言う。=Even now Yuu seemed to be embarrassed after saying that.
 そ、そうだ。おじさん……お背中、流してあげよっか？=T-That's right. Oji-san...shall I wash your back?
 あなたもなんとなく居たたまれず、「頼む」と短く言って流し場に腰をかけた。=You told her "please do" as you sat down near the sinks.
 えへへ……こういうの、一度やってみたかったんだよね。=Ehehe...I've wanted to do something like this before.
@@ -311,7 +311,7 @@ Hmm……ふぅ。=Hmm...Fuu.
 それから。=After that.
 あなたたちは朝食を取ってから、入りそびれていた大浴場に浸かりにいった。=Finishing breakfast, the two of you entered the large public bath.
 その後は部屋で一緒にくつろいだり、旅館の周りを散策したり……。=After that, the two of you relaxed in your room and walked around the inn...
-そうして過ごしているうちにチェックアウトの時間が迫り、土産を選んで旅館を後にしたのだった。=And like that, it was time to checkout. I chose a souvenier and left the inn.
+そうして過ごしているうちにチェックアウトの時間が迫り、土産を選んで旅館を後にしたのだった。=And like that, it was time to checkout. I chose a souvenir and left the inn.
 さすがに夕も疲れたのか、帰りの電車ではぐっすりと眠っている。=As expected, Yuu was tired and fell asleep on the train ride back.
 えへへ……おじさん、また行こうね……。=Ehehe...Oji-san, let's go again sometime...
 夕の寝言を聞いて、あなたは思いを巡らせる。=Listening to Yuu's murmurs, you felt overwhelming emotions.
@@ -330,7 +330,7 @@ Hmm……ふぅ。=Hmm...Fuu.
 	Returning from work:
 共同生活に慣れないうちは、夕の状態はやや緊張気味からスタートします。=Yuu isn't used to communal life, she seems to be slightly tense and nervous.
 新しいマネージャーの方針で無茶な残業は無くなったが、減った仕事の量はそれほどでもない。=Although the new manager reduced overtime significantly, there was still a lot of work to be done.
-人手不足が解消するまで、当面は休日返上でヘルプに当たってほしい。部長は弱り顔でそういった。=There was a shortage of workers, so there'd be no day off this week. It'd be nice there was more help so you could take Sunday off.
+人手不足が解消するまで、当面は休日返上でヘルプに当たってほしい。部長は弱り顔でそういった。=There was a shortage of workers, so there would be no day off this week. It'd be nice there was more help so you could take Sunday off.
 なくて当然だった休日が、本当はあるものになっただけ、大したものだとあなたは思った。=The truth is that you now have an important person waiting for you at home.
 夕が来てから、あなたは自宅に帰るのがすっかり楽しみになっていた。=Ever since Yuu arrived, you looked forward to going home.
 最近はいつも、もっと早く仕事を片付ける方法はないか、あれこれと考えを巡らせている。=Recently, I've been thinking about more ways to finish my work faster.
@@ -339,4 +339,4 @@ Hmm……ふぅ。=Hmm...Fuu.
 これなら日曜は休んでも問題ないだろうと、あなたは部長に話を取り付ける。=If this keeps up, you can take Sundays off without any issues. You'll talk with your manager later about it.
 ……仕事を持ち帰ってやらないと休めないのはどうかと思うが、とにかく今は夕とのまとまった時間ができるのが嬉しかった。=...I wonder how I'll be able to rest if if I don't take my work home. Regardless, I was happy to have more time with Yuu now.
 帰り道を歩きながら、あなたは休日の過ごし方を考える。=As you walked home, you thought about how to spend your day off.
-何しろしばらくぶりなので、何をすればいいのかわからない。夕と家でのんびりと過ごすか、あるいは彼女を誘って出かけてみようか……。=It's been a while, so I'mn ot sure what to do. Relax at home with Yuu or invite her out...
+何しろしばらくぶりなので、何をすればいいのかわからない。夕と家でのんびりと過ごすか、あるいは彼女を誘って出かけてみようか……。=It's been a while, so I'm not sure what to do. Relax at home with Yuu or invite her out...

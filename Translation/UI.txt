@@ -124,7 +124,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 [SPACE]早送り=[SPACE] Hold for fast forward
 夕の快感度。満タンになると…？=Yuu pleasure bar, what happens if it gets full...?
 行動メニュー=Action menu
-残りコンドーム数=Remaining number of comdoms
+残りコンドーム数=Remaining number of condoms
 ライフ：あなたの活力を表すパラメータ=LP: Life Points
 残り射精回数=Remaining ejaculations
 ヘルプの表示を切り替えます=Toggle help display on/off
@@ -143,7 +143,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 タイツを脱がす=Remove tights
 
 #Comdom
-ゴムを着ける=Put on comdom
+ゴムを着ける=Put on condom
 
 #HANDS
 足を開く=Open her legs
@@ -248,7 +248,7 @@ Home Items:
 カモミール=Chamomile
 安眠効果のあるハーブティー=Herbal tea that induces drowsiness.
 ファッション雑誌=Fashion magazine
-女性服を選ぶ参考になりそう=It will be helpful to choose womens' clothes.
+女性服を選ぶ参考になりそう=It will be helpful to choose women's clothes.
 アダルト雑誌=Adult magazine
 アダルトグッズ特集が組まれている=Adult goods featured.
 難しい技術書=Difficult skill book
@@ -386,8 +386,8 @@ Dialogue:
 えへへ……どうかな。=Ehehe...I wonder.
 ……すごいね、おじさん。サイズぴったりだったんだけど。=...Amazing, Oji-san. The size is perfect.
 ……今日はこれ着て、する？=...Do you want me to wear this today?
-も、もう。そんなに見られたら恥ずかしいよ=G-Geez. It's embarassing if you keep staring.
-も、もう。そんなに見られたら恥ずかしいよ……今日はこれ着て、する？=G-Geez. It's embarassing if you keep staring.\n...Do you want me to wear this today?
+も、もう。そんなに見られたら恥ずかしいよ=G-Geez. It's embarrassing if you keep staring.
+も、もう。そんなに見られたら恥ずかしいよ……今日はこれ着て、する？=G-Geez. It's embarrassing if you keep staring.\n...Do you want me to wear this today?
 ノートＰＣを閉じて顔を上げたあなたは、夕がじっとこちらを見ていることに気付いた。=After closing my laptop and looking up, I noticed  that Yuu was looking at me.
 ね、それってパソコンだよね？=Hey, that's a computer right?
 いつもそれで仕事したり、買い物したりしてるの？　すごいねえ。= Are you always working or shopping with it? That's amazing.
@@ -587,4 +587,3 @@ Dialogue:
 
 が届いた！= Arrived!
 <param%3D文字列>が届いた！=<param%3D文字列> has arrived!
-
