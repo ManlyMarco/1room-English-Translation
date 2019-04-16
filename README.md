@@ -19,7 +19,7 @@ The translation does not modify any of the original game files. Instead it is us
 If you want to submit any improvements [fork the repository](https://help.github.com/articles/fork-a-repo/). Upload/make your changes to your fork and then [submit a pull request](https://help.github.com/articles/about-pull-requests/). Your pull request will be reviewed and accepted after a quality check. All help is greatly appreciated!
 
 Translations are split into three parts:
-1. The main part are the files inside the `Translation` folder, for most purposes this is the only folder you need to care about. They contain pairs of Japanese=English for most o the text in the game. Keep the Japanese part intact, only change the English part.
+1. The main part are the files inside the `Translation` folder, for most purposes this is the only folder you need to care about. They contain pairs of Japanese=English for most o the text in the game. Keep the Japanese part intact, only change the English part. After you edit the files you can press Alt+R to see the changes in the game (no need to restart).
 2. Files inside `Assets` folder are modifications to game asset files. Don't touch anything that isn't translated since it can break the game, only submit fixes to existing translations.
 3. Item names in the plugin source code. If they need changing, make sure you change their translations in the `Translation` folder as well.
 
