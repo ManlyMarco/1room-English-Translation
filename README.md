@@ -1,5 +1,5 @@
 # 1room English Translation
-Full English transaltion for the game 1room -Runaway Girl- (1room -家出少女-) by Akari Blast! This translation covers all in-game text - all script and UI.
+Full English translation for the game 1room -Runaway Girl- (1room -家出少女-) by Akari Blast! This translation covers all in-game text - all script and UI.
 
 The translation does not modify any of the original game files. Instead it is using [BepInEx](https://github.com/BepInEx/BepInEx
 ), [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator), [INIfier.Bepin](https://github.com/ManlyMarco/INIfier.Bepin) and a custom BepInEx plugin to translate the game "on the fly". This way only the actual translations can be distributed, and the translation is very likely to work correctly on different game versions.
