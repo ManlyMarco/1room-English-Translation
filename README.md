@@ -8,6 +8,8 @@ The translation does not modify any of the original game files. Instead it is us
 
 [Buy the game](https://www.dlsite.com/ecchi-eng/work/=/product_id/RE228027.html)
 
+![preview](https://user-images.githubusercontent.com/39247311/56252982-c3ff9000-60ba-11e9-8063-705a15fc25a6.PNG)
+
 ## How to install
 1. Get the game. The translation was tested on v1.1.0 but it should work on newer versions without issues.
 2. Get the latest release from the Releases tab above.
@@ -25,11 +27,5 @@ Translations are split into three parts:
 
 ## Credits
 - The Butler, DX5536, Helios7 - [Original translation project](https://f95zone.to/threads/1room-runaway-girl-the-butler-translation.18074/) and intial translations (around 25% of script and UI).
-- ManlyMarco - Initial translation environment setup; Programming, testing, proofing and help with some translations.
+- [ManlyMarco](https://www.patreon.com/manlymarco) - Packaging, programming, testing, proofing and help with some translations.
 - WataThaBradicus - Revising the original translation and translating everything else (the remaining 75%).
-
-## Screenshots (possible spoilers!)
-![preview0](https://user-images.githubusercontent.com/39247311/56170532-2fc1fa00-5fe2-11e9-8fa4-986307f311d6.PNG)
-![preview1](https://user-images.githubusercontent.com/39247311/56170529-2f296380-5fe2-11e9-9941-63e5c198b97d.PNG)
-![preview2](https://user-images.githubusercontent.com/39247311/56170530-2f296380-5fe2-11e9-8c6c-7065787010d9.PNG)
-![preview3](https://user-images.githubusercontent.com/39247311/56170531-2f296380-5fe2-11e9-86be-bdc91b96032a.PNG)
