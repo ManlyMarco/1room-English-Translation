@@ -68,6 +68,8 @@
 タイツも履いて(LP20)=Wear tights(LP20)
 満足した=Satisfied
 
+[！]口でしてもらう(LP30)=[!] Ask her to use her mouth (LP30)
+
 いつも通りで=As usual
 任せる=Entrust
 

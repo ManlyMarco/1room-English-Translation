@@ -31,8 +31,17 @@
 ……シたかったら、ちゃんと準備しておいてね？=...If you want to do it, please prepare everything properly.
 きょ、今日はだめだよ。ゴム切れてるし。=Kyaa, Today is no good. We're out of rubbers.
 
+ダメ。=No.
+何度頼まれたって無理だからね。=It doesn't matter how many times you ask.
+ダメ。何度頼まれたって無理だからね。=No. It doesn't matter how many times you ask.
+
+
 		#if No bath
+……いいけどさ、その前にお風呂入ってきてよ。=...I'll do it, but take a bath first.
+ちゃんとキレイにしたら、シてあげるから……さ。= Clean up properly first, then...I'll do it.
+……いいけどさ、その前にお風呂入ってきてよ。ちゃんとキレイにしたら、シてあげるから……さ。=....I'll do it, but take a bath first. Clean up properly first, then...I'll do it.
 	
+
 ……ん。しよっか？=...Nn. We're doing it?
 ……お風呂まだだけど、いいの？=...I didn't take a bath yet, is that ok?
 へっ……ちょ、ちょっと待って。=Eee...W-Wait a moment.
@@ -71,6 +80,12 @@ Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
 
 		#if "Never mind"
 え……しないの？=Eh...We're not doing it?
+
+			#if Badmood
+……なんか、それはそれで傷つくなぁ。=...You know, that kind of hurts a little.
+別にそれほど汚くはないと思うよ？= You don't think I'm that dirty do you?
+……なんか、それはそれで傷つくなぁ。別にそれほど汚くはないと思うよ？=...You know, that kind of hurts a little. You don't think I'm that dirty do you?
+
 
 		#if Blindfold
 ……な、何？　どうするつもり？=...W-What? What are you going to do?
@@ -207,6 +222,10 @@ Kyaa...もー、エッチなんだから……。=Kyaa...Geez, ecchi...
 ここまで堂々と触られたことは、さすがになかったよ……。= You're really touching me a lot.
 うわー、痴漢だー。=Uwaa, pervert.
 うわー、痴漢だー。ここまで堂々と触られたことは、さすがになかったよ……。=Uwaa, pervert. You're really touching me a lot
+そんな熱心に揉みし抱いて……お尻好きなの？=You're touching it so enthusiastically...Do you really like butts?
+　別に良いけどさぁ……。= I don't mind, it's not a bad thing...
+そんな熱心に揉みし抱いて……お尻好きなの？　別に良いけどさぁ……。=You're touching it so enthusiastically...Do you really like butts? I don't mind, it's not a bad thing...
+気にせず本を読んでいる……。=She's reading her book without minding you...
 
 	#Butt sitting
 ちょっとぉ、今こっそりめくろうとしたでしょー？=Hey, did you just try to sneakily touch me?

@@ -147,8 +147,8 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 
 #HANDS
 足を開く=Open her legs
-股間を弄る=Touch her pussy
-手を離す(股間)=Stop using fingers (Pussy)
+股間を弄る=Touch her clit
+手を離す(股間)=Stop using fingers (Clit)
 指を抜く=Remove Fingers
 指を入れる=Insert Fingers
 尻を揉む=Grope Buttocks
@@ -233,8 +233,9 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 
 [TAB]夕の状態と持ち物を確認します=[TAB] Check Yuu's condition and Inventory
 エッチの記録=Ero Record
-緊張気味=Feeling Nervous
-上機嫌=Good mood
+緊張気味=Nervous
+上機嫌=Good Mood
+少し不満げ=Annoyed
 週=Week
 累計=All
 芹沢 夕=Serizawa Yuu
@@ -356,6 +357,7 @@ Trophies:
 トロフィー取得「Doggy Style」=Trophy Unlocked 「Doggy Style」
 体操着を手に入れた！=Got gym clothes!
 
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 // Mail Order
@@ -388,13 +390,13 @@ Dialogue:
 ……今日はこれ着て、する？=...Do you want me to wear this today?
 も、もう。そんなに見られたら恥ずかしいよ=G-Geez. It's embarrassing if you keep staring.
 も、もう。そんなに見られたら恥ずかしいよ……今日はこれ着て、する？=G-Geez. It's embarrassing if you keep staring.\n...Do you want me to wear this today?
-ノートＰＣを閉じて顔を上げたあなたは、夕がじっとこちらを見ていることに気付いた。=After closing my laptop and looking up, I noticed  that Yuu was looking at me.
+ノートＰＣを閉じて顔を上げたあなたは、夕がじっとこちらを見ていることに気付いた。=After closing my laptop and looking up, I noticed that Yuu was looking at me.
 ね、それってパソコンだよね？=Hey, that's a computer right?
-いつもそれで仕事したり、買い物したりしてるの？　すごいねえ。= Are you always working or shopping with it? That's amazing.
+いつもそれで仕事したり、買い物したりしてるの？　すごいねえ。= Are you always working and shopping with it? That's amazing.
 ね、それってパソコンだよね？　いつもそれで仕事したり、買い物したりしてるの？　すごいねえ。=Hey, that's a computer right? Are you always working or shopping with it? That's amazing.
 でもこれ、もうネットとか繋がらないんだよね……。= But this can't connect to the internet anymore...
-……私のスマホでもできるだろうって？=...Can you do it with my smartphone?
-……私のスマホでもできるだろうって？　でもこれ、もうネットとか繋がらないんだよね……。=...Can you do it with my smartphone? But this can't connect to the internet anymore...
+……私のスマホでもできるだろうって？=...I can do it with my smartphone?
+……私のスマホでもできるだろうって？　でもこれ、もうネットとか繋がらないんだよね……。=...I can you do it with my smartphone? But this can't connect to the internet anymore...
 キャリアとの契約が切れてるだけだから、とりあえずWi-Fiに繋げば良い？　わいふぁいってなに？=I don't have a contract anymore, so I should use Wi-Fi for now? What's Wi-Fi?
 今更ながら、勤務中に夕と連絡手段がないのは不便だ。=It'd be inconvenient to have no means of contact with Yuu while at work.
 設定ついでに簡単にメッセージのやりとりができるようにしておくと、夕は目を丸くして驚いていた。=Yuu was surprised that it was so easy to exchange messages after setup.
