@@ -1,28 +1,28 @@
-// 1Room Start
+﻿// 1Room Start
 
-ところでおじさん。=By the way Oji-san.
+ところでおじさん。=By the way, Oji-san.
 夕飯の後。人心地ついていると、洗い物を済ませた夕が神妙な面持ちで近付いてきた。=After dinner, as you were washing the dishes, Yuu meekly approached you while making a complicated face.
 置いていったお金のことだけど……こんなに貰えないよ。=It's about the money you left for me...\nI can't take this.
 なんか、金額が生々しいし……=I mean, it's not the amount...
 おじさんからお小遣いとか、まるでエンコーみたいじゃん。=Receiving money from Oji-san, it's like you're my ATM.
-……何か言いたげだね。まあ、私もあんな風に持ちかけておいてナンだけどさ。=...Well I mean, it's not like I don't want it, though I do have an idea.
+……何か言いたげだね。まあ、私もあんな風に持ちかけておいてナンだけどさ。=...Well I mean, it's not like I don't want it, although I do have an idea.
 夕は二人分の食費として十分な金額だけ預かって、残りは返そうとする。=You gave her enough to to feed two people and she could return the rest.
-家事をする分の駄賃にしていいと、あなたがいくら言っても受け取ろうとしない。=She won't accept it no matter what you say, is she worried about the housekeeping cost?
+家事をする分の駄賃にしていいと、あなたがいくら言っても受け取ろうとしない。=She wouldn't accept it no matter what you said, was she worried about the housekeeping cost?
 うーん……=Err...
 じゃあさ、とりあえず私が買い物して余った分は貯めておいて、他に生活で必要なものに使わない？=Well then, why don't we save whatever amount is left after I spend some and use it to buy something you want?
-そもそも、おじさんはもっとモノを買った方が良いと思うんだよね。部屋の中、すっきりしすぎだし。=For example, we could use the saved money and buy something for the room, so it feels more welcoming.
+そもそも、おじさんはもっとモノを買った方が良いと思うんだよね。部屋の中、すっきりしすぎだし。=For example, we could use the saved money to buy something for the room, so it feels more welcoming.
 そう言われても、お金の使い道が思いつかないって？=With that said, do you have anything you want to buy?
 暮らしを良くするためのものって、いろいろあるよ。リラックスできるものとか、本とか……=There's many things we could use that money for. Like relaxing things, books...
 避妊具みたいに、エッチなことに使うものとかさ。=Even contraceptives, so we could do naughty things.
-私も街で配ってたゴム、一個だけ持ってるから今日は大丈夫だけど……=I have a spare one, they were distributing it in the city so today is ok...
-明日からの分は、ちゃんとおじさんが用意してよね。=Though, you'll have to properly prepare starting tomorrow.
+私も街で配ってたゴム、一個だけ持ってるから今日は大丈夫だけど……=I have a spare one, they were distributing it in the city. So today is ok...
+明日からの分は、ちゃんとおじさんが用意してよね。=Though, you'll have to properly prepare it starting tomorrow.
 ……やっぱりエンコーじゃないかって顔してない？=...Don't look at me with that face, don't you want to do it?
 違うから、これは相互扶助の精神に基づくアレだから……。= It's not like that, I want to repay you in some way so...
 
 自室での行動選択について= Choose your action during the interaction phase
 夜の自室ではお風呂に入ったり、夕と話をしたり、ベッドに誘ってエッチなことをしたり……自由に行動することができます。=You can take a bath, talk with Yuu, invite her to bed and do naughty things...\nYou can act freely.
-画面左上の「LP」はあなたの活力を表しており、夕と過ごす内に回復し、これを消費する「積極的な行動」をとることができます。="LP" in the upper left comer of the screen represents your "Life Points", you can recover it with Yuu and use it to take certain actions.
-まずはしっかりと英気を養って、少しずつ行動の幅を広げていきましょう。=First go slow and steady and increase your available actions little by little.
+画面左上の「LP」はあなたの活力を表しており、夕と過ごす内に回復し、これを消費する「積極的な行動」をとることができます。="LP" in the upper left corner of the screen represents your "Life Points", you can gain it with Yuu and use it to take certain actions.
+まずはしっかりと英気を養って、少しずつ行動の幅を広げていきましょう。=First, go slow and steady to increase your available actions little by little.
 
 // Story
 
@@ -40,7 +40,7 @@
 洗面所から戻ってくると、机の上には炊きたてのご飯、焼き鮭、味噌汁が並んでいた。=When you returned from the bathroom there was cooked rice, grilled salmon and miso soup all lined up on the table.
 こんな風に家庭的な朝食を摂るのはいつ以来だろうか。あなたは感慨に浸りながら、夕と一緒に朝食を囲む。=It's been ages since you last ate a homemade breakfast. You finished breakfast with Yuu while being overwhelmed by your emotions.
 作りたての手料理は温かく、優しい味がする。どの品もそつがなく、夕はずいぶんと料理に慣れているようだった。=Freshly prepared meals are warm and have a gentle taste to it. All of the dishes looked good, Yuu seemed to be used to cooking.
-二人で食器を片付けてから身支度を済ませて、夕のいれてくれたお茶で人心地つく。=The two of you finished the dishes, then you dressed in your suit and sat down comfortably, drinking the tea Yuu made for you.
+二人で食器を片付けてから身支度を済ませて、夕のいれてくれたお茶で人心地つく。=The two of you finished the dishes, then you put on your suit and sat down comfortably, drinking the tea Yuu made for you.
 家を出る時間まで、まだ少し余裕がある……どうしようか。=I still have some time before work...What should I do?
 
 		#After actions
@@ -58,21 +58,21 @@
 
 // Yuu's Story
 あなたは夕から話を聞いて、少しだけ彼女の境遇を知った。=You listened to Yuu's story and learned a bit about her situation.
-夕は一年前に両親を事故で失い、叔父夫婦の家に引き取られた。=Yuu lost her parents one year ago in an accident and was taken in by her Aunt.
+夕は一年前に両親を事故で失い、叔父夫婦の家に引き取られた。=Yuu lost her parents one year ago in an accident and was taken in by her aunt.
 しかし、夕の家庭と叔父夫婦には生前からの軋轢があり、温かく迎えられることはなかった。=However, Yuu's family didn't get along with most of her relatives, so she wasn't exactly welcomed.
 あなたは夕の話を……。=Concerning Yuu's story, you...
 信じている=Believe Her
 気にも留めていない=Don't Bother
 
 	#if believe her
-夕の家事や料理の腕は、年の割に手慣れ過ぎている。=Yuu's housework and cooking skills are better than expected for her age.
+夕の家事や料理の腕は、年の割に手慣れ過ぎている。=Yuu's housework and cooking skills were better than expected for her age.
 叔父夫婦に無視されていたのも、関係改善に努力したのも本当だろう……あなたはそう実感していた。=You realized...Despite being neglected by her relatives, she tried her best to mend the rift in their relationship.
-……結局、態度を改めても彼らは夕を許してはくれなかった。=...After all, they didn't forgive Yuu even after she changed her attitude.
-今回の家出は、そんな彼らの気を少しでも引きたかったのかも知れない。=Her running away from home may be to draw attention.
+……結局、態度を改めても彼らは夕を許してはくれなかった。=...And yet, they didn't forgive Yuu even after she changed her attitude.
+今回の家出は、そんな彼らの気を少しでも引きたかったのかも知れない。=Her running away from home might be to draw attention from them.
 ……パパ……ママ……。=...Dad...Mom...
-……一週間。さすがにそれだけ家を離れれば、なんらかの反応があるのが普通だとは思う。=...One week. There should be some sort of reaction if she disappears for so long.
+……一週間。さすがにそれだけ家を離れれば、なんらかの反応があるのが普通だとは思う。=...One week. There should be some sort of reaction if she disappeared for so long.
 切っ掛けさえあれば、彼らも対話に応じてくれるかも知れない。=If possible, perhaps they could talk things out.
-夕もまだ、そう信じているのだろうか。=You wondered if Yuu still thought that.
+夕もまだ、そう信じているのだろうか。=You wondered if Yuu still thought of that.
 
 	#if don't bother
 あなたは依然として疲れており、彼女の境遇を気遣う余裕はなかった。=You were already exhausted as it is, you can't afford to care for her.
@@ -84,7 +84,7 @@
 おじさん、本当に顔色良くなったね。=Oji-san, your complexion is looking better.
 ……私も、そろそろお役御免かなあ。=...It's almost time for me to leave.
 おじさん、本当に顔色良くなったね。……私も、そろそろお役御免かなあ。=Oji-san, your complexion is looking better.\n...It's almost time for me to leave.
-でも、これからもあんまり無理しちゃだめだよ。これからも、ちゃんと元気でいてね？=But, make sure you don't overdo it, properly take care of yourself ok?
+でも、これからもあんまり無理しちゃだめだよ。これからも、ちゃんと元気でいてね？=But, make sure you don't overdo it, take care of yourself properly, ok?
 ……なんかこれで終わりっぽくなっちゃったけど、明日の朝まではお世話になるからね。=...Our mutual relationship will end soon, I'll be here until tomorrow morning.
 そ、それじゃ、気をつけてね。いってらっしゃい。=W-Well then, be careful. Have a safe trip.
 ……これで、お別れだね。=...This is goodbye.
@@ -95,8 +95,8 @@
 ……それじゃ、気をつけてね。いってらっしゃい。ばいばい、おじさん。=...Well then, be careful. Have a safe trip.\nBye bye, Oji-san.
 出社すると、どうも社内の様子が騒がしい。=When I went to work, the state of the company was boisterous.
 同僚に話を聞くと、いくつかの取引がキャンセルになり、営業部が対応に追われているのだという。=Talking to my co-workers, they told me that some transactions were canceled and the sales department was busy.
-何があったのかは知らないが、最近のスケジュールは明らかに過密だった。少しでも楽になるならありがたい。=I don't know what happened, but the schedule is overcrowded. It'd be nice if things were a little easier.
-夕方になると、新しく配属されたマネージャーが現場の一人一人に面談を行った。=In the evening, a newly assigned manger interviewed everyone on the scene.
+何があったのかは知らないが、最近のスケジュールは明らかに過密だった。少しでも楽になるならありがたい。=I didn't know what happened, but the schedule was overcrowded. It'd be nice if things were a little easier.
+夕方になると、新しく配属されたマネージャーが現場の一人一人に面談を行った。=In the evening, a newly assigned manager interviewed everyone on the scene.
 彼は長時間労働を是正するといい、勤怠管理表を見ると頭を抱えて、部署の人間を一人残らず帰宅させた。=He wanted to shorten our long hours and decided to send all the people in the department home for the day.
 こんな日に限って、いつもよりだいぶ早めに自宅に帰ってきてしまった。=Only on such a day, I came home earlier than usual.
 ……夕がいない部屋の中が、なんだかとても広く感じられる。=...In the room without Yuu, it looked bigger than usual.
@@ -105,7 +105,7 @@
 駅に向かう(LP100)=Head to the station (LP100)
 
 	#if Rest
-あなたは乱雑に上着を脱ぎ捨て、買ってきた安酒をあおる。=You took off your jacket and placed down the sake.
+あなたは乱雑に上着を脱ぎ捨て、買ってきた安酒をあおる。=You took off your jacket and placed down the saké.
 気楽な一人暮らしを満喫しながら、胸中には拭いきれない寂しさが残っていた。=While living alone was carefree, you felt a sense of loneliness in your heart.
 
 	#if Head to the station
@@ -117,21 +117,21 @@
 帰ろう=Let's go home.
 ……うん。=...Ok.
 一週間前と同じ薄暗い夜道を、夕と並んで歩く。=Just like a week ago, you walked down the same dimly lit street with Yuu.
-やっぱりだめだった。彼女は電車の中で、一言だけそういった。=It was no good after all. That's all that she said when walking by your side.
+やっぱりだめだった。彼女は電車の中で、一言だけそういった。='It was no good after all'. That was all that she said when walking by your side.
 あなたもそれ以上、何かを聞くつもりはなかった。=You didn't want to pry any further either.
 ねえ……私、まだおじさんの家にいてもいい？=Hey...Can I still stay at Oji-san's place?
-だめなら、わざわざ駅まで迎えに行ったりしない。=If you couldn't, I wouldn't pick you up from the station.
+だめなら、わざわざ駅まで迎えに行ったりしない。="If I couldn't, I wouldn't pick you up from the station."
 そう言うと夕はなぜか少し驚いて、すぐに真っ赤になって微笑んだ。=With that said, Yuu was a little surprised. She turned red and made a smile.
-……相変わらず年頃の少女が考えていることはよくわからない。=...I still don't know what girls her age are thinking.
-まあ、少しずつ話していけば良い。= Well, we can just talk and slowly get to understand each other more.
-……相変わらず年頃の少女が考えていることはよくわからない。まあ、少しずつ話していけば良い。=...I still don't know what girls her age are thinking. Well, we can just talk and slowly get to understand each other more.
+……相変わらず年頃の少女が考えていることはよくわからない。=...I still didn't know what girls her age were thinking.
+まあ、少しずつ話していけば良い。= Well, we could just talk and slowly get to understand each other more.
+……相変わらず年頃の少女が考えていることはよくわからない。まあ、少しずつ話していけば良い。=...I still don't know what girls her age were thinking. Well, we could just talk and slowly get to understand each other more.
 今のあなたには、彼女を気にかけるだけの余裕が生まれていた。=By now, a will to care for her was born in you.
 えへへ……おじさん、これからもよろしくね。=Ehehe...Oji-san, I'll be in your care again from now on.
 
 // First Date
 穏やかな休日の朝、あなたはうっすらと目を覚ました。=On a calm holiday morning, you were slightly awake.
-いつも早起きしている夕も、今日は隣ですやすやと寝息を立てている。=Yuu, who's always been waking up early, is also sleeping next to you.
-貴重な休日だ。どう過ごそうか。=It's a precious day off. What will you do?
+いつも早起きしている夕も、今日は隣ですやすやと寝息を立てている。=Yuu, who's always been waking up early, was also sleeping next to you.
+貴重な休日だ。どう過ごそうか。=It was a precious day off. What will you do?
 
 ゆっくり休む=Relax
 [！]デートに誘う(LP200)=[!]Invite on a date(LP200)
@@ -222,8 +222,8 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 ていうか私、国内旅行って初めてだよ。旅館って行ったことないから、楽しみだなー。=I mean, I've never been on a trip before. I'm looking forward to it since I've never been to a Ryokan.
 聞けば中等部は海外で、高等部の修学旅行は家庭で色々あったので行けなかったらしい。=You listened to her as she mentioned that she couldn't go on school trips since there were various things happening at home.
 まずい話題だったかとあなたは一瞬肝を冷やしたが、当の夕はずっとにこにこしながら話している。=Even though it was a sensitive topic, Yuu kept talking to you about it as you listened intently.
-思えば自分も、終わりのない激務に苦しんでいたのが遠い昔のようだ。=Thinking about it, it seems like it was long ago that you were suffering from endless hardships.
-こうして一緒に過ごすうちに、辛かったことも笑って話せるようになっていくのだろう。=In this way, while spending time together, the two of you can laugh and talk about past hardships.
+思えば自分も、終わりのない激務に苦しんでいたのが遠い昔のようだ。=Thinking about it, it seemed like it was long ago that you were suffering from endless hardships.
+こうして一緒に過ごすうちに、辛かったことも笑って話せるようになっていくのだろう。=In this way, while spending time together, the two of you could laugh and talk about past hardships.
 景色も、いい感じに奥まってきたねえ……。=Even the scenery has a nice feeling...
 あなたは夕と並んで電車に揺られながら、ぼんやりとそんなことを考えるのだった。=As you were on the train with Yuu, you were thinking about such things.
 おお……。=Oo...
@@ -249,9 +249,9 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 そ、そうだ。おじさん……お背中、流してあげよっか？=T-That's right. Oji-san...shall I wash your back?
 あなたもなんとなく居たたまれず、「頼む」と短く言って流し場に腰をかけた。=You told her "please do" as you sat down near the sinks.
 えへへ……こういうの、一度やってみたかったんだよね。=Ehehe...I've wanted to do something like this before.
-彼女は真面目な娘なのだ。= She is a serious girl after all.
+彼女は真面目な娘なのだ。= She was a serious girl after all.
 ……何をするのか少し期待したが、夕は熱心に背中を洗ってくれた。=...You didn't expect much, but Yuu washed your back eagerly. 
-……何をするのか少し期待したが、夕は熱心に背中を洗ってくれた。彼女は真面目な娘なのだ。=...You didn't expect much, but Yuu washed your back eagerly. She is a serious girl after all.
+……何をするのか少し期待したが、夕は熱心に背中を洗ってくれた。彼女は真面目な娘なのだ。=...You didn't expect much, but Yuu washed your back eagerly. She was a serious girl after all.
 おじさん、なんか背中傷だらけだよ？　痒いからって掻きむしっちゃ駄目だよ。=Oji-san, your back itches? That's no good, you can't scratch it.
 我慢できない時は言ってくれれば、私が優しく掻いてあげるから、ね？=Let me know if you can't stand it. I'll gently scratch it for you, ok?
 お返しに夕の背中も洗ってあげて、お互いにかけ湯を浴びせてから湯船へと浸かる。=I washed Yuu's back in return. After washing ourselves off, we soaked in the bath.
@@ -291,7 +291,7 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 
 ふぅ……あったまる……。=Fuu...It's warm...
 えへへ……なんか不思議な感じ。旅行って、いいものだね。=Ehehe...It's kind of a strange feeling. Traveling is really nice.
-しみじみと夕が言う。確かに、たまにはこんな非日常を味うのも悪くないとあなたは返す。=Yuu said keenly. You're right, this sort of a break from the norm isn't bad, you said back.
+しみじみと夕が言う。確かに、たまにはこんな非日常を味うのも悪くないとあなたは返す。=Yuu said keenly. "You're right, this sort of a break from the norm isn't bad", you said back.
 お風呂でエッチとかねー……自宅じゃちょっと蒸し暑そうだしね。=Having sex in the bath...it'd be a little steamy at home.
 そう言って、夕は「またする？」と言わんばかりに挑発的な視線を送ってくる。=Having said that, Yuu gave you a provocative look as if asking "Do you want to do it again?"
 あなたは湯船にぷっかりと浮かぶ乳房へと、つい手を伸ばしそうになるのをぐっと堪えた。=You restrained from reaching for her breasts that were floating in the bath.
@@ -328,15 +328,15 @@ Hmm……ふぅ。=Hmm...Fuu.
 
 // Other
 	Returning from work:
-共同生活に慣れないうちは、夕の状態はやや緊張気味からスタートします。=Yuu isn't used to communal life, she seems to be slightly tense and nervous.
+共同生活に慣れないうちは、夕の状態はやや緊張気味からスタートします。=Yuu wasn't used to communal life, she seemed to be slightly tense and nervous.
 新しいマネージャーの方針で無茶な残業は無くなったが、減った仕事の量はそれほどでもない。=Although the new manager reduced overtime significantly, there was still a lot of work to be done.
 人手不足が解消するまで、当面は休日返上でヘルプに当たってほしい。部長は弱り顔でそういった。=There was a shortage of workers, so there would be no day off this week. It'd be nice there was more help so you could take Sunday off.
-なくて当然だった休日が、本当はあるものになっただけ、大したものだとあなたは思った。=The truth is that you now have an important person waiting for you at home.
-夕が来てから、あなたは自宅に帰るのがすっかり楽しみになっていた。=Ever since Yuu arrived, you looked forward to going home.
+なくて当然だった休日が、本当はあるものになっただけ、大したものだとあなたは思った。=The truth was that you now have an important person waiting for you at home.
+夕が来てから、あなたは自宅に帰るのがすっかり楽しみになっていた。=Ever since Yuu arrived, you looked forward to go home.
 最近はいつも、もっと早く仕事を片付ける方法はないか、あれこれと考えを巡らせている。=Recently, I've been thinking about more ways to finish my work faster.
-どうにもならなければマネージャーに相談してやろう……そう考えられるだけで、以前よりだいぶ気は楽だった。=Let's consult with the manager...Maybe we'll find ways to improve the workflow.
+どうにもならなければマネージャーに相談してやろう……そう考えられるだけで、以前よりだいぶ気は楽だった。=Let's consult with the manager...Maybe we would find ways to improve the workflow.
 夕に手伝ってもらったおかげで、今週は随分とスケジュールに余裕ができた。=Thanks to Yuu's help, your schedule was much more lax this week.
-これなら日曜は休んでも問題ないだろうと、あなたは部長に話を取り付ける。=If this keeps up, you can take Sundays off without any issues. You'll talk with your manager later about it.
-……仕事を持ち帰ってやらないと休めないのはどうかと思うが、とにかく今は夕とのまとまった時間ができるのが嬉しかった。=...I wonder how I'll be able to rest if if I don't take my work home. Regardless, I was happy to have more time with Yuu now.
+これなら日曜は休んでも問題ないだろうと、あなたは部長に話を取り付ける。=If this kept up, you could take Sundays off without any issues. You would talk with your manager later about it.
+……仕事を持ち帰ってやらないと休めないのはどうかと思うが、とにかく今は夕とのまとまった時間ができるのが嬉しかった。=...I wondered how I would be able to rest if I didn't take my work home. Regardless, I was happy to have more time with Yuu now.
 帰り道を歩きながら、あなたは休日の過ごし方を考える。=As you walked home, you thought about how to spend your day off.
-何しろしばらくぶりなので、何をすればいいのかわからない。夕と家でのんびりと過ごすか、あるいは彼女を誘って出かけてみようか……。=It's been a while, so I'm not sure what to do. Relax at home with Yuu or invite her out...
+何しろしばらくぶりなので、何をすればいいのかわからない。夕と家でのんびりと過ごすか、あるいは彼女を誘って出かけてみようか……。=It's been a while, so I was not sure what to do. Relax at home with Yuu or invite her out...
