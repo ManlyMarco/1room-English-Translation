@@ -350,7 +350,7 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 厳しいっていうか、制限がすごいんだよね。あれもだめ、これもだめって感じで……だから私、早く大人になりたかったよ。=My family is strict about what I can and can't do. Not just that, but I also felt like a failure...That's why I wanted to become an adult.
 習い事ばっかりだし、雑誌とか漫画もダメだから、こっそり買って学校で回し見とかしてたなぁ……。=I had lessons all day long and I couldn't read magazines or manga, so I bought them secretly and read at school...
 	#3
-……夕と他愛のない話で盛り上がった。=...Yuu and I had some exciting chat about love.	
+……夕と他愛のない話で盛り上がった。=...You two had some exciting chat about love.	
 	#4
 ＴＶでも見るかって？=Do you want to watch TV?
 うーん、いいよ。どうせこの時間じゃ、ニュースしかやってないでしょ。= Well, that's fine. After all, at this time, there's only the news.
@@ -404,7 +404,7 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 
 // Buying
 
-何か買ったの？=Did you buy anything?
+何か買ったの？=Did you buy something?
 明日の夕方に届く？　うん、わかった。受け取っておくね。=It'll arrive by tomorrow evening?\nOk, I'll receive it for you.
 
 // How are you feeling

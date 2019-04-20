@@ -368,7 +368,7 @@ Trophies:
 安心と信頼の業界最安値ドローン便で最短翌日にお届け=Fast and reliable delivery service.\nReceive your order by tomorrow evening.
 
 Dialogue:
-そういえば、荷物届いてたよ。=By the way, your packaged arrived.
+そういえば、荷物届いてたよ。=By the way, your package arrived.
 おじさんって、コーヒーはちゃんと豆からいれてるんだ。=Oji-san, you like to grind up the beans yourself?
 やっぱり男の人はこういうところ、こだわってるんだねえ。= I guess men are particular about this.
 おじさんって、コーヒーはちゃんと豆からいれてるんだ。やっぱり男の人はこういうところ、こだわってるんだねえ。=Oji-san, you like to grind up the beans yourself? I guess men are particular about this.
@@ -407,8 +407,8 @@ Dialogue:
 人の心がわかれば仕事でも私生活でも便利？　ふぅん……。=It's useful in both work and private life to understand people? Hmm...
 あ、ぎゃるずじゃん。=Ah, a girls magazine.
 私が好きそうだと思って注文してくれたの？= Did you order it because you thought I'd liked it?
-あ、ぎゃるずじゃん。私が好きそうだと思って注文してくれたの？=Ah, a girls magazine. Did you order it because you thought I'd liked it?
-この表紙のモデルの子、好きなんだよね。着てる服もかわいー。=I like the model on the cover. Her clothes are nice too.
+あ、ぎゃるずじゃん。私が好きそうだと思って注文してくれたの？=Ah, a girls' magazine. Did you order it because you thought I'd liked it?
+この表紙のモデルの子、好きなんだよね。着てる服もかわいー。=I like the model on the cover. Her clothes are nice, too.
 うちってお堅い家だったから、薄着だったりオシャレなのはおねだりできなかったんだよね。=Since my house was so strict, I couldn't ask for anything fashionable.
 ありがと、おじさん。= Thank you, Oji-san.
 だから、こういうのは見てるだけで楽しいよ。=So it's fun just looking at these things.
@@ -421,7 +421,7 @@ Dialogue:
 ね……私も隣で、ちょっと読ませてもらっても良い？=Hey...Can you let me take a look?
 おじさんの仕事とか、パソコンとか、ちょっと興味あるんだよね。=I'm interested in Oji-san's work and computers.
 すごい……全然わかんないや。=Wow..I don't understand anything.
-プロって……働くって、大変なんだねぇ……。=Pros...Must be really tough...
+プロって……働くって、大変なんだねぇ……。=Being pros...must be really tough...
 	#After purchasing
 ……ノートＰＣを使っていると、相変わらず夕の視線を感じる。=...While using the laptop, you could feel Yuu's gaze.
 ……へっ？　そんなに気になるなら使ってみれば良いって？=...Eh? If I'm so interested why don't I try to use it?
