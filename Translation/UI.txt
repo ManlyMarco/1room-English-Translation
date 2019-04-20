@@ -1,4 +1,4 @@
-//Main Menu
+﻿//Main Menu
 
 カテゴリ名=Category name
 キャンセル=Cancel
@@ -43,18 +43,18 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 目隠し=Blindfold
 なし=None
 
-初めてお口で= Her first Blowjob
+初めてお口で= Her first blowjob
 上手になった？=Gotten better?
 体操服で=In gym clothes
 初めてのキス=First kiss
-ラブホのベッドで=Love Hotel Bed
+ラブホのベッドで=Love hotel bed
 登校前に=Before attending school
 休日の朝に=On a holiday morning
 眠る夕を=Sleeping Yuu
 一人でこっそり=Secretly alone
 初めてのクンニ=First time cunnilingus
 我慢の限界=Limit of patience
-ラブホのお風呂で=Love Hotel Bath
+ラブホのお風呂で=Love hotel bath
 眠るおじさんを=Sleeping Oji-san
 貸切露天で=In the open-air bath
 旅館の夜=Inn at night
@@ -62,8 +62,8 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 エピローグ=Epilogue
  
 ０１：夕に口でしてもらう=01: Have Yuu give you a blowjob.
-０２：何度も口でしてもらっていると…？=02: When you give a blowjob many times...?
-０３：金曜の夜、部屋に置かれている体操着袋をクリック=03: On Friday at night. Click on Yuu's gym bag.
+０２：何度も口でしてもらっていると…？=02: When you are given blowjob many times...?
+０３：金曜の夜、部屋に置かれている体操着袋をクリック=03: On friday at night. Click on Yuu's gym bag.
 ０４：休日に夕をデートに誘う=04: Invite Yuu to a holiday date.
 ０５：０４の続き=05: Continuation of 04.
 ０６：早めに休んで平日の朝を迎える（０４以降）=06: Take a rest before going to work on a weekday. (after 04)
@@ -149,10 +149,10 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 足を開く=Open her legs
 股間を弄る=Touch her clit
 手を離す(股間)=Stop using fingers (Clit)
-指を抜く=Remove Fingers
-指を入れる=Insert Fingers
-尻を揉む=Grope Buttocks
-手を離す(尻)=Release your Hand (Butt)
+指を抜く=Remove fingers
+指を入れる=Insert fingers
+尻を揉む=Grope buttocks
+手を離す(尻)=Release your hand (Butt)
 股間に当てる(バイブ)=Press against slit (Vibe)
 離す(バイブ)=Remove(Vibe)
 ＯＮ(バイブ)=ON (Vibe)
@@ -175,7 +175,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 挿入する=Insert penis
 ……生で、そのまま挿入した。=I just inserted it raw...
 
-ゆっくり動く=Move Slowly
+ゆっくり動く=Move slowly
 浅めに戻す=Move very gently
 緩やかに戻す=Move gently
 もっと深く=Go deeper
@@ -251,7 +251,7 @@ Home Items:
 ファッション雑誌=Fashion magazine
 女性服を選ぶ参考になりそう=It will be helpful to choose women's clothes.
 アダルト雑誌=Adult magazine
-アダルトグッズ特集が組まれている=Adult goods featured.
+アダルトグッズ特集が組まれている=Featuring adult goods.
 難しい技術書=Difficult skill book
 簡単な技術書=Simple skill book
 初歩的なことが書かれた入門書=An introductory book with basics written.
@@ -311,7 +311,7 @@ Trophies:
 全てのアイテムを取得した=I got all the items
 全体位解放=All Positions
 全ての体位を解放した=Unlocked all positions
-協力関係=Coop Relationship
+協力関係=Co-op Relationship
 同棲生活を無期限延長する=Extend cohabitation life indefinitely
 協力関係+=Cooperation +
 日曜を休めるようになる=Will be able to rest on sunday
@@ -338,11 +338,11 @@ Trophies:
 寝バック解禁=Laying Doggy
 体位選択に寝バックが追加される=Laying Doggy is unlocked
 後背位解禁=Doggy Style
-体位選択に後背位が追加される=Doggy style is unlocked
+体位選択に後背位が追加される=Doggy Style is unlocked
 松葉崩し解禁=Thigh Up
-体位選択に松葉崩しが追加される=Thigh up is unlocked
-まんぐり返し解禁=Pile Driver
-体位選択にまんぐり返しが追加される=Pile Driver is unlocked
+体位選択に松葉崩しが追加される=Thigh Up is unlocked
+まんぐり返し解禁=Piledriver
+体位選択にまんぐり返しが追加される=Piledriver is unlocked
 騎乗位解禁=Cowgirl
 背面騎乗位解禁= Reverse Cowgirl
 機嫌が良い時に上になってもらえる=Get up when you feel good

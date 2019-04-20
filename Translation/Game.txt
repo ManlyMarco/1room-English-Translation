@@ -6,13 +6,13 @@
 なんか、金額が生々しいし……=I mean, it's not the amount...
 おじさんからお小遣いとか、まるでエンコーみたいじゃん。=Receiving money from Oji-san, it's like you're my ATM.
 ……何か言いたげだね。まあ、私もあんな風に持ちかけておいてナンだけどさ。=...Well I mean, it's not like I don't want it, although I do have an idea.
-夕は二人分の食費として十分な金額だけ預かって、残りは返そうとする。=You gave her enough to to feed two people and she could return the rest.
-家事をする分の駄賃にしていいと、あなたがいくら言っても受け取ろうとしない。=She wouldn't accept it no matter what you said, was she worried about the housekeeping cost?
+夕は二人分の食費として十分な金額だけ預かって、残りは返そうとする。=Yuu returned the rest of the money, which she could have kept to herself, after spending enough to feed both of you
+家事をする分の駄賃にしていいと、あなたがいくら言っても受け取ろうとしない。=She wouldn't accept it no matter what you said, was she worried that you spent more money on the housing cost than before?
 うーん……=Err...
 じゃあさ、とりあえず私が買い物して余った分は貯めておいて、他に生活で必要なものに使わない？=Well then, why don't we save whatever amount is left after I spend some and use it to buy something you want?
 そもそも、おじさんはもっとモノを買った方が良いと思うんだよね。部屋の中、すっきりしすぎだし。=For example, we could use the saved money to buy something for the room, so it feels more welcoming.
 そう言われても、お金の使い道が思いつかないって？=With that said, do you have anything you want to buy?
-暮らしを良くするためのものって、いろいろあるよ。リラックスできるものとか、本とか……=There's many things we could use that money for. Like relaxing things, books...
+暮らしを良くするためのものって、いろいろあるよ。リラックスできるものとか、本とか……=There are many things we could use that money for. Like relaxing things, books...
 避妊具みたいに、エッチなことに使うものとかさ。=Even contraceptives, so we could do naughty things.
 私も街で配ってたゴム、一個だけ持ってるから今日は大丈夫だけど……=I have a spare one, they were distributing it in the city. So today is ok...
 明日からの分は、ちゃんとおじさんが用意してよね。=Though, you'll have to properly prepare it starting tomorrow.
@@ -41,7 +41,7 @@
 こんな風に家庭的な朝食を摂るのはいつ以来だろうか。あなたは感慨に浸りながら、夕と一緒に朝食を囲む。=It's been ages since you last ate a homemade breakfast. You finished breakfast with Yuu while being overwhelmed by your emotions.
 作りたての手料理は温かく、優しい味がする。どの品もそつがなく、夕はずいぶんと料理に慣れているようだった。=Freshly prepared meals are warm and have a gentle taste to it. All of the dishes looked good, Yuu seemed to be used to cooking.
 二人で食器を片付けてから身支度を済ませて、夕のいれてくれたお茶で人心地つく。=The two of you finished the dishes, then you put on your suit and sat down comfortably, drinking the tea Yuu made for you.
-家を出る時間まで、まだ少し余裕がある……どうしようか。=I still have some time before work...What should I do?
+家を出る時間まで、まだ少し余裕がある……どうしようか。=You still have some time before work...You could...
 
 		#After actions
 あ、もう行くの？　ちょっと待って=Ah, are you going now?\nWait a minute...
@@ -61,8 +61,8 @@
 夕は一年前に両親を事故で失い、叔父夫婦の家に引き取られた。=Yuu lost her parents one year ago in an accident and was taken in by her aunt.
 しかし、夕の家庭と叔父夫婦には生前からの軋轢があり、温かく迎えられることはなかった。=However, Yuu's family didn't get along with most of her relatives, so she wasn't exactly welcomed.
 あなたは夕の話を……。=Concerning Yuu's story, you...
-信じている=Believe Her
-気にも留めていない=Don't Bother
+信じている=Believe her
+気にも留めていない=Don't bother
 
 	#if believe her
 夕の家事や料理の腕は、年の割に手慣れ過ぎている。=Yuu's housework and cooking skills were better than expected for her age.
@@ -75,10 +75,10 @@
 夕もまだ、そう信じているのだろうか。=You wondered if Yuu still thought of that.
 
 	#if don't bother
-あなたは依然として疲れており、彼女の境遇を気遣う余裕はなかった。=You were already exhausted as it is, you can't afford to care for her.
-或いは、あなたにとって夕はお互いの利害が一致している間だけの都合の良い女に過ぎなかった。=For you, Yuu was just a convenient woman that had a mutual agreement with you.
+あなたは依然として疲れており、彼女の境遇を気遣う余裕はなかった。=You were already exhausted as it was, you couldn't afford to care for her.
+或いは、あなたにとって夕はお互いの利害が一致している間だけの都合の良い女に過ぎなかった。=For you, Yuu was just a convenient woman who had a mutual agreement with you.
 いずれにせよあまり長く付き合うのも、面倒ごとに関わるのも真っ平御免だ。=Anyway, developing any relationship with her would be too bothersome.
-あくまで一週間、仕事の憂さ晴らしをするための割り切った関係……あなたにとっては、それで十分なのだった。=It was a one week relationship so that you would feel relaxed after work...that was enough for you.
+あくまで一週間、仕事の憂さ晴らしをするための割り切った関係……あなたにとっては、それで十分なのだった。=It was a one week relationship so that you would feel relaxed after work...That was enough for you.
 
 // Last Day
 おじさん、本当に顔色良くなったね。=Oji-san, your complexion is looking better.
@@ -88,17 +88,17 @@
 ……なんかこれで終わりっぽくなっちゃったけど、明日の朝まではお世話になるからね。=...Our mutual relationship will end soon, I'll be here until tomorrow morning.
 そ、それじゃ、気をつけてね。いってらっしゃい。=W-Well then, be careful. Have a safe trip.
 ……これで、お別れだね。=...This is goodbye.
-お料理、作り置きしたの小分けにしてあるから、ちゃんと食べてね。=I left some food for you, make sure you properly eat it.
+お料理、作り置きしたの小分けにしてあるから、ちゃんと食べてね。=I left some food for you, make sure you eat it properly.
 鍵は、ポストに入れておくから。=I'll put the key in the mail box.
 ばいばい、おじさん。=\nBye bye, Oji-san.
 ……それじゃ、気をつけてね。いってらっしゃい。=...Well then, be careful. Have a safe trip.
 ……それじゃ、気をつけてね。いってらっしゃい。ばいばい、おじさん。=...Well then, be careful. Have a safe trip.\nBye bye, Oji-san.
-出社すると、どうも社内の様子が騒がしい。=When I went to work, the state of the company was boisterous.
-同僚に話を聞くと、いくつかの取引がキャンセルになり、営業部が対応に追われているのだという。=Talking to my co-workers, they told me that some transactions were canceled and the sales department was busy.
-何があったのかは知らないが、最近のスケジュールは明らかに過密だった。少しでも楽になるならありがたい。=I didn't know what happened, but the schedule was overcrowded. It'd be nice if things were a little easier.
+出社すると、どうも社内の様子が騒がしい。=When you went to work, the state of the company was boisterous.
+同僚に話を聞くと、いくつかの取引がキャンセルになり、営業部が対応に追われているのだという。=Talking to your co-workers, they told you that some transactions were canceled and the sales department was busy.
+何があったのかは知らないが、最近のスケジュールは明らかに過密だった。少しでも楽になるならありがたい。=You didn't know what happened, but the schedule was overcrowded. It'd be nice if things were a little easier.
 夕方になると、新しく配属されたマネージャーが現場の一人一人に面談を行った。=In the evening, a newly assigned manager interviewed everyone on the scene.
 彼は長時間労働を是正するといい、勤怠管理表を見ると頭を抱えて、部署の人間を一人残らず帰宅させた。=He wanted to shorten our long hours and decided to send all the people in the department home for the day.
-こんな日に限って、いつもよりだいぶ早めに自宅に帰ってきてしまった。=Only on such a day, I came home earlier than usual.
+こんな日に限って、いつもよりだいぶ早めに自宅に帰ってきてしまった。=Only on such a day, you came home earlier than usual.
 ……夕がいない部屋の中が、なんだかとても広く感じられる。=...In the room without Yuu, it looked bigger than usual.
 
 ゆっくりと休む=Rest
@@ -109,20 +109,20 @@
 気楽な一人暮らしを満喫しながら、胸中には拭いきれない寂しさが残っていた。=While living alone was carefree, you felt a sense of loneliness in your heart.
 
 	#if Head to the station
-なんとなく胸騒ぎがして、あなたは再び駅へと向かった。=I was feeling restless, so I decided to head to the station.
-夕と出会った駅のプラットホームまで戻ってくると、すぐに真っ青な表情で呆然と立ちつくす少女の姿が目についた。=Returning to the station where I met Yuu, I immediately saw the appearance of a familiar girl with a gloom expression on her face.
+なんとなく胸騒ぎがして、あなたは再び駅へと向かった。=You were feeling restless, so you decided to head to the station.
+夕と出会った駅のプラットホームまで戻ってくると、すぐに真っ青な表情で呆然と立ちつくす少女の姿が目についた。=Returning to the station where you met Yuu, you immediately saw the appearance of a familiar girl with a gloom expression on her face.
 あからさまに目立つせいか、軽薄そうな男に言い寄られている。=Maybe because she stood out, a frivolous man was speaking to her.
 近づいて彼女の名前を呼びかけると、男はバツの悪そうな顔をして去っていった。=As you approached and called her name, the man made a hateful expression and left.
 ……おじさん。=...Oji-san.
 帰ろう=Let's go home.
 ……うん。=...Ok.
 一週間前と同じ薄暗い夜道を、夕と並んで歩く。=Just like a week ago, you walked down the same dimly lit street with Yuu.
-やっぱりだめだった。彼女は電車の中で、一言だけそういった。='It was no good after all'. That was all that she said when walking by your side.
+やっぱりだめだった。彼女は電車の中で、一言だけそういった。="It was no good after all". That was all what she said when walking by your side.
 あなたもそれ以上、何かを聞くつもりはなかった。=You didn't want to pry any further either.
 ねえ……私、まだおじさんの家にいてもいい？=Hey...Can I still stay at Oji-san's place?
-だめなら、わざわざ駅まで迎えに行ったりしない。="If I couldn't, I wouldn't pick you up from the station."
+だめなら、わざわざ駅まで迎えに行ったりしない。="If you couldn't, I wouldn't pick you up from the station in the first place."
 そう言うと夕はなぜか少し驚いて、すぐに真っ赤になって微笑んだ。=With that said, Yuu was a little surprised. She turned red and made a smile.
-……相変わらず年頃の少女が考えていることはよくわからない。=...I still didn't know what girls her age were thinking.
+……相変わらず年頃の少女が考えていることはよくわからない。=...You still didn't know what girls her age were thinking.
 まあ、少しずつ話していけば良い。= Well, we could just talk and slowly get to understand each other more.
 ……相変わらず年頃の少女が考えていることはよくわからない。まあ、少しずつ話していけば良い。=...I still don't know what girls her age were thinking. Well, we could just talk and slowly get to understand each other more.
 今のあなたには、彼女を気にかけるだけの余裕が生まれていた。=By now, a will to care for her was born in you.
@@ -131,17 +131,17 @@
 // First Date
 穏やかな休日の朝、あなたはうっすらと目を覚ました。=On a calm holiday morning, you were slightly awake.
 いつも早起きしている夕も、今日は隣ですやすやと寝息を立てている。=Yuu, who's always been waking up early, was also sleeping next to you.
-貴重な休日だ。どう過ごそうか。=It was a precious day off. What will you do?
+貴重な休日だ。どう過ごそうか。=It was a precious day off. What would you do?
 
 ゆっくり休む=Relax
 [！]デートに誘う(LP200)=[!]Invite on a date(LP200)
 
 	#if Relax
-あなたはもう一度目を瞑り、夕と一緒に惰眠を貪る。=You closed you eyes again, and fell asleep with Yuu.
+あなたはもう一度目を瞑り、夕と一緒に惰眠を貪る。=You closed you eyes again and fell asleep with Yuu.
 二人一緒に寝坊して遅い朝食をとり、のんびりと夜まで過ごした。=The two of you overslept and had a late breakfast. You spent the night leisurely with her.
 
 	#if Invite on a date
-起きてきた夕に今日は一緒に出かけようと誘うと、彼女は飛び上がってテキパキと用意を進めてくれた。=When I asked Yuu after she woke up to go out on a date, she jumped up and got ready.
+起きてきた夕に今日は一緒に出かけようと誘うと、彼女は飛び上がってテキパキと用意を進めてくれた。=When you asked Yuu after she woke up to go out on a date, she jumped up and got ready.
 遅い朝食の後。のんびりコーヒーを飲んでいると、夕が身支度を済ませて部屋に入ってくる。=After a late breakfast, you were enjoying a cup of coffee when Yuu came into the room after getting ready.
 良く似合ってる？　そ、そう……嬉しいな。= It looks good? I-I see...I'm glad.
 Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Ehehe...I wonder. It looks good? I-I see...I'm glad.
@@ -149,8 +149,8 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 あなたは頷くと、頬を赤らめた夕と並んで家を出た。=You nodded in response and Yuu blushed as the two of you headed out.
 近場でのんびりできるところがいいと話がまとまって、隣駅のショッピングモールまで電車で向かう。=The two of you decided that a relaxing place nearby would be good. Both of you took a train to the shopping mall.
 日曜ということもあってモールの中はそれなりに賑わっていたが、人混みが気になるほどでもない。=Although it was Sunday, the mall was quite busy even though there wasn't that many people.
-せっかくなので服でも見ようかと言うと、夕は「それよりも」と雑貨屋を巡りたがった。=I suggested we go look at clothes, but Yuu said she wanted to look at the general store first.
-お部屋の中殺風景だし、もっと物を置いた方がいいよ。=Our room is kinda boring, so why don't we place more things.
+せっかくなので服でも見ようかと言うと、夕は「それよりも」と雑貨屋を巡りたがった。=You suggested to go look at clothes, but Yuu said she wanted to look at the general store first.
+お部屋の中殺風景だし、もっと物を置いた方がいいよ。=Our room is kinda boring, so why don't we place more things in it.
 ほら、おじさん。これ可愛くない？= Look, Oji-san. Isn't this cute?
 お部屋の中殺風景だし、もっと物を置いた方がいいよ。ほら、おじさん。これ可愛くない？=Our room is kinda boring, so why don't we place more things in it. Look, Oji-san. Isn't this cute?
 思えばあの部屋はいつの間にか、帰ってきて寝るだけのための空間ではなくなっていた。=Thinking about it, that room wasn't just for coming back and sleeping now.
@@ -160,20 +160,20 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 映画館を出る頃には、すっかり日が落ちていた。=By the time the two of you left the theater, the sun was setting.
 はー楽しかった。ありがとう、おじさん。=Today was fun. Thank you, Oji-san.
 帰り道、駅前まで戻ってから夕は楽しげに一日を振り返る。=On the way back from the station, Yuu looked happy as she reminisced on today.
-その様子を微笑ましく眺めていると、急に夕は目を伏せてあなたに振り返った。=As I smiled at the situation, Yuu suddenly turned back to you.
+その様子を微笑ましく眺めていると、急に夕は目を伏せてあなたに振り返った。=As you smiled at the situation, Yuu suddenly turned back to you.
 ね、おじさん……今日はどうして誘ってくれたの？=Hey, Oji-san...Why did you invite me today?
 一緒に歩いても変に思われないように、こんな大人っぽい服まで用意してくれて……。=You even prepared such adult-like clothes so it wouldn't seem weird for us to walk together...
 私と恋人みたいなことがしたかったの？=Did you want us to be like lovers?
 わ、私と……恋人に、なりたいの？=W-With me...do you want to be lovers?
-少なくとも、自分は夕と出会って助けられた。=At the very least, I was saved by meeting Yuu.
-夕を大切に思っているし、これからも一緒に居て欲しいと思う。=Yuu is important to me now, I hope to be with her in the future.
+少なくとも、自分は夕と出会って助けられた。=At the very least, you were saved by meeting Yuu.
+夕を大切に思っているし、これからも一緒に居て欲しいと思う。=Yuu is important to you now, you hope to be with her in the future.
 あなたは思っていたことをそのまま彼女に伝えると、夕は満面の笑みで応えてくれた。=When you told her what you thought, Yuu responded with a big smile.
 う、うん……私も、私もそう思ってた。=Y-Yes...Me too, I also feel the same.
 えへへ……私たち、相思相愛だね。=Ehehe...We're in love with one another.
 ……あなたは今すぐに彼女を抱きしめたい気持ちを抑えつつ、夕の手を取って近くの路地に目配せする。=...While holding in the desire to hug her, you took Yuu's hand and led her to a nearby alley.
 あ……=Ah...
 あ……O-Ok. I'll do it...=Ah...O-Ok. I'll do it...
-人気のない静かな通りを歩いていると、すぐにラブホ街に入り込んだ。=Walking down a quiet street that isn't popular, you soon approached a love hotel.
+人気のない静かな通りを歩いていると、すぐにラブホ街に入り込んだ。=Walking down a quiet street that wasn't popular, you soon approached a love hotel.
 ホテルの入り口にさしかかると夕は腕を絡めて、ぎゅっと手を繋いでくる。=When you reached the entrance, Yuu wrapped her hands around your arm.
 あなたは寄り添う彼女を連れてホテルの中へと入っていった。=After getting inside, you brought her closer to you.
 部屋に入った瞬間、あなたは夕の腰を強く抱き寄せた。=The moment you entered the room, you firmly embraced Yuu's waist.
@@ -271,10 +271,10 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 でやー！=Oh!
 ぎゃー！=Kyaa!
 うあー、外したー！=Uaa, I lost!
-……ふふ。やるね、おじさん。バドミントンプロの私を倒すなんて……。=...Fufu. Not bad Oji-san. Impressive that you defeated a badminton pro like me.
-それは初耳だった。=That's the first time I heard of that.
-どうでもいいが、いろいろはだけたり揺れたりして危ない。=It doesn't really matter, but moving around so much can be revealing, it's dangerous
-周りに客がいなくて本当に良かったと、あなたは内心胸を撫で下ろす。=Luckily there are no other customers around, you secretly took a peek at her breasts.
+……ふふ。やるね、おじさん。バドミントンプロの私を倒すなんて……。=...Fufu. Not bad, Oji-san. Impressive that you defeated a badminton pro like me.
+それは初耳だった。=That's the first time I heard of that.	[check]
+どうでもいいが、いろいろはだけたり揺れたりして危ない。=It didn't really matter, but moving around so much could be revealing, it's dangerous.
+周りに客がいなくて本当に良かったと、あなたは内心胸を撫で下ろす。=Luckily there were no other customers around, you secretly took a peek at her breasts.
 
 都会の喧騒と切り離されたような空間で、のんびりと余暇を満喫する。=Spending leisure time in a place far from city noise was relaxing.
 楽しい時間はあっという間に過ぎていった。=The fun times passed by in no time.
@@ -285,7 +285,7 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 えへへ……おじさーん……=Ehehe...Ojiii-san...
 えへへ……おじさーん……<color%3D#fca4bc>❤<color%3Dwhite>=Ehehe...Ojiii-san...<color%3D#fca4bc>❤<color%3Dwhite>
 向かいに座っている夕が、手を伸ばしてじゃれてくる。=Yuu was playfully reaching out her hand from across the table.
-こんな風になんでもない時間が、じんわりと心の隙間を埋めていくような気がした。=It's times like these that I feel like my heart is full.
+こんな風になんでもない時間が、じんわりと心の隙間を埋めていくような気がした。=It's times like these that I feel like my heart is full.	[check]
 夕飯は旬の野菜を使った鍋料理と、川魚と山菜の天ぷらだった。=The dinner was hot pot dishes with season vegetables, tempura of river fish, and wild vegetables.
 なかなか食べる機会のない珍しい食材に夕は喜んで、あなたたちは大いに話を弾ませた。=The exotic food was very delightful. Yuu enjoyed herself too as the two of you talked.
 
@@ -294,7 +294,7 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 しみじみと夕が言う。確かに、たまにはこんな非日常を味うのも悪くないとあなたは返す。=Yuu said keenly. "You're right, this sort of a break from the norm isn't bad", you said back.
 お風呂でエッチとかねー……自宅じゃちょっと蒸し暑そうだしね。=Having sex in the bath...it'd be a little steamy at home.
 そう言って、夕は「またする？」と言わんばかりに挑発的な視線を送ってくる。=Having said that, Yuu gave you a provocative look as if asking "Do you want to do it again?"
-あなたは湯船にぷっかりと浮かぶ乳房へと、つい手を伸ばしそうになるのをぐっと堪えた。=You restrained from reaching for her breasts that were floating in the bath.
+あなたは湯船にぷっかりと浮かぶ乳房へと、つい手を伸ばしそうになるのをぐっと堪えた。=You restrained from reaching for her breasts that were floating in the bath.	[check]
 まだまだ、夜はこれからなのだ。=Not yet, there was still night time.
 ふぅ。=Fuu.
 Hmm……ふぅ。=Hmm...Fuu.
@@ -330,13 +330,13 @@ Hmm……ふぅ。=Hmm...Fuu.
 	Returning from work:
 共同生活に慣れないうちは、夕の状態はやや緊張気味からスタートします。=Yuu wasn't used to communal life, she seemed to be slightly tense and nervous.
 新しいマネージャーの方針で無茶な残業は無くなったが、減った仕事の量はそれほどでもない。=Although the new manager reduced overtime significantly, there was still a lot of work to be done.
-人手不足が解消するまで、当面は休日返上でヘルプに当たってほしい。部長は弱り顔でそういった。=There was a shortage of workers, so there would be no day off this week. It'd be nice there was more help so you could take Sunday off.
+人手不足が解消するまで、当面は休日返上でヘルプに当たってほしい。部長は弱り顔でそういった。=There was a shortage of workers, so there would be no day off this week. It'd be nice there was more help so you could take sunday off.
 なくて当然だった休日が、本当はあるものになっただけ、大したものだとあなたは思った。=The truth was that you now have an important person waiting for you at home.
 夕が来てから、あなたは自宅に帰るのがすっかり楽しみになっていた。=Ever since Yuu arrived, you looked forward to go home.
-最近はいつも、もっと早く仕事を片付ける方法はないか、あれこれと考えを巡らせている。=Recently, I've been thinking about more ways to finish my work faster.
+最近はいつも、もっと早く仕事を片付ける方法はないか、あれこれと考えを巡らせている。=Recently, you've been thinking about more ways to finish my work faster.
 どうにもならなければマネージャーに相談してやろう……そう考えられるだけで、以前よりだいぶ気は楽だった。=Let's consult with the manager...Maybe we would find ways to improve the workflow.
 夕に手伝ってもらったおかげで、今週は随分とスケジュールに余裕ができた。=Thanks to Yuu's help, your schedule was much more lax this week.
-これなら日曜は休んでも問題ないだろうと、あなたは部長に話を取り付ける。=If this kept up, you could take Sundays off without any issues. You would talk with your manager later about it.
-……仕事を持ち帰ってやらないと休めないのはどうかと思うが、とにかく今は夕とのまとまった時間ができるのが嬉しかった。=...I wondered how I would be able to rest if I didn't take my work home. Regardless, I was happy to have more time with Yuu now.
+これなら日曜は休んでも問題ないだろうと、あなたは部長に話を取り付ける。=If this kept up, you could take sundays off without any issues. You would like to talk with your manager about it later.
+……仕事を持ち帰ってやらないと休めないのはどうかと思うが、とにかく今は夕とのまとまった時間ができるのが嬉しかった。=...You wondered how you would be able to rest if you didn't take your work home. Regardless, you were happy to have more time with Yuu now.
 帰り道を歩きながら、あなたは休日の過ごし方を考える。=As you walked home, you thought about how to spend your day off.
 何しろしばらくぶりなので、何をすればいいのかわからない。夕と家でのんびりと過ごすか、あるいは彼女を誘って出かけてみようか……。=It's been a while, so I was not sure what to do. Relax at home with Yuu or invite her out...

@@ -1,4 +1,4 @@
-// General
+﻿// General
 	Skip Prologue:
 
 
@@ -29,7 +29,7 @@
 えっと……どうすればいい？=Umm...What should I do?
 	#out of rubber
 ……シたかったら、ちゃんと準備しておいてね？=...If you want to do it, please prepare everything properly.
-きょ、今日はだめだよ。ゴム切れてるし。=Kyaa, Today is no good. We're out of rubbers.
+きょ、今日はだめだよ。ゴム切れてるし。=Kyaa, today is no good. We're out of rubbers.
 
 ダメ。=No.
 何度頼まれたって無理だからね。=It doesn't matter how many times you ask.
@@ -62,7 +62,7 @@
 気にしないって、そういう問題じゃ……もう……においとか、絶対嗅いだりしないでよね。=You don't mind? But that's not the problem...\nGeez...Don't you dare try to sniff me now.
 
 		#if "Oh、That would be nice"
-……もしかして、おじさんってそういう趣味の人？=...By any chance, Oji-san are you into this kind of thing?
+……もしかして、おじさんってそういう趣味の人？=...By any chance, Oji-san, are you into this kind of thing?
 う、うん。しよっか。=O-Ok. Shall we?
 Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
 えっと……じゃあ、どうすればいいのかな。=Umm...What should I do?
@@ -95,14 +95,14 @@ Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
 
 なんで帰ってきたのにまだ働くの？　意味わかんない！= Why are you still working even though you just came back? I don't understand.
 うえー、やめなよぉ。=Wow, you never stop.
-ほらほら。そんなことよりこっちに来て、私と一緒にまったりしよ？　ね？=Hey Hey. Can't you come over here and relax with me?
-お仕事？　もう、ほどほどにね。=Work? Gosh, don't push yourself.
+ほらほら。そんなことよりこっちに来て、私と一緒にまったりしよ？　ね？=Hey Hey. Can you come over here and relax with me?
+お仕事？　もう、ほどほどにね。=Work? Gosh, don't push yourself too hard.
 夕は困った顔をしつつ、渋々お茶を煎れて見守ってくれた。=Yuu made a troubled face and drank some tea while watching over you.
 あなたは夕と雑談しながら、持ち帰った仕事……メールの返信や資料のまとめを少し片付けた。=While talking with Yuu, you were going through your emails, sorting documents, and tidying your work up.
 ……おじさん。それ、私にも何か手伝えないかな？=...Oji-san. Well, is there work I can help you with?
 あなたが何かしているといつも隣で見ている夕が、今日はそんなことを言ってくる。=Yuu said that after having watched over you work for a while now.
 あなたがやっていたことは簡単なツールの作成と、その動作テストだった。=You were just creating a simple tool and testing it.
-扱うデータは仮のものなので、見せても問題はない。チェック項目も決まっている。少し教えれば夕もできるだろう。=It's fine to show her the data, since it's just a sample. The checklist looks fine too. You could spare some time to teach Yuu how to use it.
+扱うデータは仮のものなので、見せても問題はない。チェック項目も決まっている。少し教えれば夕もできるだろう。=It's fine to show her the data, since it was just a sample. The checklist looked fine too. You could spare some time to teach Yuu how to use it.
 私もちゃんと、勉強してるんだからね。= I've been studying properly.
 ふふふ、任せてよおじさん……=Fufufu, leave it to me Oji-san.
 ふふふ、任せてよおじさん……私もちゃんと、勉強してるんだからね。=Fufufu, leave it to me Oji-san. I've been studying properly.
@@ -123,7 +123,7 @@ _カモミールにする(あと<param%3D選択肢１>)= Chamomile Tea (+<param%
 コーヒー？　うん、好きだよ。=Coffee? Yeah, I like it.
 おじさんが煎れてくれるの？　えへへ……楽しみだなー。=Oji-san will make it? Ehehe...I'm looking forward to it.
 わー、ありがとう。=Waa, Thank you.
-はぁ……おいしいね。なんだか大人って感じがするよ。=Wow...it's delicious. I feel like an adult somehow.
+はぁ……おいしいね。なんだか大人って感じがするよ。=Wow...It's delicious. I feel like an adult somehow.
 
 #if "Prepare Chamomile Tea"
 
@@ -147,7 +147,7 @@ _カモミールにする(あと<param%3D選択肢１>)= Chamomile Tea (+<param%
 うん、もうお湯張ってあるよ。先に入ってきて。=The water is already hot. You can go first. 
 ゆっくりくつろいでね。=\nWe can take our time...
 ……夕と順番に風呂に入った。=...Yuu and you took a bath in turns.
-ふぅ……良い湯だった。=Fuu...what a nice bath.
+ふぅ……良い湯だった。=Fuu...What a nice bath.
 おじさん、ドライヤーは？　だめだよ、ちゃんと乾かさないと。=Oji-san, what about the dryer? You have to dry your hair properly.
 頭皮が傷んじゃうんだから。ほら、そこ座って。=Otherwise your scalp can get damaged.\nNow sit here...
 ……夕に髪を乾かしてもらった。=...Yuu dried your hair for you.
@@ -213,7 +213,7 @@ H-Hey, you're touching me too much!　……変な気分に、なってきちゃ
 	#Butt on Bed
 ……何？　マッサージ？=...What? Massage?
 ……い、意外と大胆だね=...Y-You're surprisingly bold
-困ったおじさんだなぁ……=Oji-san you're worrisome...
+困ったおじさんだなぁ……=Oji-san, you're worrisome...
 ……おじさんの、えっち=...Oji-san, ecchi.
 もー、エッチなんだから……。=Geez, ecchi...
 Kyaa...もー、エッチなんだから……。=Kyaa...Geez, ecchi...
@@ -221,11 +221,11 @@ Kyaa...もー、エッチなんだから……。=Kyaa...Geez, ecchi...
 あっ……=Aa...
 ここまで堂々と触られたことは、さすがになかったよ……。= You're really touching me a lot.
 うわー、痴漢だー。=Uwaa, pervert.
-うわー、痴漢だー。ここまで堂々と触られたことは、さすがになかったよ……。=Uwaa, pervert. You're really touching me a lot
+うわー、痴漢だー。ここまで堂々と触られたことは、さすがになかったよ……。=Uwaa, pervert. You're really touching me a lot.
 そんな熱心に揉みし抱いて……お尻好きなの？=You're touching it so enthusiastically...Do you really like butts?
 　別に良いけどさぁ……。= I don't mind, it's not a bad thing...
 そんな熱心に揉みし抱いて……お尻好きなの？　別に良いけどさぁ……。=You're touching it so enthusiastically...Do you really like butts? I don't mind, it's not a bad thing...
-気にせず本を読んでいる……。=She's reading her book without minding you...
+気にせず本を読んでいる……。=She was reading her book without minding you...
 
 	#Butt sitting
 ちょっとぉ、今こっそりめくろうとしたでしょー？=Hey, did you just try to sneakily touch me?
@@ -241,7 +241,7 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 ……ちょっと、子ども扱いしてない？=...Hey, aren't you treating me like a child?\n
 　……ふぅん。なら、いいんだけど……。=...Well, I don't really mind...
 もー、やめてよぉ。=Geez, stop it.
-髪がくしゃくしゃになっちゃう……。= My hair will get crumpled...
+髪がくしゃくしゃになっちゃう……。= My hair will get tangled...
 夕は複雑な表情を浮かべながら、黙って頭を撫でられている。=Yuu was making a complicated expression as you gently caressed her head.
 
 	#if "Yes I did"
@@ -306,7 +306,7 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 あ……もしかして、重かったかな。=Ah...Maybe, it's kind of hard to talk about.
 あ……もしかして、重かったかな。そ、そっか……なら良かった。=Ah...Maybe, it's kind of hard to talk about.\nI, I see...That makes me happy though.
 あのさ……私、良い子になりたいんだよね。=You know...\nI want to be a good girl.
-土曜の朝には、ちゃんと出ていくから……それまでここで、良い子の練習させてくれないかな。=I'll leave on Saturday morning so...\nuntil then, will you let me practice being a good girl?
+土曜の朝には、ちゃんと出ていくから……それまでここで、良い子の練習させてくれないかな。=I'll leave on saturday morning so...\nuntil then, will you let me practice being a good girl?
 
 	#2
 あはは、そんなのいないよー。私、ずっと女子校だったし。= Ahaha, I have nobody like that. I've always been in girl's schools.
@@ -318,36 +318,36 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 
 	#3
 身寄りがなくなってからの話？=Story after my parents died?
-叔母さん夫婦の家に引き取られたんだけど、うちって親戚にもすっごい嫌われててさー……。= I was taken in by my Aunt and her husband, but my relatives really didn't like me...
-身寄りがなくなってからの話？　叔母さん夫婦の家に引き取られたんだけど、うちって親戚にもすっごい嫌われててさー……。=Story after my parents died? I was taken in by my Aunt and her husband, but my relatives really didn't like me...
+叔母さん夫婦の家に引き取られたんだけど、うちって親戚にもすっごい嫌われててさー……。= I was taken in by my aunt and her husband, but my relatives really didn't like me...
+身寄りがなくなってからの話？　叔母さん夫婦の家に引き取られたんだけど、うちって親戚にもすっごい嫌われててさー……。=Story after my parents died? I was taken in by my aunt and her husband, but my relatives really didn't like me...
 ……何かされてないかって？　あはは、何もないよ。=...Did you do something bad, they asked. Ahaha, nothing at all. 
 むしろほんと、何もされないって言うか……=It's actually the truth, I didn't do anything, or rather...
-人間、完全に無視されるのが、一番堪えるんだなあって……。= For humans, being neglected, that's the hardest to bear isn't it...
-むしろほんと、何もされないって言うか……人間、完全に無視されるのが、一番堪えるんだなあって……。=It's actually the truth, I didn't do anything, or rather...For humans, being neglected, that's the hardest to bear isn't it...
-興味を持ってもらえるだけ、何かされた方が、まだマシだったかも。=As long as I got some attention, actually doing something might be for the better.
+人間、完全に無視されるのが、一番堪えるんだなあって……。= For humans, being neglected, that's the hardest thing to bear, isn't it...?
+むしろほんと、何もされないって言うか……人間、完全に無視されるのが、一番堪えるんだなあって……。=It's actually the truth, I didn't do anything, or rather...For humans, being neglected, that's the hardest thing to bear, isn't it...?
+興味を持ってもらえるだけ、何かされた方が、まだマシだったかも。=As long as I got some attention, I thought that it'd be better if I did something.
 許してもらえるように頑張ったんだけど、遅すぎたみたい。=I worked hard to get them to forgive me, but I was too late it seems.
 
 	#4
 うーん、家出の事情で話せるのはこのぐらいかな。ごめんね。=Well, that's everything I have to say about my situation. Sorry.
 今はもう、関わりがあるのはおじさんくらいだよ。=Right now, it's only Oji-san who's concerned.
-寂しい女子高生だよねえ。= I'm a lonely high school girl.
-今はもう、関わりがあるのはおじさんくらいだよ。寂しい女子高生だよねえ。=Right now, it's only Oji-san who's concerned. I'm a lonely high school girl.
+寂しい女子高生だよねえ。= I'm just a lonely high school girl.
+今はもう、関わりがあるのはおじさんくらいだよ。寂しい女子高生だよねえ。=Right now, it's only Oji-san who's concerned. I'm a just lonely high school girl.
 
 
 	#if "Chat with her"
 	Dialogue:
 	#1
 この辺って、妙に静かだよね。=It's strangely quiet here.
-下は空き部屋みたいだし、両隣もお爺ちゃんお婆ちゃんだしねえ。=The bottom seems to be an empty room, and both sides are occupied by old folks.
-この辺って、妙に静かだよね。下は空き部屋みたいだし、両隣もお爺ちゃんお婆ちゃんだしねえ。=It's strangely quiet here. The bottom seems to be an empty room, and both sides are occupied by old folks.
+下は空き部屋みたいだし、両隣もお爺ちゃんお婆ちゃんだしねえ。=It seems to be an empty room below, while both sides are occupied by old folks.
+この辺って、妙に静かだよね。下は空き部屋みたいだし、両隣もお爺ちゃんお婆ちゃんだしねえ。=It's strangely quiet here. It seems to be an empty room below, while both sides are occupied by old folks.
 え、うん。買い物帰りに会ったんだ。=Well, yeah. I met them on my way back from shopping.
 安心してよ。てきとーにごまかしておいたから。= But rest assured, because I managed to deceive them.
 ふふ……なんて言ったと思う？=Fufu...What do you think?
 	#2
 夕の家は厳しい家だったのだろうか、気になったあなたはそれとなく尋ねてみる。=You were wondering if Yuu's household was strict, so you tried to ask her indirectly.
 あれもだめ、これもだめって感じで……だから私、早く大人になりたかったよ。= Not just that, but I also felt like a failure...That's why I wanted to become an adult.
-厳しいっていうか、制限がすごいんだよね。=My family is strict about what I can do.
-厳しいっていうか、制限がすごいんだよね。あれもだめ、これもだめって感じで……だから私、早く大人になりたかったよ。=My family is strict about what I can do. Not just that, but I also felt like a failure...That's why I wanted to become an adult.
+厳しいっていうか、制限がすごいんだよね。=My family is strict about what I can and can't do.
+厳しいっていうか、制限がすごいんだよね。あれもだめ、これもだめって感じで……だから私、早く大人になりたかったよ。=My family is strict about what I can and can't do. Not just that, but I also felt like a failure...That's why I wanted to become an adult.
 習い事ばっかりだし、雑誌とか漫画もダメだから、こっそり買って学校で回し見とかしてたなぁ……。=I had lessons all day long and I couldn't read magazines or manga, so I bought them secretly and read at school...
 	#3
 ……夕と他愛のない話で盛り上がった。=...Yuu and I had some exciting chat about love.	
@@ -355,7 +355,7 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 ＴＶでも見るかって？=Do you want to watch TV?
 うーん、いいよ。どうせこの時間じゃ、ニュースしかやってないでしょ。= Well, that's fine. After all, at this time, there's only the news.
 ＴＶでも見るかって？　うーん、いいよ。どうせこの時間じゃ、ニュースしかやってないでしょ。=Do you want to watch TV? Well, that's fine. After all, at this time, there's only the news.
-夕はそう言うが、まだ普通にアニメもバラエティも放送されている時間だ。=Yuu said that, but there's still anime and variety shows being broadcast.
+夕はそう言うが、まだ普通にアニメもバラエティも放送されている時間だ。=Yuu said that, but there were still anime and variety shows being broadcast.
 試しに電源を入れてみせると、夕は目を丸くして驚いた。=When I turned on the TV, Yuu opened her eyes in surprise.
 えええええええ！？=Eeeeeee!?
 ……こんな世界があったんだ。私、何も知らなかった……。=...There was such a world. I never knew...
@@ -373,7 +373,7 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 	#C1 "You learned cooking at school?"
 　古臭いとこだよー、びっくりするくらい。= It's quite old fashioned, right?.
 そういうわけじゃないんだけど……花嫁修行ってやつ？=It's that sort of thing...Bride training, you know?
-でも私、あんな学校で社会に出てから大丈夫なのか、ずっと心配だったんだけどさ……。=Well, I was quite worried if I'd be fine after I graduate. I was always worrying about such things...
+でも私、あんな学校で社会に出てから大丈夫なのか、ずっと心配だったんだけどさ……。=Well, I was quite worried whether I'd be fine after I graduate. I was always worrying about such things...
 もしかして、意外と実践で役に立ってる……？=Perhaps, it actually was a good thing that I learned it...?
 
 	#C2 "At home?"
@@ -436,9 +436,9 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 
 // Touch butt on bed 
 
-ダメだよ、約束でしょ？=Do you remember our promise?
+ダメだよ、約束でしょ？=Don't you remember our promise?
 ……あ、ゴム切れてるじゃん。=...Ah, we're out of rubbers.
-……あ、ゴム切れてるじゃん。ダメだよ、約束でしょ？=...Ah, we're out of rubbers. Do you remember our promise?
+……あ、ゴム切れてるじゃん。ダメだよ、約束でしょ？=...Ah, we're out of rubbers. Don't you remember our promise?
 
 
 // End of day

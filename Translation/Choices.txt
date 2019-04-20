@@ -1,10 +1,10 @@
-// Intro
+﻿// Intro
 
 オープニングをスキップしますか？=Do you want to skip the prologue?
 いいえ=No
 はい=Yes
 
-……学生？=...a student?
+……学生？=...A student?
 ……=...
 
 置いていく=Reject her offer
@@ -41,7 +41,7 @@
 
 // Date
 
-温泉旅行に誘う=Invite to a hot springs trip
+温泉旅行に誘う=Invite her to a hot springs trip
 
 // Game
 
@@ -124,7 +124,7 @@
 横から(側位)=Sideways Position
 上になってもらう(背面騎乗位)=Reverse Cowgirl
 上になってもらう=Cowgirl
-まんぐり返し=Pile Driver
+まんぐり返し=Piledriver
 横から(松葉崩し)=Thigh Up
 後ろから(寝バック)=Laying Doggy
 前から=Missionary
