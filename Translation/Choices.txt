@@ -101,8 +101,8 @@
 
 // Make Tea
 
-何を飲もうか……。=What shall I drink...?
-カモミールにする(あと= Chamomile Tea (+)
+何を飲もうか……。=What should we drink...?
+カモミールにする(あと= Chamomile tea (+)
 コーヒーを煎れる(あと= Coffee(+)
 やっぱりやめる=Never mind
 夕に任せる=Leave it to Yuu

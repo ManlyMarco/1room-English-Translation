@@ -223,7 +223,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 夕とあなたの貯金額=Amount of your and Yuu's savings
 就寝までの残り行動回数=Remaining actions until bed time
 ショップ=Shop
-夕飯後。=After dinner
+夕飯後。=After dinner.
 ゲーム経過日数=Elapsed days
 [S]セーブ画面を開きます=[S] Open save screen
 [L]ロード画面を開きます=[L] Open the loading screen
@@ -246,7 +246,7 @@ Home Items:
 使う=Use
 コーヒー豆= Coffee beans
 行動回数が２回復する。さらに気分が良くなる=Has a good taste. Recover 2 AP.
-カモミール=Chamomile
+カモミール=Chamomile tea
 安眠効果のあるハーブティー=Herbal tea that induces drowsiness.
 ファッション雑誌=Fashion magazine
 女性服を選ぶ参考になりそう=It will be helpful to choose women's clothes.
@@ -269,10 +269,10 @@ Clothing:
 Ｙシャツ= Your shirt
 着古して少しほつれた男物のＹシャツ=Your frayed shirt.
 パジャマ=Pajamas
-肌にやさしいコットン１００％=100% cotton、gentle to the skin.
+肌にやさしいコットン１００％=100% cotton, gentle to the skin.
 涼しげな部屋着=Cool room clothes
 ノースリーブとホットパンツ=Sleeveless top and hot pants.
-体操着=Gym Uniform
+体操着=Gym uniform
 半袖のシャツとブルマ=Short sleeved shirt and bloomers.
 よそ行きの私服=Casual clothing
 Ｖネックニットとフレアスカート=V-neck knit and flared skirt.
@@ -471,10 +471,10 @@ Dialogue:
 あ、また本買ったんだ。勉強熱心だねぇ。=Oh, you bought another book. I'm eager to study it.
 へっ、これは私に？　気になってたみたいだから？=Eh, this is for me? Because I seemed interested?
 私、頑張ってみるね。= I'll try my best.
-……あ、ありがとうおじさん。=...Oh, Thank you Oji-san.
-……あ、ありがとうおじさん。私、頑張ってみるね。=...Oh, Thank you Oji-san. I'll try my best.
+……あ、ありがとうおじさん。=...Oh, thank you, Oji-san.
+……あ、ありがとうおじさん。私、頑張ってみるね。=...Oh, thank you, Oji-san. I'll try my best.
 	#After pill
-もう、わざわざこんなもの買って……そんなに生でしたかったの？=Geez, you already bought something like this...Did you really want to do it raw?
+もう、わざわざこんなもの買って……そんなに生でしたかったの？=Geez, you already bought something like this...Do you really want to do it raw?
 まだ学生の私にお薬飲ませて中出ししたがるなんて、ひどいおじさんだね。=Giving medication to a student and wanting to cum inside, bad Oji-san.
 ……うふふ、冗談だって。ちゃんと約束は守ってくれてるし、使ってもいいよ。=...Ufufu, just kidding. You kept your promise, so it's ok if you use it.
 	#Lotion Bottle
@@ -504,14 +504,14 @@ Dialogue:
 　ちょ、ちょっと……今試すのはやめて！=H-Hey...Stop it!
 ふぁっ<color%3D#fca4bc>❤<color%3Dwhite>　ちょ、ちょっと……今試すのはやめて！=Faa<color%3D#fca4bc>❤<color%3Dwhite>H-Hey...Stop it!
 	#Aphrodisiac Cream
-またそんな怪しいもの買って……別にいいけどさ。=You bought another suspicious thing...but it is good.
+またそんな怪しいもの買って……別にいいけどさ。=You bought another suspicious thing...but it's alright.
 ふぅん……。=Fuun...
 なになに……これを塗ったところは敏感になって、何度もイキやすく……=Wait what...It makes the applied area really sensitive...
 なになに……これを塗ったところは敏感になって、何度もイキやすく……ふぅん……。=Wait what...It makes the applied area really sensitive...Fuun...
 ……まぁ、おじさんが使いたいなら付き合ってあげてもいいよ。=...Well, if Oji-san wants to use it then it's fine.
 	#Vibe
 ……いくら私でも、さすがにこれの使い方は想像つくよ……ほんとにもう、エッチなんだから。=...Even though I can imagine how to use this...It already looks really naughty.
-でもさ、これっておじさん以外のを入れることになるんだけど……それでも良いの？=But, putting in something other than Oji-san...is that ok?
+でもさ、これっておじさん以外のを入れることになるんだけど……それでも良いの？=But, putting in something other than Oji-san's...is that ok?
 なんていうか、その……浮気になっちゃわない？=I mean, well...isn't it cheating?
 まあ、おじさんが使う分には、私は良いけどさあ……。=Well, if Oji-san is using it, then I'm fine with it...
 	#Maiden's Secret
@@ -563,7 +563,7 @@ Dialogue:
 
 Home Items:
 コーヒー豆×5=Coffee beans×5
-カモミール×5=Chamomile×5
+カモミール×5=Chamomile tea×5
 
 Cart:
 カートの中身 0/3=Cart 0/3

@@ -67,11 +67,11 @@
 Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
 えっと……じゃあ、どうすればいいのかな。=Umm...What should I do?
 まずはお口で……とか？=\nShould I start with my mouth...or?
-どうしようか……。=What should I do...
+どうしようか……。=What should you do...
 それに……その、えっと……。=And there is also that...Umm...
 ……あはは。ごめん、なんかテンパってるね。=...Ahaha, Sorry, I don't even know what I'm saying.
 正直良くわかんないし、おじさんに決めてもらっていい？= Honestly, I don't have any experience with it, can Oji-san take the lead?
-あ、あと服とかって、脱いだほうがいいよね？　そのままする？=Oh, I think it would be better if I took off my clothes right?
+あ、あと服とかって、脱いだほうがいいよね？　そのままする？=Oh, I think it may be better if I take off my clothes, right?
 
 		#if "Use your mouth"
 う、うん。いいよ。=O-Ok. I'll do it...
@@ -102,21 +102,21 @@ Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
 ……おじさん。それ、私にも何か手伝えないかな？=...Oji-san. Well, is there work I can help you with?
 あなたが何かしているといつも隣で見ている夕が、今日はそんなことを言ってくる。=Yuu said that after having watched over you work for a while now.
 あなたがやっていたことは簡単なツールの作成と、その動作テストだった。=You were just creating a simple tool and testing it.
-扱うデータは仮のものなので、見せても問題はない。チェック項目も決まっている。少し教えれば夕もできるだろう。=It's fine to show her the data, since it was just a sample. The checklist looked fine too. You could spare some time to teach Yuu how to use it.
+扱うデータは仮のものなので、見せても問題はない。チェック項目も決まっている。少し教えれば夕もできるだろう。=It was fine to show her the data, since it was just a sample. The checklist looked fine too. You could spare some time to teach Yuu how to use it.
 私もちゃんと、勉強してるんだからね。= I've been studying properly.
 ふふふ、任せてよおじさん……=Fufufu, leave it to me Oji-san.
 ふふふ、任せてよおじさん……私もちゃんと、勉強してるんだからね。=Fufufu, leave it to me Oji-san. I've been studying properly.
 驚いたことに、夕はツールのコードが何をしているのかそれなりに理解していた。=Surprisingly, Yuu understood the tool's code.
-あなたは時々夕の疑問に答えながら、二人で和気藹々と作業を進めていく。=While answering some of Yuu's questions occasionally, the two of you worked together.
+あなたは時々夕の疑問に答えながら、二人で和気藹々と作業を進めていく。=While answering occasionally some of Yuu's questions, the two of you worked together.
 山のようにあったチェックリストが埋まるのに、そう時間はかからなかった。=It didn't take long to finish the long checklist you had.
 ……夕と一緒に、持ち帰った仕事を少し片付けた。=...Yuu took a portion of the work you brought home.
 ---------------------------------------------------------------
 // Serve Tea
 
 _コーヒーを煎れる(あと<param%3D選択肢０>)= Coffee (+<param%3D選択肢０>AP)
-_カモミールにする(あと<param%3D選択肢１>)= Chamomile Tea (+<param%3D選択肢１>AP)
+_カモミールにする(あと<param%3D選択肢１>)= Chamomile tea
 コーヒーを煎れる(あと<param%3D選択肢０>)= Coffee (+<param%3DChoice０>AP)
-カモミールにする(あと<param%3D選択肢１>)= Chamomile Tea(+<param%3D選択肢１>AP)
+カモミールにする(あと<param%3D選択肢１>)= Chamomile tea
 
 #if "Prepare Coffee"
 
@@ -443,6 +443,6 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 
 // End of day
 
-夜も更けてきた……今日はもう休もう。=It's getting late...\nLet's call it a day.
+夜も更けてきた……今日はもう休もう。=It was getting late...\nLet's call it a day.
 私ももう眠いや。=  I'm soo sleepy.\n
 おじさん、おやすみなさい。=Oji-san, Good night.
