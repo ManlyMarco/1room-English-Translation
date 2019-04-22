@@ -462,7 +462,7 @@ Dialogue:
 ……そうだね、試してみればいっか。うふふ、ちょっと楽しみかも……=...Well, we can try. it Ufufu, I'm kind of looking forward to it...
 ……そうだね、試してみればいっか。うふふ、ちょっと楽しみかも……<color%3D#fca4bc>❤<color%3Dwhite>=...Well, we can try. it Ufufu, I'm kind of looking forward to it...<color%3D#fca4bc>❤<color%3Dwhite>
 	#Black lace underwear
-なんで下着って、黒いと大人っぽい感じがするんだろうね。=Why does... black underwear give off such a strong adult aura. 
+なんで下着って、黒いと大人っぽい感じがするんだろうね。=Why does... black underwear give off such a strong adult aura?
 女の子が好きで着けてるというより、見せることを意識してる感じがするのかな……？=Rather than wear it because they like it, do girls put these on expecting to be seen...?
 まあ、せっかく買ってもらったし……私もこれで、おじさんを悩殺してあげるよ。=Well, since you already bought it...I'll too use them to charm Oji-san.
 	#Easy Book
@@ -492,7 +492,7 @@ Dialogue:
 これからのエッチの参考にしようって……どんなプレイさ！　バカー！=As reference for when we do it...What kind of play is this!? Idiot!
 	#Pink Rotor
 ん？　なにこれ顔のマッサージ機？=Hm? What is this facial massager?
-あはは、結構激しく震える。ちょっと強すぎだよこれ。=Ahaha, its quite strong. Maybe a bit too strong.
+あはは、結構激しく震える。ちょっと強すぎだよこれ。=Ahaha, it's quite strong. Maybe a bit too strong.
 それ、この前おじさんが買ったエッチな本だけど……。= It's the horny book that Oji-san bought...
 え？　本当の使い方はこれに載ってるって？=Huh? Is the true usage listed in this?
 え？　本当の使い方はこれに載ってるって？　それ、この前おじさんが買ったエッチな本だけど……。=Huh? Is the true usage listed in this? It's the horny book that Oji-san bought...
