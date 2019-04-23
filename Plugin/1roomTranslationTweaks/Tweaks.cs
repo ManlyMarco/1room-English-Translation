@@ -1,6 +1,10 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 using System.Reflection.Emit;
 using BepInEx;
+using BepInEx.Logging;
 using Harmony;
 
 namespace Translation
@@ -12,20 +16,70 @@ namespace Translation
 
         private void Awake()
         {
+            var translationsPath = Path.Combine(Paths.PluginPath, "Translation/GameItemTranslations.txt");
+            if (!File.Exists(translationsPath))
+            {
+                Logger.Log(LogLevel.Error, "Could not find item translation file: " + translationsPath);
+                return;
+            }
+
+            var translations = File.ReadAllLines(translationsPath)
+                .Where(x => !string.IsNullOrEmpty(x?.Trim()))
+                .Select(x => x.Split(new[] { '=' }, 2, StringSplitOptions.None))
+                .GroupBy(x => x.Length);
+
+            foreach (var translationGroup in translations)
+            {
+                if (translationGroup.Key == 2)
+                {
+                    _itemNameTranslations = translationGroup.ToDictionary(x => x[0], x => x[1]);
+                }
+                else
+                {
+                    foreach (var line in translationGroup)
+                        Logger.Log(LogLevel.Warning, "Invalid line in GameItemTranslations.txt: " + string.Join("=", line));
+                }
+            }
+
+            if (_itemNameTranslations == null || _itemNameTranslations.Count == 0)
+            {
+                Logger.Log(LogLevel.Error, "No translations were found in item translation file: " + translationsPath);
+                return;
+            }
+
             HarmonyInstance.Create(GUID).PatchAll(typeof(TranslationTweaks));
         }
 
-        [HarmonyPrefix]
+        [HarmonyPostfix]
         [HarmonyPatch(typeof(PantTextFormatter), "Generate")]
-        public static void MoanTranslationFix(ref string suffix)
+        public static void MoanTranslationFix(ref string __result)
         {
             // Remove untranslated っ at the end of lines
-            suffix = suffix?.Replace("っ", string.Empty);
+            __result = __result?.Replace("っ", string.Empty);
         }
 
         [HarmonyTranspiler]
         [HarmonyPatch(typeof(UtageCommand), "OpenItem")]
         public static IEnumerable<CodeInstruction> OpenItemTranslateHook(IEnumerable<CodeInstruction> instructions)
+        {
+            return HookObjectGetName(instructions);
+        }
+
+        [HarmonyTranspiler]
+        [HarmonyPatch(typeof(UtageCommand), "ObtainTrophy")]
+        public static IEnumerable<CodeInstruction> ObtainTrophyTranslateHook(IEnumerable<CodeInstruction> instructions)
+        {
+            return HookObjectGetName(instructions);
+        }
+
+        [HarmonyTranspiler]
+        [HarmonyPatch(typeof(UtageCommand), "GainItem")]
+        public static IEnumerable<CodeInstruction> GainItemHook(IEnumerable<CodeInstruction> instructions)
+        {
+            return HookObjectGetName(instructions);
+        }
+
+        private static IEnumerable<CodeInstruction> HookObjectGetName(IEnumerable<CodeInstruction> instructions)
         {
             foreach (var instruction in instructions)
             {
@@ -38,43 +92,17 @@ namespace Translation
             }
         }
 
-        private static readonly Dictionary<string, string> _itemNameTranslations = new Dictionary<string, string>
-        {
-            {"セクシーな下着", "Sexy underwear"},
-            {"清楚な下着", "Neat underwear"},
-            {"マイクロビキニ", "Micro bikini"},
-            {"透視メガネ", "Perceptive glasses"},
-            {"目隠し", "Blindfold"},
-            {"コンドーム", "Condom"},
-            {"アフターピル", "After Pill"},
-            {"コーヒー豆", "Coffee Beans"},
-            {"カモミール", "Chamomile"},
-            {"精力剤", "Energizing Drink"},
-            {"ローション", "Lotion Bottle"},
-            {"媚薬クリーム", "Aphrodisiac Cream"},
-            {"ファッション雑誌", "Fashion Magazine"},
-            {"アダルト雑誌", "Adult Magazine"},
-            {"難しい技術書", "Difficult Skill Book"},
-            {"簡単な技術書", "Simple Skill Book"},
-            {"ビジネス書", "Business Book"},
-            {"最新転職ガイド", "Job Change Guide"},
-            {"パジャマ", "Pajamas"},
-            {"涼しげな部屋着", "Cool Room Clothes"},
-            {"体操着", "Gym Clothes"},
-            {"よそ行きの私服", "Casual Clothing"},
-            {"ピンクローター", "Pink Rotor"},
-            {"バイブ", "Vibe"},
-            {"心理学入門", "Intro to Psychology"},
-            {"乙女の秘密", "Maidens Secret"},
-            {"セミロング", "Hair Down"},
-            {"二つ結び", "Low Twintails"},
-            {"ポニーテール", "Ponytail"}
-        };
+        private static Dictionary<string, string> _itemNameTranslations;
 
         public static string GetTranslatedItemName(GameItemData item)
         {
+            Logger.Log(LogLevel.Debug, $"Looking for translation for item: {item.Name}");
             if (_itemNameTranslations.TryGetValue(item.Name, out var translation))
+            {
+                Logger.Log(LogLevel.Debug, $"Found translation: {translation}");
                 return translation;
+            }
+
             return item.Name;
         }
     }
