@@ -61,7 +61,7 @@
 もう……においとか、絶対嗅いだりしないでよね。=\nGeez...Don't you dare try to sniff me now.
 気にしないって、そういう問題じゃ……もう……においとか、絶対嗅いだりしないでよね。=You don't mind? But that's not the problem...\nGeez...Don't you dare try to sniff me now.
 
-		#if "Oh、That would be nice"
+		#if "Oh、that would be nice"
 ……もしかして、おじさんってそういう趣味の人？=...By any chance, Oji-san, are you into this kind of thing?
 う、うん。しよっか。=O-Ok. Shall we?
 Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
@@ -137,7 +137,7 @@ _カモミールにする(あと<param%3D選択肢１>)= Chamomile tea
 
 #if "Ask for Yuu"
 
-うん、お茶にしようか。ちょっと待っててね。=I'll make some tea. Give me a bit.
+うん、お茶にしようか。ちょっと待っててね。=I'll make some tea. Wait a bit.
 おまたせー。今日は紅茶にしてみたよ。=Sorry for the wait. I made black tea today.
 はぁ……おいしいね。なんか久々だなー、こういうの。=Wow...It tastes really good.\nSomething like this once in a while is really nice.
 

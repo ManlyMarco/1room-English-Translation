@@ -551,12 +551,12 @@ Dialogue:
 　う、うーん……じゃあ、いいのかな……？= I-I see...Well, maybe it's ok then...?
 私の倹約のおかげ？　食費がだいぶ浮いてるから？= Thanks to my economizing? Did our food expenses go down?
 ……あ。例の貯金、そんなに貯まってたんだ。=...Ah. We've saved up quite a bit though.
-……あ。例の貯金、そんなに貯まってたんだ。私の倹約のおかげ？　食費がだいぶ浮いてるから？　う、うーん……じゃあ、いいのかな……？=..Ah. We've saved up quite a bit though. Thanks to my economizing? Did our food expenses went down? I-I see...Well, maybe it's ok then...?
+……あ。例の貯金、そんなに貯まってたんだ。私の倹約のおかげ？　食費がだいぶ浮いてるから？　う、うーん……じゃあ、いいのかな……？=..Ah. We've saved up quite a bit though. Thanks to my economizing? Did our food expenses go down? I-I see...Well, maybe it's ok then...?
 おじさん、いつも頑張ってるもんねえ。= Oji-san, you're always working so hard after all.
 たまには贅沢しちゃおっか。=Splurging sometimes is fine.
-たまには贅沢しちゃおっか。おじさん、いつも頑張ってるもんねえ。=Splurging sometimes is fine. Oji-san, you're always working so hard after all.
+たまには贅沢しちゃおっか。おじさん、いつも頑張ってるもんねえ。=Splurging sometime is fine. Oji-san, you're always working so hard after all.
 
-温泉旅行イベントが解禁されました。夕と話して予定を決めましょう。=Hot springs travel event unlocked. Talk to Yuu and decide the schedule.
+温泉旅行イベントが解禁されました。夕と話して予定を決めましょう。=Hot springs travel event unlocked. Talk to Yuu and decide on the schedule.
 
 所持数=Number in possession
 お届け予定：明日=Arrival Date: Tomorrow
