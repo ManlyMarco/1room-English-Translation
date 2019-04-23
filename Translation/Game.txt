@@ -130,7 +130,7 @@
 
 // First Date
 穏やかな休日の朝、あなたはうっすらと目を覚ました。=On a calm holiday morning, you were slightly awake.
-いつも早起きしている夕も、今日は隣ですやすやと寝息を立てている。=Yuu, who's always been waking up early, was also sleeping next to you.
+いつも早起きしている夕も、今日は隣ですやすやと寝息を立てている。=Yuu, who had always been waking up early, was also sleeping next to you.
 貴重な休日だ。どう過ごそうか。=It was a precious day off. What would you do?
 
 ゆっくり休む=Relax
