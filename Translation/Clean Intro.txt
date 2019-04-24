@@ -101,7 +101,7 @@
 そっと頭を撫でると、夕は穏やかな表情を浮かべて、静かな寝息を立て始めた。=You gently caressed her head, her expression eased and she returned to sleep shortly.
 安らかな寝顔を眺めている内に、あなたにもだんだんと眠気の波が押し寄せてくる。=As you watched her peaceful sleeping face, waves of drowsiness gradually washed over.
 その夜。あなたは夕と寄り添いながら、絶えず心に付きまとっていた不安も忘れて、=That night, while sleeping with her, you forgot the worries that were constantly on your mind.
-本当に久しぶりに、深い眠りについた。=You had a well sleep for the first time in forever.
+本当に久しぶりに、深い眠りについた。=You slept well for the first time in forever.
 
 		#If "Rape her"
 		#Goes to Rape Scene
