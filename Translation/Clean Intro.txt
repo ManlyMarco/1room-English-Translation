@@ -1,12 +1,12 @@
-// Intro 
+﻿// Intro 
 
-都内のＩＴ企業で開発エンジニアとして働くあなたは、=You work as a development engineer at an IT company in Tokyo.
+都内のＩＴ企業で開発エンジニアとして働くあなたは、=You worked as a development engineer at an IT company in Tokyo.
 今日も閑散とした駅のホームで終電を待っていた。=Today was an ordinary day. You were waiting for the last train at the station when...
-「過労自殺数、過去最多。変わらぬ労働環境」="Number of deaths due to overwork skyrocket, the highest number ever! It's not uncommon due to working conditions."
+「過労自殺数、過去最多。変わらぬ労働環境」="Number of deaths due to overwork skyrocket, the highest number ever! It's not uncommon due to the working conditions."
 おじさん、今すぐしんじゃいそうな顔してるね。=Oji-san, your face looks like you're about to die.
 ……大丈夫？=...Are you alright?
 
-		#if "……a student"
+		#if "……A student"
 
 えっ、私？　……そうだけど。=Eh, Me?\n...I am but
 こんな時間に出歩くなって……人の心配してる場合？=Why am I walking this late outside?...\nAre you worried about me?
@@ -24,14 +24,14 @@
 		#Continuation
 ……私も、困ってるんだよねえ。=...I'm in some trouble, you see.
 助けてくれないかなあ。=I was wondering if you could help me.
-……代わりに、おじさんのことを癒やしてあげるからさ。=...In exchange, I will "heal" you Oji-san.
+……代わりに、おじさんのことを癒やしてあげるからさ。=...In exchange, I will "heal" you, Oji-san.
 突然声をかけてきた少女は、自らを夕と名乗った。=After talking for a bit, the girl identified herself as <color%3D#fca4bc>Yuu<color%3Dwhite>
 ……そう、一週間。=...Yes, one week.
 来週の土曜の朝まで……おじさんの家に、泊めてもらえないかなって。=I was wondering if I could stay at Oji-san's house until next Saturday morning...
 なんでって言われても……別に、大した理由じゃないよ。=Even if I tell you why...\nI don't think it'll be a good enough reason.
 ……ちょっと、家に帰りたくないだけ。=...For a while, I just don't want to go home.
 
-夕は年頃の娘にしては人なつっこく、道すがらもしきりにあなたに向かって話しかけてくる。=As you were walking along with her, you noticed that Yuu is quite mature for a girl her age.
+夕は年頃の娘にしては人なつっこく、道すがらもしきりにあなたに向かって話しかけてくる。=As you were walking along with her, you noticed that Yuu was quite mature for a girl her age.
 
 そうして人気のない路地に入ると、少し声を潜めて本題を切り出してきた。=After entering a dark alley, she started to say something.
 あの、さ……もちろん、タダでとは言わないよ。=Oh...Of course it won't be for free.
@@ -40,22 +40,22 @@
 エッチなことも、避妊さえすれば、何をしてもいいよ。=\nEven ecchi things, as long as you use a condom, you can do anything.
 ……だめ、かな？=...So, can I?
 
-		#If "Accept her Offer"
+		#If "Accept her offer"
 ……良かったぁ。断られたらどうしようかと思ったよ。=...Thank goodness.\nI'm not sure what I'd do if you refused.
 
-		#if "Reject her Offer"
+		#if "Reject her offer"
 ……えっ。=...Eh?
 関わり合いにならないでくれと言って、あなたは彼女を冷たく突き放した。=You acted cold-hearted and told her that you didn't want to get involved with her.
 ……そんな……嘘でしょ……？=...That...is a lie right...?\n
 　待ってよ、おじさん……。=Wait, Oji-san...
 そうして早足にその場を離れる。後ろから足音は聞こえてこない。=You ran away until you could no longer hear her footsteps behind you.
 夕はその場に立ち尽くして、全く動けずにいるようだった。=Yuu was still standing in the same spot, frozen in place...
-……そもそも終電もない夜の街で、少女がどこに行けるというのだろう。=...This late at night and no trains working, where could that girl could go.
+……そもそも終電もない夜の街で、少女がどこに行けるというのだろう。=...This late at night and no trains were working, where could that girl go.
 不意に、夕がいるはずの場所に荒々しく車が立ち止まる音が聞こえてくる。=Unexpectedly, the sound of a braking car could be heard from the place where Yuu was supposed to be.
 
 		# Continuation
-どんな事情があるのかはわからないが、どうせくだらない人生だ。=I don't know what kind of problems she's going through.
-少しでも良い思いが出来るならそれでいい。= But if a good for nothing like me can help her even if a little, it's fine.
+どんな事情があるのかはわからないが、どうせくだらない人生だ。=You didn't know what kind of problems she was going through.
+少しでも良い思いが出来るならそれでいい。= But if a good for nothing like you could help her even just a little, it was fine.
 半ば自棄になっていたあなたは、自宅のアパートへと彼女を招いた……。=You invited the girl who was desperate a moment ago inside your apartment...
 ……お邪魔します。=...Excuse me.
 あはは……本当に来ちゃった。=Ahaha...I'm really inside.
@@ -71,7 +71,7 @@
 あ……えっと、先にシャワー浴びてきてもいい？=Ah...\nUm, can I take a shower first?
 
 		# if "……."
-も、もう……じろじろ見てないでなんとか言ってよ……=G-Geez...\nStop staring at me and say something...
+も、もう……じろじろ見てないでなんとか言ってよ……=G-Geez...\nStop staring at me and say something already...
 良いんだよね？=\nCan I?
 
 		# if "*nod*" => Continue story
@@ -79,35 +79,35 @@
 		# Continuation
 特に断る理由もないので頷くと、そそくさと浴室へ向かっていく。=Since there was no reason to refuse, you nodded and let her go to the bathroom.
 脱ぎ散らかされた制服のポケットからは、彼女のパスケースがこぼれ落ちていた。=Her pass case fell down from the pocket of the uncluttered uniform.
-元に戻しておこうと近付くと、表面に収められていた学生証が目に留まる。=While you were putting it back, you couldn't help but see her Student ID that was showing on the cover.
+元に戻しておこうと近付くと、表面に収められていた学生証が目に留まる。=While you were putting it back, you couldn't help but saw her Student ID that was showing on the cover.
 「芹沢 夕　○○女子学院高等部Ｘ年」="Serizawa Yuu ○○ Girl's High School X Year"
-……検索して調べてみると、有名なお嬢様学校のようだ。=...If you remember correctly, it's a famous All-Girls Highschool.
-強請たかりの類いにしては脇が甘く、援助交際をするような風にも見えない。=This might be a temptation to exploit her vulnerability, however I'm not that kind of person.
-家庭に問題があるのか、面倒ごとに巻き込まれはしないか、=You wondered what could have happened at her home. And what if it could get you in trouble too?
+……検索して調べてみると、有名なお嬢様学校のようだ。=...If you remembered correctly, it was a famous All-Girls Highschool.
+強請たかりの類いにしては脇が甘く、援助交際をするような風にも見えない。=It might be tempting to exploit her vulnerability, however, you were not that kind of person.
+家庭に問題があるのか、面倒ごとに巻き込まれはしないか、=You wondered what could have happened at her home. And what if it could get you in trouble, too?
 どうにでもなれとあなたは考えるのを止めて、ベッドの上に仰向けに倒れる。= You stopped thinking about it and fell down on your bed.
 色々と気になることはあるが、=There were just too many things to worry about.
 ……遠くから聞こえるシャワーの音が、耳に心地良い。=...The sound of the shower seemed far away, soothing to listen to.
-疲れ切っていたあなたの意識は、少しずつまどろみの中へと落ちていった……。=Your consciousness was fading due to exhaustion and you began to slowly fall asleep...
+疲れ切っていたあなたの意識は、少しずつまどろみの中へと落ちていった……。=Your consciousness was fading due to the exhaustion and you began to slowly fall asleep...
 ……おじさん、本当に疲れてたんだね。=...Oji-san, you're really exhausted.
-よしよし……今日はもう、ゆっくり休んで良いんだからね。=It's ok it's ok...\nIt'll be fine, so take a good rest today.
+よしよし……今日はもう、ゆっくり休んで良いんだからね。=It's ok, it's ok...\nIt'll be fine, so take a good rest today.
 深夜。あなたは決まって、悪夢にうなされ目を覚ましていた。=Midnight. You woke up from a nightmare.
-仕事の重圧とストレスは絶えず心に付きまとい、眠っているときも心が安まることはない。=The pressure and stress from work are constantly on your mind, you can't even feel at ease when asleep.
+仕事の重圧とストレスは絶えず心に付きまとい、眠っているときも心が安まることはない。=The pressure and stress from work were constantly on your mind, you couldn't even feel at ease when asleep.
 ……不意に石鹸の香りが鼻をかすめて、あなたは薄目を開く。=...Suddenly the scent of soap grazed your nose and you looked towards its direction.
-いつの間にか部屋の電気は消えて、隣には連れてきた少女……夕が裸で寝そべっていた。=In the dark room you noticed <color%3D#fca4bc>Yuu<color%3Dwhite>, the girl you brought home, laying naked besides you.
-夕は恐い夢でも見ているのか、すがりつくように、あなたのシャツをぎゅっと掴んでいる。=Yuu seemed to be having a nightmare and is clinging really tightly to your shirt.
+いつの間にか部屋の電気は消えて、隣には連れてきた少女……夕が裸で寝そべっていた。=In the dark room, you noticed <color%3D#fca4bc>Yuu<color%3Dwhite>, the girl you brought home, lying naked beside you.
+夕は恐い夢でも見ているのか、すがりつくように、あなたのシャツをぎゅっと掴んでいる。=Yuu seemed to be having a nightmare and was clinging really tightly to your shirt.
 
 		#If "caress her"
 ん……。=Hmm...
-そっと頭を撫でると、夕は穏やかな表情を浮かべて、静かな寝息を立て始めた。=You gently caressed her head, her expression eases and she returns to sleep shortly.
-安らかな寝顔を眺めている内に、あなたにもだんだんと眠気の波が押し寄せてくる。=As you watch her peaceful sleeping face, waves of drowsiness gradually washed over.
+そっと頭を撫でると、夕は穏やかな表情を浮かべて、静かな寝息を立て始めた。=You gently caressed her head, her expression eased and she returned to sleep shortly.
+安らかな寝顔を眺めている内に、あなたにもだんだんと眠気の波が押し寄せてくる。=As you watched her peaceful sleeping face, waves of drowsiness gradually washed over.
 その夜。あなたは夕と寄り添いながら、絶えず心に付きまとっていた不安も忘れて、=That night, while sleeping with her, you forgot the worries that were constantly on your mind.
-本当に久しぶりに、深い眠りについた。=You had a slept well for the first time in forever.
+本当に久しぶりに、深い眠りについた。=You had a well sleep for the first time in forever.
 
 		#If "Rape her"
 		#Goes to Rape Scene
 目が覚めると、部屋の中に夕の姿はなかった。=After you regained your consciousness Yuu was no longer in the room.
 財布がなくなっているようなこともなく、何もかもがそのままだった。=There was nothing missing, even your purse was where you left it.
-つまりあなたはいつものように会社に向かい、激務に追われ、そして……。=In other words, you will go to your workplace as usual and then...
+つまりあなたはいつものように会社に向かい、激務に追われ、そして……。=In other words, you would just go to your workplace as usual and then...
 
 		#Continuation
 ふわぁ……=Fuwaa...
@@ -118,11 +118,11 @@
 ……ところで、どうしたの？　スーツなんか着て。=...By the way, why are you wearing your suit?
 ……え、今日も仕事？　日曜だよ？=...Eh, you're working today?\nIt's Sunday, isn't it?
 夕方過ぎには帰ってくるって？　う、うん……いってらっしゃーい……。=You'll be back by evening? \nO-Ok...Have a safe trip...
-物音に目を覚ました夕に見送られながら、あなたは慌ただしく職場へと向かう。=After being sent off by Yuu, you head towards your workplace.
+物音に目を覚ました夕に見送られながら、あなたは慌ただしく職場へと向かう。=After being sent off by Yuu, you headed towards your workplace.
 相変わらずの休日出勤だったが、よく眠れたおかげで体が軽い。=It was a regular day of office work, but thanks to being well rested your body felt light.
 ……手際よく仕事を片付けて、いつもよりだいぶ早く会社を出ることが出来た。=...After tidying up your work, you were able to go home earlier than usual.
-わかりやすいところに合い鍵と金を置いておいたが、夕はどうしているだろうか。=I put money and a duplicate key where it was easy to see. I wonder if Yuu is doing fine.
-一週間とは言っていたが、その理由もわからない。あっさりと姿を消していてもおかしくはない。=She said it'd be for a week, but I don't know her reasons. It wouldn't be surprising if she suddenly disappeared.
+わかりやすいところに合い鍵と金を置いておいたが、夕はどうしているだろうか。=You put money and a duplicate key where it was easy to see. You wondered if Yuu was doing fine.
+一週間とは言っていたが、その理由もわからない。あっさりと姿を消していてもおかしくはない。=She said it'd be for a week, but you didn't know her reasons. It wouldn't be surprising if she suddenly disappeared.
 そんなことを考えている内に自宅まで戻ってくると、なんだか玄関の向こうから良い匂いが漂ってくる。=<size%3D28>You were wondering about such things while returning home, but somehow there was a pleasant aroma coming from the other side of the door.</size>
 おかえりなさい。=Welcome back.
 お疲れ様。休日なのに大変だったね。=Thanks for the hard work.\nEven though it was a day off.

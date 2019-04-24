@@ -1,4 +1,4 @@
-//Main Menu
+﻿//Main Menu
 
 カテゴリ名=Category name
 キャンセル=Cancel
@@ -43,27 +43,27 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 目隠し=Blindfold
 なし=None
 
-初めてお口で= Her first Blowjob
+初めてお口で= Her first blowjob
 上手になった？=Gotten better?
 体操服で=In gym clothes
 初めてのキス=First kiss
-ラブホのベッドで=Love Hotel Bed
+ラブホのベッドで=Love hotel bed
 登校前に=Before attending school
 休日の朝に=On a holiday morning
 眠る夕を=Sleeping Yuu
 一人でこっそり=Secretly alone
 初めてのクンニ=First time cunnilingus
 我慢の限界=Limit of patience
-ラブホのお風呂で=Love Hotel Bath
+ラブホのお風呂で=Love hotel bath
 眠るおじさんを=Sleeping Oji-san
 貸切露天で=In the open-air bath
 旅館の夜=Inn at night
 朝まで何度も=Many times until morning
 エピローグ=Epilogue
  
-０１：夕に口でしてもらう=01: Have Yuu give you a blowjob.
-０２：何度も口でしてもらっていると…？=02: When you give a blowjob many times...?
-０３：金曜の夜、部屋に置かれている体操着袋をクリック=03: On Friday at night. Click on Yuu's gym bag.
+０１：夕に口でしてもらう=01: Let Yuu give you a blowjob.
+０２：何度も口でしてもらっていると…？=02: When you are given blowjob many times...?
+０３：金曜の夜、部屋に置かれている体操着袋をクリック=03: On friday at night. Click on Yuu's gym bag.
 ０４：休日に夕をデートに誘う=04: Invite Yuu to a holiday date.
 ０５：０４の続き=05: Continuation of 04.
 ０６：早めに休んで平日の朝を迎える（０４以降）=06: Take a rest before going to work on a weekday. (after 04)
@@ -73,7 +73,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 １０：０９をもう一度見に行くと…？=10: When will you do it again...?
 １１：１０の続き=11: Continuation of 10.
 １２：マＸＸＸＸＸニを買ってから休日に出かける（０４以降）=12: Go out on a holiday after you bought a... (after 04)
-１３：しばらく放置したまま、早めに休むと…？（０４以降＆０８以降）=13: What happens if you go to sleep early after taking a bath? (after 04 or 08)
+１３：しばらく放置したまま、早めに休むと…？（０４以降＆０８以降）=13: What happens if you go to sleep early because you are too tired? (after 04 or 08)
 Ａ１：旅行ガイドを買ってから、部屋画面で夕を旅行に誘う（０４以降）=A1: After buying a travel guide, invite Yuu to travel on the room screen. (after 04)
 Ａ２：Ａ１の続き=A2: Continuation of A1.
 Ａ３：Ａ２の続き=A3: Continuation of A2.
@@ -149,10 +149,10 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 足を開く=Open her legs
 股間を弄る=Touch her clit
 手を離す(股間)=Stop using fingers (Clit)
-指を抜く=Remove Fingers
-指を入れる=Insert Fingers
-尻を揉む=Grope Buttocks
-手を離す(尻)=Release your Hand (Butt)
+指を抜く=Remove fingers
+指を入れる=Insert fingers
+尻を揉む=Grope buttocks
+手を離す(尻)=Release your hand (Butt)
 股間に当てる(バイブ)=Press against slit (Vibe)
 離す(バイブ)=Remove(Vibe)
 ＯＮ(バイブ)=ON (Vibe)
@@ -175,7 +175,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 挿入する=Insert penis
 ……生で、そのまま挿入した。=I just inserted it raw...
 
-ゆっくり動く=Move Slowly
+ゆっくり動く=Move slowly
 浅めに戻す=Move very gently
 緩やかに戻す=Move gently
 もっと深く=Go deeper
@@ -199,18 +199,18 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 夕はタッチして呼びかけることもできます。=You can also touch Yuu by clicking on her.
 選択肢にはLPを必要とする項目が表示されることがあります。=Actions requiring LP may be displayed in choices.
 持っているアイテムを使ったり、好きな衣装に着替えてもらうよう頼むことができます。=You can ask her to use a specific item on the inventory or change to her favorite costume.
-部屋エッチでは、夕の体を直接タッチして愛撫することもできます。=During ecchi, you can also caress Yuu by touching her body directly.
+部屋エッチでは、夕の体を直接タッチして愛撫することもできます。=During sex, you can also caress Yuu by touching her body directly.
 Ａキー：自動文章送り\nＥＳＣキー：オプション=A- key: Auto read mode \nESC key: Open config.
 最新の配達ドローンによる送料無料と高速配送がウリの、人気通販サイトです。=Buy anything from the popular online store "Uri", free shipping by tomorrow evening with our drones.
 ローターを持っている場合、画面内の夕に対して使うことができます。=If you have a rotor, you can use it on Yuu during the ecchi scene.
-表示が？？？になっている項目は、特殊なアイテムを購入することで数値が表示されるようになります。=Can you see the ??? Numbers will appear when you purchase special items.
+表示が？？？になっている項目は、特殊なアイテムを購入することで数値が表示されるようになります。=You can see the ??? numbers which will appear when you purchase special items.
 入浴にはLPの回復と、当日中のパラメータ上昇量を高める効果があります。=Bathing has the effect of recovering LP and increasing the amount you gain for the rest of the day.
 ホイール↑：バックログ右クリック：ウィンドウ消去=Scroll Up：Back Log\nRight click：Hide UI
 ゲーム中にタイトルに戻りたいときは、一度オプションを開いてみてください。=If you want to return to the title screen, open the options menu.
-一度見たＨシーンはアルバムに登録され、タイトル画面から閲覧することができます。=After seeing a H scene, it will be registered in the album and can be viewed from the title screen.
+一度見たＨシーンはアルバムに登録され、タイトル画面から閲覧することができます。=After seeing a H-scene, it will be registered in the album and can be viewed from the title screen.
 ＣＴＲＬ：強制スキップＳキー：既読スキップ=ＣＴＲＬ：Force Skip\nＳ-Key：Skip read
 夕をタッチする部位によっては特別な反応が得られます。あまり触りすぎると……？=Depending on where you touch Yuu, she will give a different response. If you touch her too much...?
-注文した商品は翌日夕が受け取ってくれており、帰宅後に一緒に開封します。=Yuu will receive the items you ordered tomorrow evening and will open them together after you return.
+注文した商品は翌日夕が受け取ってくれており、帰宅後に一緒に開封します。=Yuu will receive the items you ordered tomorrow evening and will open them with you after you return.
 Ａキー：自動文章送りＥＳＣキー：オプション=Ａ-key：Automatic text\nＥＳＣ-key：Options
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -223,7 +223,7 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 夕とあなたの貯金額=Amount of your and Yuu's savings
 就寝までの残り行動回数=Remaining actions until bed time
 ショップ=Shop
-夕飯後。=After dinner
+夕飯後。=After dinner.
 ゲーム経過日数=Elapsed days
 [S]セーブ画面を開きます=[S] Open save screen
 [L]ロード画面を開きます=[L] Open the loading screen
@@ -246,12 +246,12 @@ Home Items:
 使う=Use
 コーヒー豆= Coffee beans
 行動回数が２回復する。さらに気分が良くなる=Has a good taste. Recover 2 AP.
-カモミール=Chamomile
+カモミール=Chamomile tea
 安眠効果のあるハーブティー=Herbal tea that induces drowsiness.
 ファッション雑誌=Fashion magazine
 女性服を選ぶ参考になりそう=It will be helpful to choose women's clothes.
 アダルト雑誌=Adult magazine
-アダルトグッズ特集が組まれている=Adult goods featured.
+アダルトグッズ特集が組まれている=Featuring adult goods.
 難しい技術書=Difficult skill book
 簡単な技術書=Simple skill book
 初歩的なことが書かれた入門書=An introductory book with basics written.
@@ -269,10 +269,10 @@ Clothing:
 Ｙシャツ= Your shirt
 着古して少しほつれた男物のＹシャツ=Your frayed shirt.
 パジャマ=Pajamas
-肌にやさしいコットン１００％=100% cotton、gentle to the skin.
+肌にやさしいコットン１００％=100% cotton, gentle to the skin.
 涼しげな部屋着=Cool room clothes
 ノースリーブとホットパンツ=Sleeveless top and hot pants.
-体操着=Gym Uniform
+体操着=Gym uniform
 半袖のシャツとブルマ=Short sleeved shirt and bloomers.
 よそ行きの私服=Casual clothing
 Ｖネックニットとフレアスカート=V-neck knit and flared skirt.
@@ -311,7 +311,7 @@ Trophies:
 全てのアイテムを取得した=I got all the items
 全体位解放=All Positions
 全ての体位を解放した=Unlocked all positions
-協力関係=Coop Relationship
+協力関係=Co-op Relationship
 同棲生活を無期限延長する=Extend cohabitation life indefinitely
 協力関係+=Cooperation +
 日曜を休めるようになる=Will be able to rest on sunday
@@ -338,11 +338,11 @@ Trophies:
 寝バック解禁=Laying Doggy
 体位選択に寝バックが追加される=Laying Doggy is unlocked
 後背位解禁=Doggy Style
-体位選択に後背位が追加される=Doggy style is unlocked
+体位選択に後背位が追加される=Doggy Style is unlocked
 松葉崩し解禁=Thigh Up
-体位選択に松葉崩しが追加される=Thigh up is unlocked
-まんぐり返し解禁=Pile Driver
-体位選択にまんぐり返しが追加される=Pile Driver is unlocked
+体位選択に松葉崩しが追加される=Thigh Up is unlocked
+まんぐり返し解禁=Piledriver
+体位選択にまんぐり返しが追加される=Piledriver is unlocked
 騎乗位解禁=Cowgirl
 背面騎乗位解禁= Reverse Cowgirl
 機嫌が良い時に上になってもらえる=Get up when you feel good
@@ -368,7 +368,7 @@ Trophies:
 安心と信頼の業界最安値ドローン便で最短翌日にお届け=Fast and reliable delivery service.\nReceive your order by tomorrow evening.
 
 Dialogue:
-そういえば、荷物届いてたよ。=By the way, your packaged arrived.
+そういえば、荷物届いてたよ。=By the way, your package arrived.
 おじさんって、コーヒーはちゃんと豆からいれてるんだ。=Oji-san, you like to grind up the beans yourself?
 やっぱり男の人はこういうところ、こだわってるんだねえ。= I guess men are particular about this.
 おじさんって、コーヒーはちゃんと豆からいれてるんだ。やっぱり男の人はこういうところ、こだわってるんだねえ。=Oji-san, you like to grind up the beans yourself? I guess men are particular about this.
@@ -407,8 +407,8 @@ Dialogue:
 人の心がわかれば仕事でも私生活でも便利？　ふぅん……。=It's useful in both work and private life to understand people? Hmm...
 あ、ぎゃるずじゃん。=Ah, a girls magazine.
 私が好きそうだと思って注文してくれたの？= Did you order it because you thought I'd liked it?
-あ、ぎゃるずじゃん。私が好きそうだと思って注文してくれたの？=Ah, a girls magazine. Did you order it because you thought I'd liked it?
-この表紙のモデルの子、好きなんだよね。着てる服もかわいー。=I like the model on the cover. Her clothes are nice too.
+あ、ぎゃるずじゃん。私が好きそうだと思って注文してくれたの？=Ah, a girls' magazine. Did you order it because you thought I'd liked it?
+この表紙のモデルの子、好きなんだよね。着てる服もかわいー。=I like the model on the cover. Her clothes are nice, too.
 うちってお堅い家だったから、薄着だったりオシャレなのはおねだりできなかったんだよね。=Since my house was so strict, I couldn't ask for anything fashionable.
 ありがと、おじさん。= Thank you, Oji-san.
 だから、こういうのは見てるだけで楽しいよ。=So it's fun just looking at these things.
@@ -421,7 +421,7 @@ Dialogue:
 ね……私も隣で、ちょっと読ませてもらっても良い？=Hey...Can you let me take a look?
 おじさんの仕事とか、パソコンとか、ちょっと興味あるんだよね。=I'm interested in Oji-san's work and computers.
 すごい……全然わかんないや。=Wow..I don't understand anything.
-プロって……働くって、大変なんだねぇ……。=Pros...Must be really tough...
+プロって……働くって、大変なんだねぇ……。=Being pros...must be really tough...
 	#After purchasing
 ……ノートＰＣを使っていると、相変わらず夕の視線を感じる。=...While using the laptop, you could feel Yuu's gaze.
 ……へっ？　そんなに気になるなら使ってみれば良いって？=...Eh? If I'm so interested why don't I try to use it?
@@ -462,7 +462,7 @@ Dialogue:
 ……そうだね、試してみればいっか。うふふ、ちょっと楽しみかも……=...Well, we can try. it Ufufu, I'm kind of looking forward to it...
 ……そうだね、試してみればいっか。うふふ、ちょっと楽しみかも……<color%3D#fca4bc>❤<color%3Dwhite>=...Well, we can try. it Ufufu, I'm kind of looking forward to it...<color%3D#fca4bc>❤<color%3Dwhite>
 	#Black lace underwear
-なんで下着って、黒いと大人っぽい感じがするんだろうね。=Why does... black underwear give off such a strong adult aura. 
+なんで下着って、黒いと大人っぽい感じがするんだろうね。=Why does... black underwear give off such a strong adult aura?
 女の子が好きで着けてるというより、見せることを意識してる感じがするのかな……？=Rather than wear it because they like it, do girls put these on expecting to be seen...?
 まあ、せっかく買ってもらったし……私もこれで、おじさんを悩殺してあげるよ。=Well, since you already bought it...I'll too use them to charm Oji-san.
 	#Easy Book
@@ -471,10 +471,10 @@ Dialogue:
 あ、また本買ったんだ。勉強熱心だねぇ。=Oh, you bought another book. I'm eager to study it.
 へっ、これは私に？　気になってたみたいだから？=Eh, this is for me? Because I seemed interested?
 私、頑張ってみるね。= I'll try my best.
-……あ、ありがとうおじさん。=...Oh, Thank you Oji-san.
-……あ、ありがとうおじさん。私、頑張ってみるね。=...Oh, Thank you Oji-san. I'll try my best.
+……あ、ありがとうおじさん。=...Oh, thank you, Oji-san.
+……あ、ありがとうおじさん。私、頑張ってみるね。=...Oh, thank you, Oji-san. I'll try my best.
 	#After pill
-もう、わざわざこんなもの買って……そんなに生でしたかったの？=Geez, you already bought something like this...Did you really want to do it raw?
+もう、わざわざこんなもの買って……そんなに生でしたかったの？=Geez, you already bought something like this...Do you really want to do it raw?
 まだ学生の私にお薬飲ませて中出ししたがるなんて、ひどいおじさんだね。=Giving medication to a student and wanting to cum inside, bad Oji-san.
 ……うふふ、冗談だって。ちゃんと約束は守ってくれてるし、使ってもいいよ。=...Ufufu, just kidding. You kept your promise, so it's ok if you use it.
 	#Lotion Bottle
@@ -492,7 +492,7 @@ Dialogue:
 これからのエッチの参考にしようって……どんなプレイさ！　バカー！=As reference for when we do it...What kind of play is this!? Idiot!
 	#Pink Rotor
 ん？　なにこれ顔のマッサージ機？=Hm? What is this facial massager?
-あはは、結構激しく震える。ちょっと強すぎだよこれ。=Ahaha, its quite strong. Maybe a bit too strong.
+あはは、結構激しく震える。ちょっと強すぎだよこれ。=Ahaha, it's quite strong. Maybe a bit too strong.
 それ、この前おじさんが買ったエッチな本だけど……。= It's the horny book that Oji-san bought...
 え？　本当の使い方はこれに載ってるって？=Huh? Is the true usage listed in this?
 え？　本当の使い方はこれに載ってるって？　それ、この前おじさんが買ったエッチな本だけど……。=Huh? Is the true usage listed in this? It's the horny book that Oji-san bought...
@@ -504,14 +504,14 @@ Dialogue:
 　ちょ、ちょっと……今試すのはやめて！=H-Hey...Stop it!
 ふぁっ<color%3D#fca4bc>❤<color%3Dwhite>　ちょ、ちょっと……今試すのはやめて！=Faa<color%3D#fca4bc>❤<color%3Dwhite>H-Hey...Stop it!
 	#Aphrodisiac Cream
-またそんな怪しいもの買って……別にいいけどさ。=You bought another suspicious thing...but it is good.
+またそんな怪しいもの買って……別にいいけどさ。=You bought another suspicious thing...but it's alright.
 ふぅん……。=Fuun...
 なになに……これを塗ったところは敏感になって、何度もイキやすく……=Wait what...It makes the applied area really sensitive...
 なになに……これを塗ったところは敏感になって、何度もイキやすく……ふぅん……。=Wait what...It makes the applied area really sensitive...Fuun...
 ……まぁ、おじさんが使いたいなら付き合ってあげてもいいよ。=...Well, if Oji-san wants to use it then it's fine.
 	#Vibe
 ……いくら私でも、さすがにこれの使い方は想像つくよ……ほんとにもう、エッチなんだから。=...Even though I can imagine how to use this...It already looks really naughty.
-でもさ、これっておじさん以外のを入れることになるんだけど……それでも良いの？=But, putting in something other than Oji-san...is that ok?
+でもさ、これっておじさん以外のを入れることになるんだけど……それでも良いの？=But, putting in something other than Oji-san's...is that ok?
 なんていうか、その……浮気になっちゃわない？=I mean, well...isn't it cheating?
 まあ、おじさんが使う分には、私は良いけどさあ……。=Well, if Oji-san is using it, then I'm fine with it...
 	#Maiden's Secret
@@ -551,19 +551,19 @@ Dialogue:
 　う、うーん……じゃあ、いいのかな……？= I-I see...Well, maybe it's ok then...?
 私の倹約のおかげ？　食費がだいぶ浮いてるから？= Thanks to my economizing? Did our food expenses go down?
 ……あ。例の貯金、そんなに貯まってたんだ。=...Ah. We've saved up quite a bit though.
-……あ。例の貯金、そんなに貯まってたんだ。私の倹約のおかげ？　食費がだいぶ浮いてるから？　う、うーん……じゃあ、いいのかな……？=..Ah. We've saved up quite a bit though. Thanks to my economizing? Did our food expenses went down? I-I see...Well, maybe it's ok then...?
+……あ。例の貯金、そんなに貯まってたんだ。私の倹約のおかげ？　食費がだいぶ浮いてるから？　う、うーん……じゃあ、いいのかな……？=..Ah. We've saved up quite a bit though. Thanks to my economizing? Did our food expenses go down? I-I see...Well, maybe it's ok then...?
 おじさん、いつも頑張ってるもんねえ。= Oji-san, you're always working so hard after all.
 たまには贅沢しちゃおっか。=Splurging sometimes is fine.
-たまには贅沢しちゃおっか。おじさん、いつも頑張ってるもんねえ。=Splurging sometimes is fine. Oji-san, you're always working so hard after all.
+たまには贅沢しちゃおっか。おじさん、いつも頑張ってるもんねえ。=Splurging sometime is fine. Oji-san, you're always working so hard after all.
 
-温泉旅行イベントが解禁されました。夕と話して予定を決めましょう。=Hot springs travel event unlocked. Talk to Yuu and decide the schedule.
+温泉旅行イベントが解禁されました。夕と話して予定を決めましょう。=Hot springs travel event unlocked. Talk to Yuu and decide on the schedule.
 
 所持数=Number in possession
 お届け予定：明日=Arrival Date: Tomorrow
 
 Home Items:
 コーヒー豆×5=Coffee beans×5
-カモミール×5=Chamomile×5
+カモミール×5=Chamomile tea×5
 
 Cart:
 カートの中身 0/3=Cart 0/3
