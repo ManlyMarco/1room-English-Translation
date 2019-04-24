@@ -23,7 +23,7 @@ If you want to submit any improvements [fork the repository](https://help.github
 Translations are split into three parts:
 1. The main part are the files inside the `Translation` folder, for most purposes this is the only folder you need to care about. They contain pairs of Japanese=English for most o the text in the game. Keep the Japanese part intact, only change the English part. After you edit the files you can press Alt+R to see the changes in the game (no need to restart).
 2. Files inside `Assets` folder are modifications to game asset files. Don't touch anything that isn't translated since it can break the game, only submit fixes to existing translations.
-3. Item names in the plugin source code. If they need changing, make sure you change their translations in the `Translation` folder as well.
+3. `Translation/GameItemTranslations.txt` contains item names for use by the plugin to translate some of the special screens. They are used for general translations as well.
 
 ## Credits
 - The Butler, DX5536, Helios7 - [Original translation project](https://f95zone.to/threads/1room-runaway-girl-the-butler-translation.18074/) and intial translations (around 25% of script and UI).
