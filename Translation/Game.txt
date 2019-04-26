@@ -15,7 +15,7 @@
 暮らしを良くするためのものって、いろいろあるよ。リラックスできるものとか、本とか……=There are many things we could use that money for. Like relaxing things, books...
 避妊具みたいに、エッチなことに使うものとかさ。=Even contraceptives, so we could do naughty things.
 私も街で配ってたゴム、一個だけ持ってるから今日は大丈夫だけど……=I have a spare one, they were distributing it in the city. So today is ok...
-明日からの分は、ちゃんとおじさんが用意してよね。=Though, you'll have to properly prepare it starting tomorrow.
+明日からの分は、ちゃんとおじさんが用意してよね。=Though, you'll have to properly prepare starting tomorrow.
 ……やっぱりエンコーじゃないかって顔してない？=...Don't look at me with that face, don't you want to do it?
 違うから、これは相互扶助の精神に基づくアレだから……。= It's not like that, I want to repay you in some way so...
 
@@ -72,7 +72,7 @@
 ……パパ……ママ……。=...Dad...Mom...
 ……一週間。さすがにそれだけ家を離れれば、なんらかの反応があるのが普通だとは思う。=...One week. There should be some sort of reaction if she disappeared for so long.
 切っ掛けさえあれば、彼らも対話に応じてくれるかも知れない。=If possible, perhaps they could talk things out.
-夕もまだ、そう信じているのだろうか。=You wondered if Yuu still thought of that.
+夕もまだ、そう信じているのだろうか。=You wondered if Yuu still thought that.
 
 	#if don't bother
 あなたは依然として疲れており、彼女の境遇を気遣う余裕はなかった。=You were already exhausted as it was, you couldn't afford to care for her.
@@ -124,7 +124,7 @@
 そう言うと夕はなぜか少し驚いて、すぐに真っ赤になって微笑んだ。=With that said, Yuu was a little surprised. She turned red and made a smile.
 ……相変わらず年頃の少女が考えていることはよくわからない。=...You still didn't know what girls her age were thinking.
 まあ、少しずつ話していけば良い。= Well, we could just talk and slowly get to understand each other more.
-……相変わらず年頃の少女が考えていることはよくわからない。まあ、少しずつ話していけば良い。=...I still don't know what girls her age were thinking. Well, we could just talk and slowly get to understand each other more.
+……相変わらず年頃の少女が考えていることはよくわからない。まあ、少しずつ話していけば良い。=...You still didn't know what girls her age were thinking. Well, we could just talk and slowly get to understand each other more.
 今のあなたには、彼女を気にかけるだけの余裕が生まれていた。=By now, a will to care for her was born in you.
 えへへ……おじさん、これからもよろしくね。=Ehehe...Oji-san, I'll be in your care again from now on.
 
@@ -189,17 +189,17 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 夕が行ってみたいと言うのでラーメン屋で腹ごなしをして、駅前でショッピングを楽しんだ。=Yuu wanted to try eating at the ramen shop. Afterwards, the two of you enjoyed shopping around the station square.
 
 // Hot Springs
-へえ。今度の土曜日、おやすみ取れそうなんだ？=Hey, you're going to get a day off next saturday, right?
+へえ。今度の土曜日、おやすみ取れそうなんだ？=Hey, you're going to get a day off next Saturday, right?
 　良かったねえ。= That's good.
 へえ。今度の土曜日、おやすみ取れそうなんだ？　良かったねえ。=Hey, you're going to get a day off next saturday, right? That's good.
-わ、私はいつでも大丈夫だよ。= I-I'm ok with whenever you are.
+わ、私はいつでも大丈夫だよ。= I-I'm ok with whenever.
 ……あ。前に話した温泉旅行、本当に行くんだ。=...Ah, I really want to go on the hot spring trip we talked about before.
-……あ。前に話した温泉旅行、本当に行くんだ。わ、私はいつでも大丈夫だよ。=...Ah, I really want to go on the hot spring trip we talked about before. I-I'm ok with whenever you are.
+……あ。前に話した温泉旅行、本当に行くんだ。わ、私はいつでも大丈夫だよ。=...Ah, I really want to go on the hot spring trip we talked about before. I-I'm ok with whenever.
 ノートＰＣから旅行サイトを開いて、事前に目をつけていた旅館を夕と相談する。=You opened a travel site on your laptop, and discussed with Yuu about potential inns.
-近場で和室、できれば風呂付き。土曜と日曜の一泊二日。すぐに話はまとまった=A nearby Japanese style room with a bath would be nice. You two settled on it for saturday and sunday.
+近場で和室、できれば風呂付き。土曜と日曜の一泊二日。すぐに話はまとまった=A nearby Japanese style room with a bath would be nice. You two settled on it for Saturday and Sunday.
 えへへ……楽しみだね。= Ehehe...I'm looking forward to it.
-……予約のボタン、押しちゃったね。=...I press the reservation button.
-……予約のボタン、押しちゃったね。えへへ……楽しみだね。=...I press the reservation button. Ehehe...I'm looking forward to it.
+……予約のボタン、押しちゃったね。=...I pressed the reservation button.
+……予約のボタン、押しちゃったね。えへへ……楽しみだね。=...I pressed the reservation button. Ehehe...I'm looking forward to it.
 
 いよいよ明日だね。準備はできてるよ。=It's finally tomorrow. I'm all ready.
 ……ちょっと早いけど、今日はもうお風呂入って寝よっか。=...It's a little early, but let's go bathe and sleep.
@@ -238,7 +238,7 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 その前にちょっと、一汗流さない？= But before that, did you not sweat a little?
 とりあえず、浴衣に着替えたいんだけど……=For now, I'd like to change to a yukata...
 とりあえず、浴衣に着替えたいんだけど……その前にちょっと、一汗流さない？=For now, I'd like to change to a yukata...But before that, did you not sweat a little?
-お部屋のお風呂は、いつでも入れるって言ってたよ。=I heard that the baths are always available. 
+お部屋のお風呂は、いつでも入れるって言ってたよ。=I heard that the room baths are always available.
 そんな目で訴えられては断れまい。=You couldn't refuse after seeing those eyes.
 あなたはゆっくり立ち上がると、浴衣を手に取って洗面所へと向かった。=You got up slowly and grabbed a yukata, then head to the bath.
 さっと服を脱ぎ捨てて、部屋に備え付けの貸切露天へと二人で入る。=You took off your clothes and entered the private open-air bath.
@@ -295,7 +295,7 @@ Ehehe...I wonder.良く似合ってる？　そ、そう……嬉しいな。=Eh
 お風呂でエッチとかねー……自宅じゃちょっと蒸し暑そうだしね。=Having sex in the bath...it'd be a little steamy at home.
 そう言って、夕は「またする？」と言わんばかりに挑発的な視線を送ってくる。=Having said that, Yuu gave you a provocative look as if asking "Do you want to do it again?"
 あなたは湯船にぷっかりと浮かぶ乳房へと、つい手を伸ばしそうになるのをぐっと堪えた。=You restrained from reaching out for her breasts that were floating in the bath.
-まだまだ、夜はこれからなのだ。=Not yet, it was still night time.
+まだまだ、夜はこれからなのだ。=Not yet, there was still night time.
 ふぅ。=Fuu.
 Hmm……ふぅ。=Hmm...Fuu.
 私、そろそろあがるね。またのぼせちゃいそうだし。=I think it's time for me to get out. I'm starting to feel dizzy again.
@@ -330,13 +330,13 @@ Hmm……ふぅ。=Hmm...Fuu.
 	Returning from work:
 共同生活に慣れないうちは、夕の状態はやや緊張気味からスタートします。=Yuu wasn't used to communal life, she seemed to be slightly tense and nervous.
 新しいマネージャーの方針で無茶な残業は無くなったが、減った仕事の量はそれほどでもない。=Although the new manager reduced overtime significantly, there was still a lot of work to be done.
-人手不足が解消するまで、当面は休日返上でヘルプに当たってほしい。部長は弱り顔でそういった。=There was a shortage of workers, so there would be no day off this week. It'd be nice there was more help so you could take sunday off.
+人手不足が解消するまで、当面は休日返上でヘルプに当たってほしい。部長は弱り顔でそういった。=There was a shortage of workers, so there would be no day off this week. It'd be nice there was more help so you could take Sunday off.
 なくて当然だった休日が、本当はあるものになっただけ、大したものだとあなたは思った。=The truth was that you now have an important person waiting for you at home.
-夕が来てから、あなたは自宅に帰るのがすっかり楽しみになっていた。=Ever since Yuu arrived, you looked forward to go home.
-最近はいつも、もっと早く仕事を片付ける方法はないか、あれこれと考えを巡らせている。=Recently, you've been thinking about more ways to finish my work faster.
+夕が来てから、あなたは自宅に帰るのがすっかり楽しみになっていた。=Ever since Yuu arrived, you looked forward to going home.
+最近はいつも、もっと早く仕事を片付ける方法はないか、あれこれと考えを巡らせている。=Recently, you've been thinking about more ways to finish your work faster.
 どうにもならなければマネージャーに相談してやろう……そう考えられるだけで、以前よりだいぶ気は楽だった。=Let's consult with the manager...Maybe we would find ways to improve the workflow.
 夕に手伝ってもらったおかげで、今週は随分とスケジュールに余裕ができた。=Thanks to Yuu's help, your schedule was much more lax this week.
-これなら日曜は休んでも問題ないだろうと、あなたは部長に話を取り付ける。=If this kept up, you could take sundays off without any issues. You would like to talk with your manager about it later.
+これなら日曜は休んでも問題ないだろうと、あなたは部長に話を取り付ける。=If this kept up, you could take Sundays off without any issues. You would like to talk with your manager about it later.
 ……仕事を持ち帰ってやらないと休めないのはどうかと思うが、とにかく今は夕とのまとまった時間ができるのが嬉しかった。=...You weren't sure if you would be able to rest properly without bringing work home. Regardless, you were happy to have more time with Yuu now.
 帰り道を歩きながら、あなたは休日の過ごし方を考える。=As you walked home, you thought about how to spend your day off.
 何しろしばらくぶりなので、何をすればいいのかわからない。夕と家でのんびりと過ごすか、あるいは彼女を誘って出かけてみようか……。=It's been a while, so I was not sure what to do. Relax at home with Yuu or invite her out...

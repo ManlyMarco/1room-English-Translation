@@ -62,8 +62,8 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 エピローグ=Epilogue
  
 ０１：夕に口でしてもらう=01: Let Yuu give you a blowjob.
-０２：何度も口でしてもらっていると…？=02: When you are given blowjob many times...?
-０３：金曜の夜、部屋に置かれている体操着袋をクリック=03: On friday at night. Click on Yuu's gym bag.
+０２：何度も口でしてもらっていると…？=02: When you are given a blowjob many times...?
+０３：金曜の夜、部屋に置かれている体操着袋をクリック=03: On Friday at night. Click on Yuu's gym bag.
 ０４：休日に夕をデートに誘う=04: Invite Yuu to a holiday date.
 ０５：０４の続き=05: Continuation of 04.
 ０６：早めに休んで平日の朝を迎える（０４以降）=06: Take a rest before going to work on a weekday. (after 04)
@@ -246,7 +246,7 @@ Home Items:
 使う=Use
 コーヒー豆= Coffee beans
 行動回数が２回復する。さらに気分が良くなる=Has a good taste. Recover 2 AP.
-カモミール=Chamomile tea
+カモミール=Chamomile
 安眠効果のあるハーブティー=Herbal tea that induces drowsiness.
 ファッション雑誌=Fashion magazine
 女性服を選ぶ参考になりそう=It will be helpful to choose women's clothes.
@@ -563,7 +563,7 @@ Dialogue:
 
 Home Items:
 コーヒー豆×5=Coffee beans×5
-カモミール×5=Chamomile tea×5
+カモミール×5=Chamomile×5
 
 Cart:
 カートの中身 0/3=Cart 0/3
