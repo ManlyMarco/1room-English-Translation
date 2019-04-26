@@ -99,6 +99,9 @@
 透視メガネＯＦＦ=Perceptive glasses OFF
 透視メガネＯＮ=Perceptive glasses ON
 
+[！]夕に着てもらう(LP100)=[!] Get Yuu to wear it (LP100)
+[！]任せる=[!]Entrust
+
 // Make Tea
 
 何を飲もうか……。=What should we drink...?

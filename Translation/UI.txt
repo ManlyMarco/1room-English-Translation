@@ -142,6 +142,9 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 パンツを戻す=Put back panties
 タイツを脱がす=Remove tights
 
+目隠しＯＮ=Blindfold ON
+目隠しＯＦＦ=Blindfold OFF
+
 #Comdom
 ゴムを着ける=Put on condom
 
@@ -477,6 +480,7 @@ Dialogue:
 もう、わざわざこんなもの買って……そんなに生でしたかったの？=Geez, you already bought something like this...Do you really want to do it raw?
 まだ学生の私にお薬飲ませて中出ししたがるなんて、ひどいおじさんだね。=Giving medication to a student and wanting to cum inside, bad Oji-san.
 ……うふふ、冗談だって。ちゃんと約束は守ってくれてるし、使ってもいいよ。=...Ufufu, just kidding. You kept your promise, so it's ok if you use it.
+……おじさんさえ良ければ、こんなものなくても生でさせてあげるけどね。=...If you're good Oji-san, I won't make you use such things when we do it raw.
 	#Lotion Bottle
 ……おじさん、私これ知ってるよ。潤滑ローションっていうんでしょ。=...Oji-san, I know what this is. It's a lubricating lotion.
 こ、このぐらい普通知ってるって。薬局にも置いてあるし……。=I know that much. They have them at pharmacies...
