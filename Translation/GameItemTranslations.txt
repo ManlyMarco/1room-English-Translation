@@ -27,3 +27,4 @@
 セミロング=Hair Down
 二つ結び=Low Twintails
 ポニーテール=Ponytail
+旅行ガイド=Travel guide
