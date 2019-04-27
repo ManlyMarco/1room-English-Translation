@@ -29,3 +29,4 @@ Translations are split into three parts:
 - The Butler, DX5536, Helios7 - [Original translation project](https://f95zone.to/threads/1room-runaway-girl-the-butler-translation.18074/) and intial translations (around 25% of script and UI).
 - [ManlyMarco](https://www.patreon.com/manlymarco) - Packaging, programming, testing, proofing and help with some translations.
 - WataThaBradicus - Revising the original translation and translating everything else (the remaining 75%).
+- DX5536 - Proofreading and testing.
