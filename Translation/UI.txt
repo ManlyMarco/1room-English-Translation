@@ -89,6 +89,11 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 安らぎ=Peace
 二人の時間=Two people's time
 小旅行=Small Trip
+
+部屋のＢＧＭを変更します。=Change the room's BGM.
+安らぎ(恋人以降)=Peace(After becoming lovers)
+穏やか(初期)=Gentle(First BGM)
+このまま=Leave as is
 -----------------------------------------------------------------------------------------------------------------------------
 // Her name
 夕=Yuu
@@ -172,7 +177,8 @@ Day2(日) あと5日=Day 2 (day) 5 more days
 クンニする=Lick her
 口を離す=Stop licking
 
-
+	#Uncertain 
+テンション高め=Increase tension
 
 #PENIS
 挿入する=Insert penis

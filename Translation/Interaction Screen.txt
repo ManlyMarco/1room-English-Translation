@@ -43,6 +43,11 @@
 	
 
 ……ん。しよっか？=...Nn. We're doing it?
+
+する=Yes
+しない=No
+見せただけかーい！=But you just showed it to me!
+
 ……お風呂まだだけど、いいの？=...I didn't take a bath yet, is that ok?
 へっ……ちょ、ちょっと待って。=Eee...W-Wait a moment.
 先にお風呂にしない？=\nWhy don't we take a bath first?
@@ -72,6 +77,8 @@ Aa...う、うん。しよっか。=Aa...O-Ok. Shall we?
 ……あはは。ごめん、なんかテンパってるね。=...Ahaha, Sorry, I don't even know what I'm saying.
 正直良くわかんないし、おじさんに決めてもらっていい？= Honestly, I don't have any experience with it, can Oji-san take the lead?
 あ、あと服とかって、脱いだほうがいいよね？　そのままする？=Oh, I think it may be better if I take off my clothes, right?
+あ……そういえば、おじさんまだお風呂入ってないじゃん。=Oh...Speaking of which, you haven't taken a bath yet Oji-san.
+私、汚いのは嫌だからね？　ほらほら、ちゃんと洗ってきて。=I dont like being dirty, so go wash yourself first.
 
 		#if "Use your mouth"
 う、うん。いいよ。=O-Ok. I'll do it...
@@ -382,6 +389,12 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 夕は明らかに口を滑らせたという風な顔で言いよどんでいる。=Yuu was making a face like she said something she shouldn't have.
 彼女の様子にあなたは引っ掛かりを覚えるが、今はまだ深く尋ねないことにした。=As you saw her complicated face, you decided to not probe any further.
 
+……ほら、話したとおり叔母さんの家だと無視されてるからさ。=...You know, it's like I said, I was neglected while living at my Aunt's home.
+自分の分は自分で作らなくちゃいけなかったんだよね。= I had to make meals for myself.
+……ほら、話したとおり叔母さんの家だと無視されてるからさ。自分の分は自分で作らなくちゃいけなかったんだよね。=...You know, it's like I said, I was neglected while living at my Aunt's home. I had to make meals for myself.
+まあ、それは全然良いんだけど……作ったものを食べてもらえないのはキツかったな。=Well, it was still fine and all... but having no one eat the food I made was a bit depressing.
+……ふふ、だから今は充実してるんだ。おじさんは本当においしそうに食べてくれるから。=...Fufu, I feel quite fulfilled now though. Oji-san is always eating my food so happily after all.
+
 ---------------------------------------------------------------
 // Watch TV
 #1
@@ -428,6 +441,8 @@ Kyaa ……ちょっとぉ、今こっそりめくろうとしたでしょー？
 えへへ……結構可愛いでしょ？　これ、気に入ってるんだ。=Ehehe...it's pretty cute isn't it? I really like this one.
 ……やっぱ男の人って白が好きなの？=...As I thought, Men like white, don't they?
 えへへ……どう？　色っぽい？=Ehehe...How is it? Sexy?
+
+やっぱ下着とかも……全部脱いだ方が良い、のかな？=After all underwear...is meant to be taken off right?
 
 #if "keep staring"
 あの……そんなに見つめられると、さすがに恥ずかしいんだけど。=Um...If you keep staring like that, I'll get embarrassed.
