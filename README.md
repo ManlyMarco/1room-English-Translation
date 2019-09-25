@@ -1,4 +1,6 @@
 # 1room English Translation
+**NOTE: An official English translation for 1room has been released by Akari Blast! The official translation is better than this one, you can get it [here](https://www.dlsite.com/ecchi-eng/work/=/product_id/RE228027.html).**
+
 Full English translation for the game 1room -Runaway Girl- (1room -家出少女-) by Akari Blast! This translation covers all in-game text - all script and UI.
 
 The translation does not modify any of the original game files. Instead it is using [BepInEx](https://github.com/BepInEx/BepInEx
